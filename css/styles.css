@@ -11694,15 +11694,15 @@ section#contact form#contactForm :-ms-input-placeholder {
 @keyframes animate {
     0%,
     100% {
-        background-image: url("../images/1.jpg");
+        background-image: url("../images/5.jpg");
     }
     25% {
-        background-image: url("../images/2.jpg");
+        background-image: url("../images/6.jpg");
     }
     50% {
-        background-image: url("../images/3.jpg");
+        background-image: url("../images/7.jpg");
     }
     75% {
-        background-image: url("../images/4.jpg");
+        background-image: url("../images/8.jpg");
     }
 }
