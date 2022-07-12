@@ -11706,3 +11706,15 @@ section#contact form#contactForm :-ms-input-placeholder {
         background-image: url("../images/8.jpg");
     }
 }
+.donation{
+    margin: 8%;
+}
+.donation-container{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.acc-details{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
