@@ -85,7 +85,8 @@
                 line-height: var(--bs-body-line-height);
                 color: var(--bs-body-color);
                 text-align: var(--bs-body-text-align);
-                background-color: #adb5bd;
+                background-image:linear-gradient(to bottom,white, #adb5bd, #6c757d);
+                /* background-color:#6c757d ; */
                 -webkit-text-size-adjust: 100%;
                 -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
             }
@@ -8355,6 +8356,7 @@
             
             .text-muted {
                 --bs-text-opacity: 1;
+                font-weight: bold;
                 color: black !important;
             }
             
@@ -11440,7 +11442,7 @@
                 margin-left: 0;
                 text-align: center;
                 color: white;
-                border: 7px solid #e9ecef;
+                border: 7px solid #ffca3a;
                 border-radius: 100%;
                 background-color: #ffc800;
             }
@@ -11489,12 +11491,12 @@
             
             .timeline .timeline-body>ul,
             .timeline .timeline-body>p {
-                border-style: solid;
+                /* border-style: solid;
                 border-width: 2px;
-                border-radius: 20px;
+                border-radius: 20px; */
                 padding: 1rem;
                 border-color: black;
-                background-color: var(--bs-yellow);
+                /* background-color: var(--bs-yellow); */
                 margin-bottom: 0;
                 font-size: larger;
             }
@@ -11721,12 +11723,12 @@
             }
             
             .text-center h2 {
-                color: #1b4332;
+                color: #5f0f40;
                 border-bottom: #8f2d56;
                 padding: 2rem;
                 transform: (-50%, -50%);
                 align-items: center;
-                text-shadow: 2px 2px #ffc800;
+                /* text-shadow: 2px 2px black; */
             }
             
             #text1 {
@@ -11749,12 +11751,15 @@
             
             #text2 img {
                 height: 100%;
-                border-radius: 10%;
+                border-radius: 10px;
             }
             
             @media (max-width: 1400px) {
                 #text2 img {
-                    height: 400px;
+                    height: 300px;
+                }
+                #text1 h3 {
+                    font-size: 20px;
                 }
             }
             
@@ -11815,3 +11820,26 @@
             #details p {
                 color: white;
             }
+            .missionvision{
+
+                display: flex;
+            }
+           
+            .icon{
+
+                width: 100px;
+                height: 100px;
+                margin-top: 105px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+            .missionvision h2{
+                color: #5f0f40;
+                border-bottom: #8f2d56;
+                padding-top: 2rem;
+                padding-left: 2rem;
+                padding-right: 2rem;
+                transform: (-50%, -50%);
+                align-items: center;
+            }
+            
