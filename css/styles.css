@@ -11621,8 +11621,8 @@
         
         section#contact form#contactForm .form-group input.form-control {
             height: auto;
-            width: 100%;
-            min-width: 30rem;
+            width: 200%;
+            margin-right: 10px;
         }
         
         section#contact form#contactForm .form-group-textarea {
@@ -11631,9 +11631,8 @@
         
         section#contact form#contactForm .form-group-textarea textarea {
             height: 100%;
-            width: 50%;
-            min-height: 10rem;
-            min-width: 30rem;
+            width: 200%;
+            margin-right: 10px;
         }
         
         section#contact form#contactForm p.help-block {
@@ -11792,39 +11791,6 @@
             }
         }
         
-        #gform {
-            display: flex;
-            flex-direction: column;
-            background-color: #262e3e;
-            height: 100%;
-            width: 50%;
-        }
-        
-        #gform h3 {
-            display: inline-flex;
-            color: white;
-            padding: 5%;
-            justify-content: center;
-            align-items: center;
-        }
-        
-        #arghya {
-            display: flex;
-            flex-direction: row;
-            height: auto;
-            min-width: 40%;
-        }
-        
-        #details {
-            margin-left: 55px;
-            height: 100%;
-            width: 50%;
-        }
-        
-        #details p {
-            color: white;
-        }
-        
         .missionvision {
             display: flex;
         }
@@ -11859,21 +11825,83 @@
             margin-top: 41px;
         }
         /*address-hover */
+        /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+        
+        .icon-bar {
+            position: fixed;
+            top: 50%;
+            z-index: 1;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+        /* Style the icon bar links */
+        
+        .icon-bar a {
+            display: block;
+            text-align: center;
+            padding: 16px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+            color: white;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 50px;
+        }
+        /* Style the social media icons with color, if you want */
+        
+        .icon-bar a:hover {
+            background-color: #000;
+        }
+        
+        .facebook {
+            background: #3B5998;
+            color: white;
+        }
+        
+        .twitter {
+            background: green;
+            color: white;
+        }
+        
+        #gform {
+            display: flex;
+            flex-direction: column;
+            background-color: #262e3e;
+            height: 100%;
+            width: 50%;
+        }
+        
+        #gform h3 {
+            display: inline-flex;
+            color: white;
+            padding: 5%;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #arghya {
+            display: flex;
+            flex-direction: row;
+            height: auto;
+            min-width: 40%;
+        }
+        
+        #details {
+            margin-left: 55px;
+            height: 100%;
+            width: 50%;
+        }
+        
+        #details p {
+            color: white;
+        }
         
         .card1 {
-            text-align: left;
-            margin-right: 40%;
-            margin-left: 40%;
-            width: 350px;
-            height: 400px;
-            background: white;
-            box-shadow: 0px 0px 0px grey;
-            -webkit-transition: box-shadow .6s ease-out;
-            box-shadow: .8px .9px 3px #5361da; */
             position: relative;
             overflow: hidden;
             background: #fff;
-            padding: 15px 0px;
+            padding: 15px 20px;
             margin-bottom: 30px;
             -webkit-transition: all 0.5s ease;
             -moz-transition: all 0.5s ease;
@@ -11882,12 +11910,10 @@
             box-shadow: 0px 2px 8px rgb(0 0 0 / 7%);
             border: 1px solid #f1f2f3;
             cursor: pointer;
+            border-radius: 10px;
         }
         
         .card1:hover {
-            /* box-shadow: 1px 8px 20px #5361da;
-            cursor: pointer;
-            -webkit-transition: box-shadow .6s ease-in; */
             -moz-transform: scale(1.02);
             -webkit-transform: scale(1.02);
             -o-transform: scale(1.02);
@@ -11904,47 +11930,139 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            margin: 0px 26px;
         }
         
         #aaaa h3 {
             color: #fff;
             padding-bottom: 6%;
         }
-        /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
-.icon-bar {
-    position: fixed;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-  }
-  
-  /* Style the icon bar links */
-  .icon-bar a {
-    display: block;
-    text-align: center;
-    padding: 16px;
-    margin-bottom: 10px;
-    transition: all 0.3s ease;
-    color: white;
-    font-size: 20px;
-    text-decoration: none;
-    border-radius: 50px;
-  }
-
-  
-  /* Style the social media icons with color, if you want */
-  .icon-bar a:hover {
-    background-color: #000;
-  }
-  
-  .facebook {
-    background: #3B5998;
-    color: white;
-  }
-  
-  .twitter {
-    background:green;
-    color: white;
-  }
-  
+        
+        @media (max-width: 768px) {
+            #gform {
+                display: flex;
+                flex-direction: column;
+                background-color: #262e3e;
+                height: 100%;
+                width: 100%;
+            }
+            #arghya {
+                display: flex;
+                flex-direction: column;
+                height: auto;
+                min-width: 40%;
+                align-items: center;
+            }
+            section#contact form#contactForm .form-group input.form-control {
+                height: auto;
+                width: 100%;
+                margin-right: 10px;
+            }
+            section#contact form#contactForm .form-group-textarea textarea {
+                height: 100%;
+                width: 100%;
+                margin-right: 10px;
+            }
+            .card1 {
+                height: 100%;
+                width: 200%;
+            }
+        }
+        
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+        .social {
+            position: fixed;
+            top: 50%;
+            z-index: 1;
+        }
+        
+        .social ul {
+            padding: 0px;
+            -webkit-transform: translate(-270px, 0);
+            -moz-transform: translate(-270px, 0);
+            -ms-transform: translate(-270px, 0);
+            -o-transform: translate(-270px, 0);
+            transform: translate(-270px, 0);
+        }
+        
+        .social ul li {
+            display: block;
+            margin: 5px 35px;
+            background: rgba(0, 0, 0, 0.36);
+            width: 300px;
+            text-align: right;
+            padding: 10px;
+            -webkit-border-radius: 0 30px 30px 0;
+            -moz-border-radius: 0 30px 30px 0;
+            border-radius: 0 30px 30px 0;
+            -webkit-transition: all 1s;
+            -moz-transition: all 1s;
+            -ms-transition: all 1s;
+            -o-transition: all 1s;
+            transition: all 1s;
+        }
+        
+        .social ul li:hover {
+            -webkit-transform: translate(110px, 0);
+            -moz-transform: translate(110px, 0);
+            -ms-transform: translate(110px, 0);
+            -o-transform: translate(110px, 0);
+            transform: translate(110px, 0);
+            background: rgba(255, 255, 255, 0.4);
+        }
+        
+        .social ul li:hover a {
+            color: #000;
+        }
+        
+        .social ul li:hover i {
+            color: #fff;
+            background: red;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+            -webkit-transition: all 1s;
+            -moz-transition: all 1s;
+            -ms-transition: all 1s;
+            -o-transition: all 1s;
+            transition: all 1s;
+        }
+        
+        .social ul li i {
+            margin-left: 20px;
+            color: #000;
+            background: #fff;
+            padding: 10px;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            font-size: 20px;
+            background: #ffffff;
+            -webkit-transform: rotate(0deg);
+            -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+            -o-transform: rotate(0deg);
+            transform: rotate(0deg);
+            width: 15%;
+            border-radius: 50%;
+            padding-left: 10px;
+        }
+        
+        .social #pal {
+            width: 20%;
+            border-radius: 50%;
+            margin-left: 20px;
+            -webkit-transform: rotate(0deg);
+            -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+            -o-transform: rotate(0deg);
+            transform: rotate(0deg);
+        }
