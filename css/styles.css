@@ -11304,7 +11304,8 @@
         
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
             font-size: 1.25rem;
-            color: white;
+            font-weight: bolder;
+            color: black;
         }
         
         #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
@@ -12065,4 +12066,15 @@
             -ms-transform: rotate(0deg);
             -o-transform: rotate(0deg);
             transform: rotate(0deg);
+        }
+
+        #sahil {
+            display: flex;
+            flex-direction: row;
+            height: auto;
+            min-width: 50%;
+            align-items: center;
+        }
+        .donate-now{
+            margin-top: 10%;
         }
