@@ -11670,6 +11670,76 @@
                         font-weight: 700;
                         color: #ced4da;
                     }
+                    /* donate page  */
+                    
+                    section#a {
+                        /* background-color: #212529;
+                        background-image: url("../assets/img/map-image.png"); */
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+                    
+                    section#a .section-heading {
+                        color: #d81159;
+                    }
+                    
+                    section#contact form#contactForm .form-group {
+                        margin-bottom: 1.5rem;
+                    }
+                    
+                    section#a form#contactForm .form-group input,
+                    section#a form#contactForm .form-group textarea {
+                        padding: 1.25rem;
+                    }
+                    
+                    section#a form#contactForm .form-group input.form-control {
+                        height: auto;
+                        width: 200%;
+                        margin-right: 10px;
+                    }
+                    
+                    section#a form#contactForm .form-group-textarea {
+                        height: 100%;
+                    }
+                    
+                    section#a form#contactForm .form-group-textarea textarea {
+                        height: 100%;
+                        width: 200%;
+                        margin-right: 10px;
+                    }
+                    
+                    section#a form#contactForm p.help-block {
+                        margin: 0;
+                    }
+                    
+                    section#a form#contactForm .form-control:focus {
+                        border-color: #ffc800;
+                        box-shadow: none;
+                    }
+                    
+                    section#a form#contactForm ::-webkit-input-placeholder {
+                        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                        font-weight: 700;
+                        color: #ced4da;
+                    }
+                    
+                    section#a form#contactForm :-moz-placeholder {
+                        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                        font-weight: 700;
+                        color: #ced4da;
+                    }
+                    
+                    section#a form#contactForm ::-moz-placeholder {
+                        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                        font-weight: 700;
+                        color: #ced4da;
+                    }
+                    
+                    section#a form#contactForm :-ms-input-placeholder {
+                        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                        font-weight: 700;
+                        color: #ced4da;
+                    }
                     
                     .footer {
                         text-align: center;
@@ -11917,7 +11987,7 @@
                     }
                     
                     #details p {
-                        color: white;
+                        color: black;
                     }
                     
                     .card1 {
@@ -12206,6 +12276,7 @@
                             width: 90%;
                         }
                     }
+                    
                     label {
                         background-color: var(--bs-yellow);
                         color: black;
@@ -12214,10 +12285,10 @@
                         border-radius: 0.3rem;
                         cursor: pointer;
                         margin-top: 1rem;
-                      }
-                      
-                      #file-chosen{
+                    }
+                    
+                    #file-chosen {
                         margin-left: 0.3rem;
                         font-family: sans-serif;
                         color: wheat;
-                      }
+                    }
