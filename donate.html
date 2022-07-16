@@ -93,33 +93,34 @@
         <!-- to get an API token!-->
         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                 <div id="gform" class="row align-items-stretch mb-5">
-                    <h3>Payment Details</h3>
+                    <h3>Payment Confirmation</h3>
                     <div class="col-md-6">
                         <div class="form-group">
                             <!-- Name input-->
-                            <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
+                            <span class="screenshot">Name: *</span>
+                            <input class="form-control" id="name" type="text" placeholder="Eg: John Doe " data-sb-validations="required" />
                             <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                         </div>
                         <div class="form-group">
                             <!-- Email address input-->
-                            <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
+                            <span class="screenshot">Email: *</span>
+                            <input class="form-control" id="email" type="email" placeholder="Eg: johndoe@gmail.com " data-sb-validations="required,email" />
                             <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                             <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                         </div>
                         <div class="form-group mb-md-0">
                             <!-- Phone number input-->
-                            <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
+                            <span class="screenshot">Phone: *</span>
+                            <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " data-sb-validations="required" />
                             <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group form-group-textarea mb-md-0">
                             <!-- Message input-->
-                            <input type="file" id="actual-btn" hidden/>
-                            <!-- our custom upload button -->
-                            <label for="actual-btn">Choose File</label>
-                            <span id="file-chosen">No file chosen</span>
-                            <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                            <span class="screenshot">Screenshot of Payment: *</span> 
+                            <input class="form-control" type="file" id="actual-btn" data-sb-validations="required"/>
+                            <div class="invalid-feedback" data-sb-feedback="message:required">An image is required.</div>
                         </div>
                     </div>
                     <div class="d-none" id="submitSuccessMessage">

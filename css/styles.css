@@ -2054,7 +2054,7 @@
                     
                     .form-control {
                         display: block;
-                        width: 100%;
+                        width: 200%;
                         padding: 0.375rem 0.75rem;
                         font-size: 1rem;
                         font-weight: 400;
@@ -11620,6 +11620,7 @@
                     section#contact form#contactForm .form-group input,
                     section#contact form#contactForm .form-group textarea {
                         padding: 1.25rem;
+                        width: 100%;
                     }
                     
                     section#contact form#contactForm .form-group input.form-control {
@@ -11892,7 +11893,7 @@
                         flex-direction: column;
                         background-color: #262e3e;
                         height: 100%;
-                        width: 50%;
+                        width: 90%;
                     }
                     
                     #gform h3 {
@@ -12221,3 +12222,9 @@
                         font-family: sans-serif;
                         color: wheat;
                       }
+
+                      .screenshot{
+                        padding-left: 15px;
+                        color: white;
+                      }
+
