@@ -12309,6 +12309,12 @@
                         font-family: sans-serif;
                         color: wheat;
                     }
+
+                    .screenshot{
+                        padding-left: 15px;
+                        color: white;
+                      }
+
                     
                     .faculty {
                         margin-bottom: 50px;
@@ -12405,3 +12411,4 @@
                     .owl-dot:hover {
                         background: crimson!important;
                     }
+
