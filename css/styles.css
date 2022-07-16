@@ -12035,6 +12035,8 @@
                     #aaa h3 {
                         color: #000;
                         padding-bottom: 6%;
+                        text-align: center;
+                        padding-top: 3%;
                     }
                     
                     @media (max-width: 768px) {
@@ -12410,5 +12412,9 @@
                     .owl-dot.active,
                     .owl-dot:hover {
                         background: crimson!important;
+                    }
+                    #qr{
+                        align-items: center;
+                        justify-content: center;
                     }
 
