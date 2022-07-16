@@ -11988,6 +11988,7 @@
                     
                     #details p {
                         color: black;
+                        line-height: 3.75;
                     }
                     
                     .card1 {
@@ -12031,6 +12032,11 @@
                         padding-bottom: 6%;
                     }
                     
+                    #aaa h3 {
+                        color: #000;
+                        padding-bottom: 6%;
+                    }
+                    
                     @media (max-width: 768px) {
                         #gform {
                             display: flex;
@@ -12048,13 +12054,24 @@
                         }
                         section#contact form#contactForm .form-group input.form-control {
                             height: auto;
-                            width: 100%;
+                            width: 95%;
                             margin-right: 10px;
                         }
                         section#contact form#contactForm .form-group-textarea textarea {
+                            height: auto;
+                            width: 95%;
+                            margin-right: 10px;
+                        }
+                        section#a form#contactForm .form-group input.form-control {
+                            height: auto;
+                            width: 95%;
+                            margin-right: 10px;
+                        }
+                        section#a form#contactForm .form-group-textarea textarea {
                             height: 100%;
                             width: 100%;
-                            margin-right: 10px;
+                            margin-right: 100px;
+                            padding: 10px;
                         }
                         .card1 {
                             height: 100%;
@@ -12292,7 +12309,106 @@
                         font-family: sans-serif;
                         color: wheat;
                     }
+
                     .screenshot{
                         padding-left: 15px;
                         color: white;
                       }
+
+                    
+                    .faculty {
+                        margin-bottom: 50px;
+                    }
+                    
+                    .carousel {
+                        display: flex;
+                        flex-direction: row;
+                    }
+                    
+                    .faculty h2 {
+                        text-align: center;
+                        font-size: 40px;
+                        font-family: 'Ubuntu', sans-serif;
+                        margin-bottom: 40px;
+                    }
+                    
+                    .faculty p {
+                        font-size: 25px;
+                        font-family: 'Ubuntu', sans-serif;
+                    }
+                    
+                    .a {
+                        font-weight: 500;
+                    }
+                    
+                    #apal .carousel .card {
+                        /* background: rgb(34, 33, 33); */
+                        border-radius: 30px;
+                        padding: 15px 10px;
+                        text-align: center;
+                        transition: all 0.3s ease;
+                        cursor: pointer;
+                        width: 100%;
+                        margin: 10px;
+                    }
+                    
+                    #apal .carousel .card:hover {
+                        background: rgba(65, 65, 65, 0.482);
+                    }
+                    
+                    #apal .carousel .card .box {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                    
+                    #apal .carousel .card:hover .box {
+                        transform: scale(1.05);
+                    }
+                    
+                    #apal .carousel .card .text {
+                        font-size: 25px;
+                        font-weight: 500;
+                        margin: 10px 0 7px 0;
+                    }
+                    
+                    #apal .carousel .card img {
+                        height: 250px;
+                        width: 250px;
+                        padding: 7px;
+                        object-fit: cover;
+                        border-radius: 50%;
+                        border: 5px solid crimson;
+                        transition: all 0.3s ease;
+                    }
+                    
+                    .teams .carousel .card:hover img {
+                        border-color: white;
+                    }
+                    
+                    .owl-dots {
+                        text-align: center;
+                        margin-top: 20px;
+                    }
+                    
+                    .owl-dot {
+                        height: 13px;
+                        width: 13px;
+                        margin: 0 5px;
+                        outline: none!important;
+                        border-radius: 50%;
+                        border: 2px solid crimson!important;
+                        transition: all 0.3s ease;
+                    }
+                    
+                    .owl-dot.active {
+                        width: 35px;
+                        border-radius: 14px;
+                    }
+                    
+                    .owl-dot.active,
+                    .owl-dot:hover {
+                        background: crimson!important;
+                    }
+

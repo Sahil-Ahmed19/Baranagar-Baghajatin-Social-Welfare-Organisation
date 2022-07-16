@@ -52,19 +52,19 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
-$('.fac').owlCarousel({
+$('.carousel').owlCarousel({
     margin: 20,
     loop: true,
     autoplay: true,
-    autoplayTimeOut: 90,
+    autoplayTimeOut: 1000,
     autoplayHoverPause: true,
     responsive: {
         0: {
-            items: 2,
+            items: 1,
             nav: false
         },
         600: {
-            items: 3,
+            items: 2,
             nav: false
         },
         1000: {
@@ -78,6 +78,6 @@ const actualBtn = document.getElementById('actual-btn');
 
 const fileChosen = document.getElementById('file-chosen');
 
-actualBtn.addEventListener('change', function(){
-  fileChosen.textContent = this.files[0].name
+actualBtn.addEventListener('change', function() {
+    fileChosen.textContent = this.files[0].name
 })
