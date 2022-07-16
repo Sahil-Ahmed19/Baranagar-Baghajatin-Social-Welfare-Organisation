@@ -2997,7 +2997,7 @@
                             display: inline-block;
                             font-weight: 400;
                             line-height: 1.5;
-                            color: #212529;
+                            color: black;
                             text-align: center;
                             text-decoration: none;
                             vertical-align: middle;
@@ -3007,10 +3007,14 @@
                             -ms-user-select: none;
                             user-select: none;
                             background-color: transparent;
-                            border: 1px solid transparent;
-                            padding: 0.575rem 0.75rem;
-                            font-size: 1.15rem;
+                            border: 1.5px solid transparent;
+                            padding-top: 0.4rem;
+                            padding-bottom: 0.4rem;
+                            padding-left: 1.75rem;
+                            padding-right: 1.75rem;
+                            font-size: 0.8rem;
                             border-radius: 0.45rem;
+                            /* box-shadow: 1px 1px 10px rgb(250, 237, 213); */
                             transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
                         }
                         
@@ -3038,10 +3042,12 @@
                         }
                         
                         .btn-primary {
-                            color: #fff;
-                            background-color: #ffc800;
-                            border: 3px solid #6f732f;
-                            border-radius: 30px;
+                            margin-top: 0.7rem;
+                            color: black;
+                            font-weight: 400;
+                            border-color: black;
+                            background-color: #f6db98;
+                            border-radius: 10px;
                         }
                         
                         .btn-primary:hover {
@@ -4871,12 +4877,15 @@
                         }
                         
                         .card {
+                            background-image: url(../assets/img/about/childrenbg.jpg);
+                            /* background-color: rgba(0, 0, 0, 0.516); */
+                            background-position: center;
                             position: relative;
                             display: flex;
+                            height: 200px;
                             flex-direction: column;
                             min-width: 0;
                             word-wrap: break-word;
-                            background-color: #fff;
                             background-clip: border-box;
                             border: 1px solid rgba(0, 0, 0, 0.125);
                             border-radius: 0.25rem;
@@ -11135,7 +11144,7 @@
                         .btn-xl {
                             /* padding: 1.25rem 2.5rem; */
                             font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-                            font-size: 1.1rem;
+                            font-size: 0.8rem;
                             padding-left: 1.125rem;
                             padding-right: 1.125rem;
                             /* font-weight: ; */
@@ -11485,7 +11494,8 @@
                         .timeline .timeline-heading h4,
                         .timeline .timeline-heading .h4 {
                             margin-top: 0;
-                            color: inherit;
+                            color: #003f88;
+                            
                         }
                         
                         .timeline .timeline-heading h4.subheading,
@@ -11499,6 +11509,7 @@
                 border-width: 2px;
                 border-radius: 20px; */
                             border-color: black;
+                            font-weight: 400;
                             /* background-color: var(--bs-yellow); */
                             margin-bottom: 0;
                             /* font-size: larger; */
@@ -11892,6 +11903,7 @@
                             color: #ffca3a;
                             height: 70px;
                             margin: 20px;
+                            transition: 0.5s;
                         }
                         
                         .missionvision h2 {
@@ -12435,7 +12447,8 @@
                         }
                         
                         .objectives .fac .card .text {
-                            font-size: 25px;
+                            font-size: 15px;
+                            color: #ffca3a;
                             font-weight: 500;
                             margin: 10px 0 7px 0;
                         }
@@ -12547,7 +12560,8 @@
                         }
                         
                         #apal .carousel .card .text {
-                            font-size: 25px;
+                            font-size: 15px;
+                            color: white;
                             font-weight: 500;
                             margin: 10px 0 7px 0;
                         }
@@ -12678,8 +12692,8 @@
                     }
                     
                     #apal .carousel .card .text {
-                        font-size: 25px;
-                        font-weight: 500;
+                        font-size: 15px;
+                            color: white;
                         margin: 10px 0 7px 0;
                     }
                     
@@ -12736,4 +12750,12 @@
                             text-align: center;
                             width: 100%;
                         }
-
+                    .story{
+                        color: white;
+                        text-decoration: none;
+                        transition: 1s;
+                    }
+                    .story:hover{
+                        color: #000;
+                        
+                    }

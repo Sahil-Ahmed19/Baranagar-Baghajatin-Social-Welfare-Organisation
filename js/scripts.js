@@ -56,19 +56,19 @@ $('.carousel').owlCarousel({
     margin: 20,
     loop: true,
     autoplay: true,
-    autoplayTimeOut: 1000,
+    autoplayTimeOut: 90,
     autoplayHoverPause: true,
     responsive: {
         0: {
-            items: 1,
-            nav: false
-        },
-        600: {
             items: 2,
             nav: false
         },
-        1000: {
+        600: {
             items: 3,
+            nav: false
+        },
+        1000: {
+            items: 4,
             nav: false
         }
     }
