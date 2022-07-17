@@ -56,28 +56,20 @@ $('.carousel').owlCarousel({
     margin: 20,
     loop: true,
     autoplay: true,
-    autoplayTimeOut: 1000,
+    autoplayTimeOut: 90,
     autoplayHoverPause: true,
     responsive: {
         0: {
-            items: 1,
-            nav: false
-        },
-        600: {
             items: 2,
             nav: false
         },
-        1000: {
+        600: {
             items: 3,
+            nav: false
+        },
+        1000: {
+            items: 4,
             nav: false
         }
     }
 });
-
-const actualBtn = document.getElementById('actual-btn');
-
-const fileChosen = document.getElementById('file-chosen');
-
-actualBtn.addEventListener('change', function() {
-    fileChosen.textContent = this.files[0].name
-})
