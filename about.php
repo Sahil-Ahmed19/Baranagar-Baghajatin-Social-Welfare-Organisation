@@ -32,25 +32,7 @@
 
 <body id="page-top">
     <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <div class="container">
-            <a class="navbar-brand" href="#page-top"><img src="./images/logo1-removebg-preview.png" alt="..." /></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ms-1"></i>
-                </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link" href=index.html>Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href=events.html>Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href=about.html>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href=team.html>Team</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.html#contact">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-        </div>
-    </nav>
+    <?php require_once 'nav.php'; ?>
     <!-- The social media icon bar -->
     <!-- <div class="icon-bar">
         <a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
@@ -60,7 +42,7 @@
     <nav class="social">
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
-            <li><a href="donate.html">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
 
         </ul>
     </nav>
@@ -233,7 +215,7 @@
 
                 <li class="timeline-inverted">
                     <div class="timeline-image">
-                        <h4><a class="story" href=otherreport.html>
+                        <h4><a class="story" href=otherreport.php>
                             View 
                             <br/> More
                             <br /> Reports
