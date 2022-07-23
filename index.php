@@ -1,3 +1,23 @@
+<?php
+
+
+include 'config.php';
+
+error_reporting(0);
+
+
+if(isset($_POST['submit'])){
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $message = $_POST['message'];
+
+
+    $sql = "INSERT INTO enquiry (name, email, phone, message)
+        VALUES ('$name', '$email', '$phone', '$message')";
+    $result = mysqli_query($conn , $sql);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,24 +45,7 @@
 
 <body id="page-top">
     <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <div class="container">
-            <a class="navbar-brand" href="#page-top"><img src="./images/logo1-removebg-preview.png" alt="..." /></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ms-1"></i>
-                </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link" href=index.html>Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href=events.html>Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href=about.html>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href=team.html>Team</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.html#contact">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php require_once 'nav.php'; ?>
     <!-- Masthead-->
     <div id="home">
         <header class="masthead">
@@ -65,7 +68,7 @@
     <nav class="social">
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
-            <li><a href="donate.html">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
         </ul>
     </nav>
     <!-- <nav class="social">
@@ -118,7 +121,7 @@
                     <div id="text1">
                         <h3 class="section-subheading text-muted">Baranagar Baghajatin Social Welfare Organisation was founded by some educated and dedicated youth and social workers with a view to develop the socio economic status of the poor and downtrodden people emphasising on distressed
                             women and children. Now the organisation is taking an important role for up gradation of port status of the many other small village groups (Men & Women). It is registered under West Bengal Societies Registration Act, 1961.</h3>
-                        <a id="btn-text" class="btn btn-primary text-uppercase" href=about.html>Read more</a>
+                        <a id="btn-text" class="btn btn-primary text-uppercase" href=about.php>Read more</a>
                     </div>
                     <div id="text2"><img src="./images/8.jpg" alt=""></div>
                 </div>
@@ -227,7 +230,7 @@
                 </div>
             </div>
             <div class="middle">
-                <a id="btn-text" class="btn btn-primary text-uppercase" href=events.html>view more</a>
+                <a id="btn-text" class="btn btn-primary text-uppercase" href=events.php>view more</a>
             </div>
         </div>
 
@@ -266,32 +269,33 @@
             <!-- To make this form functional, sign up at-->
             <!-- https://startbootstrap.com/solution/contact-forms-->
             <!-- to get an API token!-->
-            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+            <h4 class="sent-notification"></h4>
+            <form id="contactForm" action="" method="POST">
                 <div id="arghya">
                     <div id="gform" class="row align-items-stretch mb-5">
                         <h3>Enquiry</h3>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
+                                <input class="form-control" id="name" name="name" type="text" placeholder="Your Name *" data-sb-validations="required" value="<?php echo $name; ?>" />
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
+                                <input class="form-control" id="email" name="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" value="<?php echo $email; ?>"/>
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <div class="form-group mb-md-0">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
+                                <input class="form-control" id="phone" name="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" value="<?php echo $phone; ?>"/>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
                                 <!-- Message input-->
-                                <textarea class="form-control" id="message" placeholder="Your Message *" data-sb-validations="required"></textarea>
+                                <textarea class="form-control" id="message" name="message" placeholder="Your Message *" data-sb-validations="required" value="<?php echo $message; ?>"></textarea>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                         </div>
@@ -311,7 +315,7 @@
                             <div class="text-center text-danger mb-3">Error sending message!</div>
                         </div>
                         <!-- Submit Button-->
-                        <div class="text-center"><button class="btn btn-primary text-uppercase disabled" id="submitButton" type="submit">Send Message</button>
+                        <div class="text-center"><button class="btn btn-primary text-uppercase " id="submitButton" name="submit" type="submit" onclick="sendEmail()" value="Send an Email">Send Message</button>
                         </div>
                     </div>
 
@@ -583,6 +587,42 @@
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript">
+        function sendEmail() {
+            var name = $("#name");
+            var email = $("#email");
+            // var subject = $("#subject");
+            var body = $("#message");
+
+            if (isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(body)) {
+                $.ajax({
+                   url: 'sendEmail.php',
+                   method: 'POST',
+                   dataType: 'json',
+                   data: {
+                       name: name.val(),
+                       email: email.val(),
+                    //    subject: subject.val(),
+                       body: body.val()
+                   }, success: function (response) {
+                        $('#contactForm')[0].reset();
+                        $('.sent-notification').text("Message Sent Successfully.");
+                   }
+                });
+            }
+        }
+
+        function isNotEmpty(caller) {
+            if (caller.val() == "") {
+                caller.css('border', '1px solid red');
+                return false;
+            } else
+                caller.css('border', '');
+
+            return true;
+        }
+    </script>
 </body>
 
 </html>
