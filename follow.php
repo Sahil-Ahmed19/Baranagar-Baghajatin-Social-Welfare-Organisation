@@ -3,7 +3,7 @@
 
 include 'config.php';
 
-// error_reporting(0);
+error_reporting(0);
 
 
 if(isset($_POST['submit'])){
@@ -53,7 +53,7 @@ if(isset($_POST['submit'])){
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
 
-            <li><a href="follow.php">Follow<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
         </ul>
     </nav>
 
@@ -67,7 +67,7 @@ if(isset($_POST['submit'])){
                     <form id="contactForm" action="" method="POST">
                     <div id="arghya1">
                         <div id="gform" class="row align-items-stretch mb-5">
-                            
+                            <h3>Enter Details</h3>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <!-- Name input-->
