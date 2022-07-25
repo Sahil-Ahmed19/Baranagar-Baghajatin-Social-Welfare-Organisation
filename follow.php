@@ -1,3 +1,22 @@
+<?php
+
+
+include 'config.php';
+
+// error_reporting(0);
+
+
+if(isset($_POST['submit'])){
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+
+
+    $sql = "INSERT INTO follow (name, email, phone)
+        VALUES ('$name', '$email', '$phone')";
+    $result = mysqli_query($conn , $sql);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,67 +52,41 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
-            <li><a href="follow.php">Follow<img id="pal" src="./images/10.png" alt=""></a></li>
 
+            <li><a href="follow.php">Follow<img id="pal" src="./images/10.png" alt=""></a></li>
         </ul>
     </nav>
 
     <section class="page-section" id="a">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">DONATE NOW</h2>
+                <h2 class="section-heading text-uppercase">FOLLOW US</h2>
             </div>
-            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
-                <div id="arghya">
-                    <div id="details">
-                        <div class="card1">
-                            <div id="aaa">
-                                <h3>Account Details</h3>
-                            </div>
-                            <p><b>Bank Account: </b> Punjab National Bank.
-                                <br> Tobin Road (North 24 Parganas) West Bengal -700036.
-                                <br>
-                                <b>RTGS/NIFT IFS Code: </b> PUNB0102020
-                                <br>
-                                <b>Account name:</b> Baranagar Baghajatin Social Welfare Organisation
-                                <br>
-                                <b>Current Account number:</b> 1020050010794
-                            </p>
-                            <div id="qr">
-                                <img src="./images/qrcode.png" alt="not found">
-                            </div>
-                        </div>
-                    </div>
-                    <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+            
+        
+                    <form id="contactForm" action="" method="POST">
+                    <div id="arghya1">
                         <div id="gform" class="row align-items-stretch mb-5">
-                            <h3>Payment Confirmation</h3>
+                            
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <!-- Name input-->
                                     <span class="screenshot">Name: *</span>
-                                    <input class="form-control" id="name" type="text" placeholder="Eg: John Doe " data-sb-validations="required" />
+                                    <input class="form-control" id="name" name="name" type="text" placeholder="Eg: John Doe " data-sb-validations="required" value="<?php echo $name; ?>"  />
                                     <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                                 </div>
                                 <div class="form-group">
                                     <!-- Email address input-->
                                     <span class="screenshot">Email: *</span>
-                                    <input class="form-control" id="email" type="email" placeholder="Eg: johndoe@gmail.com " data-sb-validations="required,email" />
+                                    <input class="form-control" id="email" name="email" type="email" placeholder="Eg: johndoe@gmail.com " data-sb-validations="required,email" value="<?php echo $email; ?>"/>
                                     <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                     <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
                                     <span class="screenshot">Phone: *</span>
-                                    <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " data-sb-validations="required" />
+                                    <input class="form-control" id="phone" name="phone" type="tel" placeholder="Eg: 9876542318 " data-sb-validations="required" value="<?php echo $phone; ?>"/>
                                     <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group form-group-textarea mb-md-0">
-                                    <!-- Message input-->
-                                    <span class="screenshot">Screenshot of Payment: *</span> 
-                                    <input class="form-control" type="file" id="actual-btn" data-sb-validations="required"/>
-                                    <div class="invalid-feedback" data-sb-feedback="message:required">An image is required.</div>
                                 </div>
                             </div>
                             <div class="d-none" id="submitSuccessMessage">
@@ -112,7 +105,7 @@
                                 <div class="text-center text-danger mb-3">Error sending message!</div>
                             </div>
                             <!-- Submit Button-->
-                            <div class="text-center"><button class="btn btn-primary text-uppercase disabled" id="submitButton" type="submit">Send</button>
+                            <div class="text-center"><button class="btn btn-primary text-uppercase disabled" id="submitButton" name="submit" type="submit">Send</button>
                             </div>
                         </div>
                     </form>

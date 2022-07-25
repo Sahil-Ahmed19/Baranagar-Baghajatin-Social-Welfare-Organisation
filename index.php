@@ -69,6 +69,7 @@ if(isset($_POST['submit'])){
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
         </ul>
     </nav>
     <!-- <nav class="social">
