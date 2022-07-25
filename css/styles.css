@@ -11128,7 +11128,7 @@
                         
                         .page-section h3.section-subheading,
                         .page-section .section-subheading.h3 {
-                            font-size: 1rem;
+                            font-size: 1.5rem;
                             font-weight: 400;
                             font-style: italic;
                             font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11864,7 +11864,7 @@
                                 height: 150px;
                             }
                             #text1 h3 {
-                                font-size: 5px;
+                                font-size: 20px;
                                 padding: 0;
                                 margin: 3px;
                             }
@@ -12697,7 +12697,6 @@
                         
                         .social ul li:hover a {
                             color: #000;
-                            font-size: 20px;
                         }
                         
                         .social ul li:hover i {
@@ -12740,7 +12739,7 @@
                         .social #pal {
                             width: 20%;
                             border-radius: 50%;
-                            margin-left: 2px;
+                            margin-left: 20px;
                             -webkit-transform: rotate(0deg);
                             -moz-transform: rotate(0deg);
                             -ms-transform: rotate(0deg);
@@ -12830,6 +12829,21 @@
                             section#b form#contactForm .form-group input.form-control {
                                 height: auto;
                                 width: 95%;
+                                margin-right: 10px;
+                            }
+                            .social #pal {
+                                width: 15%;
+                                border-radius: 50%;
+                                margin-left: 20px;
+                            }
+                            .social ul li {
+                                display: block;
+                                margin: 5px 25px;
+                            }
+                            header.masthead .masthead-heading {
+                                font-size: 2.5rem;
+                                font-weight: 700;
+                                line-height: 2rem;
                                 margin-right: 10px;
                             }
                         }
