@@ -1,37 +1,35 @@
 <?php
+extract($_POST);
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-use PHPMailer\PHPMailer\SMTP;
 
-if(isset($_POST['name']) && isset($_POST['email'])){
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $phone = $_POST['phone'];
-    $message = $_POST['message'];
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php';
 
-    require_once "PHPMailer/PHPMailer.php";
-    require_once "PHPMailer/SMTP.php";
-    require_once "PHPMailer/Exception.php";
+//Create an instance; passing `true` enables exceptions
+$mail = new PHPMailer(true);
 
-    $mail = new PHPMailer();
-    $email2 = "ahmedsahilcr7@gmail.com";
+    //Server settings
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'ahmedsahilcr7@gmail.com';                     //SMTP username
+    $mail->Password   = 'qnwywaegkxmvauak';                               //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
-    //smtp settings
-    $mail->isSMTP();
-    $mail->Host = "smtp.gmail.com";
-    $mail->SMTPAuth = true;
-    $mail->Username = "ahmedsahilcr7@gmail.com";
-    $mail->Password = 'password';
-    $mail->Port = 587;
-    $mail->SMTPSecure = "ssl";
+    //Recipients
+    $mail->setFrom($email, $name);
+    $mail->addAddress('ahmedsahilcr7@gmail.com', 'BBSWO');     //Add a recipient
+    $mail->addReplyTo($email);
 
-    //email settings
-    $mail->isHTML(true);
-    $mail->AddReplyTo($email);
-    $mail->From = $email2;
-    $mail->FromName = $name;
-    $mail->Subject = 'Here is the subject';
-    $mail->Body = $message;
+
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    $mail->Subject = 'Enquiry from BBSWO website';
+    $mail->Body    = $message;
 
     if($mail->send()){
         $status = "success";
@@ -43,9 +41,6 @@ if(isset($_POST['name']) && isset($_POST['email'])){
         $response = "Something is wrong: <br>" . $mail->ErrorInfo;
     }
 
-    exit(json_encode(array("status" => $status, "response" => $response)));
-}
-
-  
+    exit(json_encode(array("status" => $status, "response" => $response))); 
 
 ?>
