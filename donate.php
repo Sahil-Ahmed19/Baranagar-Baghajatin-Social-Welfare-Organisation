@@ -64,7 +64,7 @@
                             </div>
                         </div>
                     </div>
-                    <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                    <form id="contactForm" action="pay.php" method="post" data-sb-form-api-token="API_TOKEN">
                         <div id="gform" class="row align-items-stretch mb-5">
                             <h3>Payment Confirmation</h3>
                             <div class="col-md-6">
@@ -87,15 +87,14 @@
                                     <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " data-sb-validations="required" />
                                     <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group form-group-textarea mb-md-0">
-                                    <!-- Message input-->
-                                    <span class="screenshot">Screenshot of Payment: *</span> 
-                                    <input class="form-control" type="file" id="actual-btn" data-sb-validations="required"/>
-                                    <div class="invalid-feedback" data-sb-feedback="message:required">An image is required.</div>
+                                <div class="form-group mb-md-0">
+                                    <!-- Phone number input-->
+                                    <span class="screenshot">Amount: *</span>
+                                    <input class="form-control" id="price" name="price" type="tel" placeholder="Min ₹100" data-sb-validations="required" />
+                                    <div class="invalid-feedback" data-sb-feedback="phone:required">Amount is required.</div>
                                 </div>
                             </div>
+                            
                             <div class="d-none" id="submitSuccessMessage">
                                 <div class="text-center text-white mb-3">
                                     <div class="fw-bolder">Form submission successful!</div>
