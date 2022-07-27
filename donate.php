@@ -68,17 +68,17 @@
                                 <div class="form-group">
                                     <!-- Name input-->
                                     <span class="screenshot">Name: *</span>
-                                    <input class="form-control" id="name" type="text" placeholder="Eg: John Doe " required>
+                                    <input class="form-control" id="name" name="name" type="text" placeholder="Eg: John Doe " required>
                                 </div>
                                 <div class="form-group">
                                     <!-- Email address input-->
                                     <span class="screenshot">Email: *</span>
-                                    <input class="form-control" id="email" type="email" placeholder="Eg: johndoe@gmail.com " required>
+                                    <input class="form-control" id="email" name="email" type="email" placeholder="Eg: johndoe@gmail.com " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
                                     <span class="screenshot">Phone: *</span>
-                                    <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " required>
+                                    <input class="form-control" id="phone" name="phone" type="tel" placeholder="Eg: 9876542318 " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
@@ -88,7 +88,7 @@
                             </div>
                             
                             <!-- Submit Button-->
-                            <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton" type="submit">Donate</button>
+                            <div class="text-center"><button class="btn btn-primary text-uppercase" name="submit" value="Proceed to pay" id="submitButton" type="submit">Donate</button>
                             </div>
                         </div>
                     </form>

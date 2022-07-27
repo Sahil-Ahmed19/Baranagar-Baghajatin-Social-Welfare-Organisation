@@ -1,6 +1,6 @@
 <?php
 
-require('config.php');
+require('config1.php');
 require('razorpay-php/Razorpay.php');
 session_start();
 
@@ -14,9 +14,13 @@ $api = new Api($keyId, $keySecret);
 // We create an razorpay order using orders api
 // Docs: https://docs.razorpay.com/docs/orders
 //
+$name=$_POST['name'];
+$email=$_POST['email'];
+$phone=$_POST['phone'];
+$price=$_POST['price'];
 $orderData = [
     'receipt'         => 3456,
-    'amount'          => 2000 * 100, // 2000 rupees in paise
+    'amount'          => $price * 100, // 2000 rupees in paise
     'currency'        => 'INR',
     'payment_capture' => 1 // auto capture
 ];
@@ -43,12 +47,12 @@ $data = [
     "key"               => $keyId,
     "amount"            => $amount,
     "name"              => "Baranagar Baghajatin Social Welfare Organisation",
-    "description"       => "Tron Legacy",
+    "description"       => "Donate for greater cause",
     "image"             => "https://s29.postimg.org/r6dj1g85z/daft_punk.jpg",
     "prefill"           => [
-    "name"              => "Daft Punk",
-    "email"             => "customer@merchant.com",
-    "contact"           => "9999999999",
+    "name"              => $name,
+    "email"             => $email,
+    "contact"           => $phone,
     ],
     "notes"             => [
     "address"           => "Hello World",
