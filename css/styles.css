@@ -4877,8 +4877,8 @@
                         }
                         
                         .card {
-                            background-image: url(../assets/img/about/childrenbg.jpg);
-                            /* background-color: rgba(0, 0, 0, 0.516); */
+                            /* background-image: url(../assets/img/about/childrenbg.jpg); */
+                            background-color: white;
                             background-position: center;
                             position: relative;
                             display: flex;
@@ -12449,7 +12449,7 @@
                         
                         #apal .carousel .card .text {
                             font-size: 15px;
-                            color: white;
+                            color: black;
                             font-weight: 500;
                             margin: 10px 0 7px 0;
                         }
@@ -12556,7 +12556,8 @@
                         }
                         
                         #apal .carousel .card:hover {
-                            background: rgba(65, 65, 65, 0.482);
+                            /* background: rgba(65, 65, 65, 0.482); */
+                            background-color: wheat;
                         }
                         
                         #apal .carousel .card .box {
@@ -12572,7 +12573,7 @@
                         
                         #apal .carousel .card .text {
                             font-size: 15px;
-                            color: white;
+                            color: black;
                             margin: 10px 0 7px 0;
                         }
                         
