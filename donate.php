@@ -59,59 +59,36 @@
                                 <br>
                                 <b>Current Account number:</b> 1020050010794
                             </p>
-                            <div id="qr">
-                                <img src="./images/qrcode.png" alt="not found">
-                            </div>
                         </div>
                     </div>
-                    <form id="contactForm" action="pay.php" method="post" data-sb-form-api-token="API_TOKEN">
+                    <form id="contactForm" action="pay.php" method="post">
                         <div id="gform" class="row align-items-stretch mb-5">
-                            <h3>Payment Confirmation</h3>
+                            <h3>Donation Form</h3>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <!-- Name input-->
                                     <span class="screenshot">Name: *</span>
-                                    <input class="form-control" id="name" type="text" placeholder="Eg: John Doe " data-sb-validations="required" />
-                                    <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                                    <input class="form-control" id="name" type="text" placeholder="Eg: John Doe " required>
                                 </div>
                                 <div class="form-group">
                                     <!-- Email address input-->
                                     <span class="screenshot">Email: *</span>
-                                    <input class="form-control" id="email" type="email" placeholder="Eg: johndoe@gmail.com " data-sb-validations="required,email" />
-                                    <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                                    <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                                    <input class="form-control" id="email" type="email" placeholder="Eg: johndoe@gmail.com " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
                                     <span class="screenshot">Phone: *</span>
-                                    <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " data-sb-validations="required" />
-                                    <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                                    <input class="form-control" id="phone" type="tel" placeholder="Eg: 9876542318 " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
                                     <span class="screenshot">Amount: *</span>
-                                    <input class="form-control" id="price" name="price" type="tel" placeholder="Min ₹100" data-sb-validations="required" />
-                                    <div class="invalid-feedback" data-sb-feedback="phone:required">Amount is required.</div>
+                                    <input class="form-control" id="price" name="price" type="tel" placeholder="Min ₹100" required>
                                 </div>
                             </div>
                             
-                            <div class="d-none" id="submitSuccessMessage">
-                                <div class="text-center text-white mb-3">
-                                    <div class="fw-bolder">Form submission successful!</div>
-                                    To activate this form, sign up at
-                                    <br />
-                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                                </div>
-                            </div>
-                            <!-- Submit error message-->
-                            <!---->
-                            <!-- This is what your users will see when there is-->
-                            <!-- an error submitting the form-->
-                            <div class="d-none" id="submitErrorMessage">
-                                <div class="text-center text-danger mb-3">Error sending message!</div>
-                            </div>
                             <!-- Submit Button-->
-                            <div class="text-center"><button class="btn btn-primary text-uppercase disabled" id="submitButton" type="submit">Send</button>
+                            <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton" type="submit">Donate</button>
                             </div>
                         </div>
                     </form>
