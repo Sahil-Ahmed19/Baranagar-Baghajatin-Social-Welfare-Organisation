@@ -12,8 +12,9 @@
                     <li class="nav-item"><a class="nav-link" href=about.php>About</a></li>
                     <li class="nav-item"><a class="nav-link" href=team.php>Team</a></li>
                     <li class="nav-item"><a class="nav-link" href="index.php#contact">Contact</a></li>
-                    <li class="nav-item"><a href=donate.php><div class="text-center"><button class="btn1 btn-primary text-uppercase " >Donate</button>
-                        </div></a> </li>
+                    <!-- <li class="nav-item"><a href=donate.php><div class="text-center"><button class="btn1 btn-primary text-uppercase " >Donate</button>
+                        </div></a> </li> -->
+                        <a id="donatebutton" href="donate.php" class="donate">DONATE</a>
                 </ul>
             </div>
         </div>
