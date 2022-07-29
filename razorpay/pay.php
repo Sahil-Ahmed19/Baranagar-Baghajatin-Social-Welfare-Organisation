@@ -14,10 +14,10 @@ $api = new Api($keyId, $keySecret);
 // We create an razorpay order using orders api
 // Docs: https://docs.razorpay.com/docs/orders
 //
-$name=$_POST['name'];
-$email=$_POST['email'];
-$phone=$_POST['phone'];
-$price=$_POST['price'];
+$price = $_POST['price'];
+$name = $_POST['name'];
+$phone = $_POST['phone'];
+$email = $_POST['email'];
 $orderData = [
     'receipt'         => 3456,
     'amount'          => $price * 100, // 2000 rupees in paise
@@ -46,9 +46,9 @@ if ($displayCurrency !== 'INR')
 $data = [
     "key"               => $keyId,
     "amount"            => $amount,
-    "name"              => "Baranagar Baghajatin Social Welfare Organisation",
-    "description"       => "Donate for greater cause",
-    "image"             => "https://s29.postimg.org/r6dj1g85z/daft_punk.jpg",
+    "name"              => "BBSWO",
+    "description"       => "Donation",
+    "image"             => "https://github.com/Sahil-Ahmed19/Baranagar-Baghajatin-Social-Welfare-Organisation/blob/master/images/logo1-removebg-preview.png",
     "prefill"           => [
     "name"              => $name,
     "email"             => $email,
