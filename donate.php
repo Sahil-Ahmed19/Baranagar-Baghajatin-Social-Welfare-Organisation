@@ -87,7 +87,7 @@
                             </div>
                             
                             <!-- Submit Button-->
-                            <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton" type="submit">Donate</button>
+                            <div class="text-center"><button class="btn btn-primary text-uppercase" name="submit" value="Proceed to pay" id="submitButton" type="submit">Donate</button>
                             </div>
                         </div>
                     </form>

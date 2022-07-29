@@ -1,6 +1,6 @@
 <?php
 
-require('config.php');
+require('config1.php');
 require('razorpay-php/Razorpay.php');
 session_start();
 
@@ -18,7 +18,6 @@ $price = $_POST['price'];
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 $email = $_POST['email'];
-
 $orderData = [
     'receipt'         => 3456,
     'amount'          => $price * 100, // 2000 rupees in paise

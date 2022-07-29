@@ -11250,10 +11250,14 @@
                             background-attachment: scroll;
                             background-position: center center;
                             background-size: cover;
-                            background: rgba(0, 0, 0, 0.5);
+                            background: rgba(0, 0, 0, 0.65);
                         }
                         
                         header.masthead .masthead-subheading {
+                            display: flex;
+                            flex-direction: column;
+                            /* justify-content: center; */
+                            align-items: center;
                             font-size: 1.5rem;
                             font-style: italic;
                             line-height: 1.5rem;
@@ -11269,6 +11273,12 @@
                             margin-bottom: 2rem;
                             font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
                             color: white;
+                        }
+                        
+                        header.masthead .masthead-subheading img {
+                            /* height: 100px; */
+                            width: 10%;
+                            margin-bottom: 25px;
                         }
                         
                         @media (min-width: 768px) {
@@ -12847,4 +12857,49 @@
                                 line-height: 2rem;
                                 margin-right: 10px;
                             }
+                        }
+                        
+                        #donatebutton {
+                            display: inline-block;
+                            /* margin: 20px; */
+                            position: relative;
+                            text-decoration: none;
+                        }
+                        
+                        .donate {
+                            background: #00684d;
+                            background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.4) 100%), -webkit-linear-gradient(left, #00b486 0%, #00684d 50%, #00b486 100%);
+                            background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.4) 100%), linear-gradient(to right, #00b486 0%, #00684d 50%, #00b486 100%);
+                            background-position: 0 0;
+                            background-size: 200% 100%;
+                            border-radius: 20px;
+                            color: #fff;
+                            padding: 5px 65px 5px 15px;
+                            text-shadow: 1px 1px 5px #666;
+                            -webkit-transition: all 800ms;
+                            transition: all 800ms;
+                        }
+                        
+                        .donate:after {
+                            border-left: 1px solid #004f3a;
+                            color: #003527;
+                            content: "\f004";
+                            font: 20px "FontAwesome";
+                            padding: 5px 0;
+                            padding-left: 15px;
+                            position: absolute;
+                            right: 16px;
+                            top: 5px;
+                            -webkit-transition: all 600ms 200ms;
+                            transition: all 600ms 200ms;
+                        }
+                        
+                        .donate:hover {
+                            background-position: -100% 0;
+                        }
+                        
+                        .donate:hover:after {
+                            border-left: 1px solid #008260;
+                            color: #fff;
+                            text-shadow: 0 0 10px #000;
                         }
