@@ -43,7 +43,6 @@
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">DONATE NOW</h2>
             </div>
-            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                 <div id="arghya">
                     <div id="details">
                         <div class="card1">
@@ -61,7 +60,7 @@
                             </p>
                         </div>
                     </div>
-                    <form id="contactForm" action="pay.php" method="post">
+                    <form id="contactForm" action="razorpay/pay.php" method="post">
                         <div id="gform" class="row align-items-stretch mb-5">
                             <h3>Donation Form</h3>
                             <div class="col-md-6">
@@ -73,12 +72,12 @@
                                 <div class="form-group">
                                     <!-- Email address input-->
                                     <span class="screenshot">Email: *</span>
-                                    <input class="form-control" id="email" name="email" type="email" placeholder="Eg: johndoe@gmail.com " required>
+                                    <input class="form-control" id="email" type="email" name="email" placeholder="Eg: johndoe@gmail.com " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
                                     <span class="screenshot">Phone: *</span>
-                                    <input class="form-control" id="phone" name="phone" type="tel" placeholder="Eg: 9876542318 " required>
+                                    <input class="form-control" id="phone" type="tel" name="phone" placeholder="Eg: 9876542318 " required>
                                 </div>
                                 <div class="form-group mb-md-0">
                                     <!-- Phone number input-->
@@ -93,7 +92,6 @@
                         </div>
                     </form>
                 </div>
-            </form>
         </div>
     </section>
     <!-- Footer-->
