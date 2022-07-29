@@ -31,6 +31,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">
+                    <img src="images\logo1-removebg-preview.png" alt="">
                     <I>"BBSWO - A steps towards sustainability, let's move forward"</I>
                 </div>
                 <div class="masthead-heading text-uppercase">Baranagar Baghajatin Social Welfare Organisation</div>
