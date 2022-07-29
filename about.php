@@ -138,7 +138,7 @@
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">11.	To eradicate the distinction on the basis of class, community, creed or race by promoting unity, peace, love and brotherhood amongst people.</div>
+                            <div class="text ">To eradicate the distinction on the basis of class, community, creed or race by promoting unity, peace, love and brotherhood amongst people.</div>
                         </div>
                     </div>
                 </div>
