@@ -31,7 +31,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">
-                    <img src="images\logo1-removebg-preview.png" alt="">
+                    <img src="images\bbswo.jpg" alt="">
                     <I>"BBSWO - A steps towards sustainability, let's move forward"</I>
                 </div>
                 <div class="masthead-heading text-uppercase">Baranagar Baghajatin Social Welfare Organisation</div>
@@ -70,25 +70,25 @@
             <div class="row text-center">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
-                            <i class="fas fa-book-reader"></i>
-                        </span>
+                        <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
+                        <i class="fas fa-book-reader"></i>
+                    </span>
                     <h4 class="my-3">Educate</h4>
                     <p class="text-muted">Educating the underprivileged and ill-advised about various social issues which rise in day to day life.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
-                            <i class="fas fa-medal"></i>
-                        </span>
+                        <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
+                        <i class="fas fa-medal"></i>
+                    </span>
                     <h4 class="my-3">Empower</h4>
                     <p class="text-muted">Empowering women and the deprived socio-economical section of the population, along with promoting human equality.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
-                            <i class="fas fa-rocket"></i>
-                        </span>
+                        <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
+                        <i class="fas fa-rocket"></i>
+                    </span>
                     <h4 class="my-3">Enlighten</h4>
                     <p class="text-muted">Enlightening our society by eliminating all kinds of social drawbacks and providing appropriate solutions for it.</p>
                 </div>
@@ -252,7 +252,7 @@
             <!-- https://startbootstrap.com/solution/contact-forms-->
             <!-- to get an API token!-->
             <form id="contactForm">
-            <h1 class="sent-notification"></h1>
+                <h1 class="sent-notification"></h1>
                 <div id="arghya">
                     <div id="gform" class="row align-items-stretch mb-5">
                         <h3>Enquiry</h3>
@@ -298,8 +298,7 @@
                             <b>Email:&nbsp;</b>bananiraychowdhury683@gmail.com
                         </div>
                         <div class="card1">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.420692512684!2d88.37460486496077!3d22.638098235149084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89dbdd138f7a7%3A0x6c32903be2c0dfc8!2s36!5e0!3m2!1sen!2sin!4v1657910688291!5m2!1sen!2sin"
-                                width="480" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.420692512684!2d88.37460486496077!3d22.638098235149084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89dbdd138f7a7%3A0x6c32903be2c0dfc8!2s36!5e0!3m2!1sen!2sin!4v1657910688291!5m2!1sen!2sin" width="480" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -377,9 +376,9 @@
                                         </li>
                                     </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -413,9 +412,9 @@
                                         </li>
                                     </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -450,7 +449,7 @@
                                 </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
-                                    Close 
+                                    Close
                                 </button>
                             </div>
                         </div>
@@ -485,9 +484,9 @@
                                         </li>
                                     </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close 
-                                    </button>
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -521,9 +520,9 @@
                                         </li>
                                     </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -557,9 +556,9 @@
                                         </li>
                                     </ul> -->
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -577,7 +576,7 @@
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
-	<script type="text/javascript">
+    <script type="text/javascript">
         function sendEmail() {
             var name = $("#name");
             var email = $("#email");
@@ -585,17 +584,18 @@
 
             if (isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(message)) {
                 $.ajax({
-                   url: 'sendEmail.php',
-                   method: 'POST',
-                   dataType: 'json',
-                   data: {
-                       name: name.val(),
-                       email: email.val(),
-                       message: message.val()
-                   }, success: function (response) {
+                    url: 'sendEmail.php',
+                    method: 'POST',
+                    dataType: 'json',
+                    data: {
+                        name: name.val(),
+                        email: email.val(),
+                        message: message.val()
+                    },
+                    success: function(response) {
                         $('.sent-notification').text("Message Sent Successfully.");
                         $('#contactForm')[0].reset();
-                   }
+                    }
                 });
             }
         }
