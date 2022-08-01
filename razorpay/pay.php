@@ -3,6 +3,7 @@
 require('config1.php');
 require('razorpay-php/Razorpay.php');
 session_start();
+error_reporting(0);
 
 // Create the Razorpay Order
 
@@ -15,6 +16,9 @@ $api = new Api($keyId, $keySecret);
 // Docs: https://docs.razorpay.com/docs/orders
 //
 $price = $_POST['price'];
+if(is_null($price)){
+  $price=500;
+}
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 $email = $_POST['email'];

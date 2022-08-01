@@ -3046,8 +3046,7 @@
                             margin-top: 0.7rem;
                             color: black;
                             font-weight: 700;
-                            border-color: black;
-                            background-color: #f6db98;
+                            border-color: black; 
                             border-radius: 10px;
                         }
                         
@@ -12076,7 +12075,7 @@
                             flex-direction: column;
                             background-color: #262e3e;
                             height: 100%;
-                            width: 200%;
+                            width: 80%;
                         }
                         
                         #gform h3 {
