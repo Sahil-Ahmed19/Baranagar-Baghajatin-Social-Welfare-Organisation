@@ -1354,6 +1354,8 @@
                             }
                             .col-lg-4 {
                                 flex: 0 0 auto;
+                                justify-content: center;
+                                align-items: center;
                                 width: 33.33333333%;
                             }
                             .col-lg-5 {
@@ -3047,7 +3049,7 @@
                             margin-top: 0.7rem;
                             color: black;
                             font-weight: 700;
-                            border-color: black; 
+                            border-color: black;
                             border-radius: 10px;
                         }
                         
@@ -12904,36 +12906,42 @@
                             color: #fff;
                             text-shadow: 0 0 10px #000;
                         }
-                        .faq{
+                        
+                        .faq {
                             display: grid;
                             font-size: 1rem;
                             font-family: "Anek Gujaratii", sans-serif;
                             min-height: 100vh;
                             place-items: center;
                         }
+                        
                         .faq-card {
                             background: white;
                             width: 100%;
                             border-radius: 10px;
                             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
-                          }
-                          .faq-card__title {
+                        }
+                        
+                        .faq-card__title {
                             color: #2a2623;
                             padding-block: 1em 0.6em;
                             text-align: center;
                             font-size: 2rem;
-                          }
-                          .faq-card__list {
+                        }
+                        
+                        .faq-card__list {
                             padding-bottom: 4em;
                             list-style-type: none;
-                          }
-                          .faq-card__item {
+                        }
+                        
+                        .faq-card__item {
                             color: #453f3a;
                             padding-block: 1em;
                             margin-inline: 1.5em;
                             border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-                          }
-                          .faq-card__button {
+                        }
+                        
+                        .faq-card__button {
                             color: #2a2623;
                             display: flex;
                             width: 100%;
@@ -12942,37 +12950,46 @@
                             background: none;
                             align-items: center;
                             justify-content: space-between;
-                          }
-                          .faq-card__button_active {
+                        }
+                        
+                        .faq-card__button_active {
                             transition: color 200ms linear, font-weight 100ms linear, margin-bottom 100ms linear;
-                          }
-                          .faq-card__button_active .faq-card__icon {
+                        }
+                        
+                        .faq-card__button_active .faq-card__icon {
                             transition: 200ms linear;
-                          }
-                          .faq-card__button_active:hover:not(:focus) {
+                        }
+                        
+                        .faq-card__button_active:hover:not(:focus) {
                             color: #c76d52;
-                          }
-                          .faq-card__button_active:not(:focus) + .faq-card__desc {
+                        }
+                        
+                        .faq-card__button_active:not(:focus)+.faq-card__desc {
                             visibility: hidden;
                             opacity: 0;
                             max-height: 0;
-                          }
-                          .faq-card__button_active:focus {
+                        }
+                        
+                        .faq-card__button_active:focus {
                             margin-bottom: 1em;
                             font-weight: 600;
-                          }
-                          .faq-card__button_active:focus + .faq-card__desc {
+                        }
+                        
+                        .faq-card__button_active:focus+.faq-card__desc {
                             visibility: visible;
                             opacity: 1;
                             max-height: 100px;
-                          }
-                          .faq-card__button_active:focus .faq-card__icon {
+                        }
+                        
+                        .faq-card__button_active:focus .faq-card__icon {
                             transform: rotate(180deg);
-                          }
-                          .faq-card__icon {
+                        }
+                        
+                        .faq-card__icon {
                             color: #c76d52;
-                          }
-                          .faq-card__desc {
+                        }
+                        
+                        .faq-card__desc {
                             transition: opacity 0.7s linear;
                             max-inline-size: calc(100% - 13px);
                             line-height: 1.1rem;
@@ -13157,3 +13174,12 @@
                             }
                         
                         }
+                        /* changes */
+                        
+                        #board {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                        /* changes */
+
