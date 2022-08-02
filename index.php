@@ -333,22 +333,54 @@
   </div>
 </div>
     <!-- Footer-->
-    <footer class="footer py-4">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
-                <div class="col-lg-4 my-3 my-lg-0">
-                    <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                </div>
-                <div class="col-lg-4 text-lg-end">
-                    <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-                    <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <footer class="footer-distributed">
+
+<div class="footer-left">
+<!-- <img src="images/logo.jpeg"> -->
+    <h3>BB<span>SWO</span></h3>
+
+    <p class="footer-links">
+        <a href="#">Home</a>
+        |
+        <a href="#">Blog</a>
+        |
+        <a href="#">About</a>
+        |
+        <a href="#">Contact</a>
+    </p>
+
+    <p class="footer-company-name">© 2019 Eduonix Learning Solutions Pvt. Ltd.</p>
+</div>
+
+<div class="footer-center">
+    <div>
+        <i class="fa fa-map-marker"></i>
+          <p><span>36/8/1, Bagha Jatin Road, Baranagar</span>
+          North 24 Parganas, Kolkata- 700036</p>
+    </div>
+
+    <div>
+        <i class="fa fa-phone"></i>
+        <p>+91 9903194479</p>
+    </div>
+    <div>
+        <i class="fa fa-envelope"></i>
+        <p><a href="mailto:bananiraychowdhury683@gmail.com">bananiraychowdhury683@gmail.com</a></p>
+    </div>
+</div>
+<div class="footer-right">
+    <p class="footer-company-about">
+        <span>Govt. Regn. No. : S0143461 of 2006 to 2007</span>
+        </p>
+    <div class="footer-icons">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-linkedin"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+    </div>
+</div>
+</footer>
     <!-- Portfolio Modals-->
     <!-- Portfolio item 1 modal popup-->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
