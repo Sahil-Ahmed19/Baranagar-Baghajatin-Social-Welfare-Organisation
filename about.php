@@ -59,7 +59,7 @@
                             women and children. Now the organisation is taking an important role for up gradation of port status of the many other small village groups (Men & Women). It is registered under West Bengal Societies Registration Act, 1961.</h3>
                         <!-- <a id="btn-text" class="btn btn-primary text-uppercase" href=about.html>Read more</a> -->
                     </div>
-                    <div id="text2"><img src="./images/8.jpg" alt=""></div>
+                    <div id="text2"><img src="./images/aboutposter.jpeg" alt=""></div>
                 </div>
             </div>
         </div>

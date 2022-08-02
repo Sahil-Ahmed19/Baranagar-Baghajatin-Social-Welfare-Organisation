@@ -1,3 +1,23 @@
+<?php
+
+
+include 'config.php';
+
+error_reporting(0);
+
+
+if(isset($_POST['submit'])){
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $whatsapp=$_POST['whatsapp'];
+    $phone = $_POST['phone'];
+
+
+    $sql = "INSERT INTO follow (name, email, phone, whatsapp)
+        VALUES ('$name', '$email', '$phone')";
+    $result = mysqli_query($conn , $sql);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,54 +66,38 @@
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
 
-            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                    <form id="contactForm" action="razorpay/pay.php" method="post">
+            <form id="contactForm" action="razorpay/pay.php" >
                 <div id="arghya1">
                     <div id="gform" class="row align-items-stretch mb-5">
-                        <h3>Enquiry</h3>
+                        <h3>Enter Details</Details></h3>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                                <input class="form-control" id="name" name="name" type="text" placeholder="Your Name *" required>
+                                
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
-                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                                <input class="form-control" id="email"  name="email" type="email" placeholder="Your Email *" required>
+                                
                             </div>
-                            <div class="form-group mb-md-0">
+                            <div class="form-group">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.
-                                </div>
+                                <input class="form-control" id="whatsapp" name="whatsapp" type="tel" placeholder="Your Whatsup Number *" required>
+                            </div>
+                            <div class="form-group">
+                                <!-- Phone number input-->
+                                <input class="form-control" id="phone" name="phone" type="tel" placeholder="Your Phone *" required>
+                                
+                            </div>
+                            <div class="form-group">
+                               
+                                <span class="screenshot">Pay ₹500 to be a member</span>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="form-group form-group-textarea mb-md-0">
-                                <!-- Message input-->
-                                <textarea class="form-control" id="message" placeholder="Your Message *" data-sb-validations="required"></textarea>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="d-none" id="submitSuccessMessage">
-                            <div class="text-center text-white mb-3">
-                                <div class="fw-bolder">Form submission successful!</div>
-                                To activate this form, sign up at
-                                <br />
-                                <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                            </div>
-                        </div>
-                        <!-- Submit error message-->
-                        <!---->
-                        <!-- This is what your users will see when there is-->
-                        <!-- an error submitting the form-->
-                        <div class="d-none" id="submitErrorMessage">
-                            <div class="text-center text-danger mb-3">Error sending message!</div>
-                        </div>
-                        <!-- Submit Button-->
-                        <div class="text-center"><button class="btn btn-primary text-uppercase disabled" id="submitButton" type="submit">Send Message</button>
+                        
+                        <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton"  name="submit" value="Proceed to pay" type="submit">Preceed to Pay</button>
                         </div>
                     </div>
                 </div>

@@ -31,7 +31,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">
-                    <img src="images\bbswo.jpg" alt="">
+                    <img src="images\logo.jpeg" alt="">
                     <I>"BBSWO - A steps towards sustainability, let's move forward"</I>
                 </div>
                 <div class="masthead-heading text-uppercase">Baranagar Baghajatin Social Welfare Organisation</div>
@@ -105,7 +105,7 @@
                             women and children. Now the organisation is taking an important role for up gradation of port status of the many other small village groups (Men & Women). It is registered under West Bengal Societies Registration Act, 1961.</h3>
                         <a id="btn-text" class="btn btn-primary text-uppercase" href=about.php>Read more</a>
                     </div>
-                    <div id="text2"><img src="./images/8.jpg" alt=""></div>
+                    <div id="text2"><img src="./images/aboutposter.jpeg" alt=""></div>
                 </div>
             </div>
 
@@ -305,6 +305,33 @@
             </form>
         </div>
     </section>
+    <div class="faq">
+    <div class="faq-card">
+    <h2 class="faq-card__title">FAQ</h2>
+    <ul class="faq-card__list">
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">How many team members can I invite?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">What is the maximum file upload size?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">No more than 2GB. All files in your account must fit your allotted storage space.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">How do I reset my password?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Click “Forgot password” from the login page or “Change password” from your profile page. A reset link will be emailed to you.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Can I cancel my subscription?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Click “Yes! Send us a message and we’ll process your request no questions asked Click “Yes! Send us a message and we’ll process your request no questions asked. Click “Yes! Send us a message and we’ll process your request no questions asked..</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Do you provide additional support?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Chat and email support is available 24/7. Phone lines are open during normal business hours.</p>
+      </li>
+    </ul>
+  </div>
+</div>
     <!-- Footer-->
     <footer class="footer py-4">
         <div class="container">
