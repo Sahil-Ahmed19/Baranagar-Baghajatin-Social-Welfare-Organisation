@@ -265,17 +265,15 @@
                                 <!-- Email address input-->
                                 <input class="form-control" id="email" name="email" type="email" placeholder="Your Email *" required>
                             </div>
-                            <div class="form-group mb-md-0">
+                            <div class="form-group ">
                                 <!-- Phone number input-->
                                 <input class="form-control" id="phone" name="phone" type="tel" placeholder="Your Phone *" required>
                             </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group form-group-textarea mb-md-0">
+                            <div class="form-group ">
                                 <!-- Message input-->
                                 <textarea class="form-control" id="message" name="message" placeholder="Your Message *" required></textarea>
                             </div>
-                        </div>
+                            </div>
                         <!-- Submit Button-->
                         <div class="text-center"><button class="btn btn-primary text-uppercase " id="submitButton" type="submit" onclick="sendEmail()">Send Message</button>
                         </div>
@@ -333,54 +331,7 @@
   </div>
 </div>
     <!-- Footer-->
-    <footer class="footer-distributed">
-
-<div class="footer-left">
-<!-- <img src="images/logo.jpeg"> -->
-    <h3>BB<span>SWO</span></h3>
-
-    <p class="footer-links">
-        <a href="#">Home</a>
-        |
-        <a href="#">Blog</a>
-        |
-        <a href="#">About</a>
-        |
-        <a href="#">Contact</a>
-    </p>
-
-    <p class="footer-company-name">© 2019 Eduonix Learning Solutions Pvt. Ltd.</p>
-</div>
-
-<div class="footer-center">
-    <div>
-        <i class="fa fa-map-marker"></i>
-          <p><span>36/8/1, Bagha Jatin Road, Baranagar</span>
-          North 24 Parganas, Kolkata- 700036</p>
-    </div>
-
-    <div>
-        <i class="fa fa-phone"></i>
-        <p>+91 9903194479</p>
-    </div>
-    <div>
-        <i class="fa fa-envelope"></i>
-        <p><a href="mailto:bananiraychowdhury683@gmail.com">bananiraychowdhury683@gmail.com</a></p>
-    </div>
-</div>
-<div class="footer-right">
-    <p class="footer-company-about">
-        <span>Govt. Regn. No. : S0143461 of 2006 to 2007</span>
-        </p>
-    <div class="footer-icons">
-        <a href="#"><i class="fab fa-facebook"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-instagram"></i></a>
-        <a href="#"><i class="fab fa-linkedin"></i></a>
-        <a href="#"><i class="fab fa-youtube"></i></a>
-    </div>
-</div>
-</footer>
+    <?php require_once 'footer.php'; ?>
     <!-- Portfolio Modals-->
     <!-- Portfolio item 1 modal popup-->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
