@@ -11419,7 +11419,7 @@
                             width: 2px;
                             margin-left: -1.5px;
                             content: "";
-                            background-color: #e9ecef;
+                            background-color: #ffca3a;
                         }
                         
                         .timeline>li {
@@ -12452,7 +12452,7 @@
                         }
                         
                         #apal .carousel .card:hover {
-                            background: rgba(65, 65, 65, 0.482);
+                            background: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -12576,7 +12576,7 @@
                         
                         #apal .carousel .card:hover {
                             /* background: rgba(65, 65, 65, 0.482); */
-                            background-color: wheat;
+                            background-color: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -13259,8 +13259,8 @@
                             padding: 0;
                         }
                         
-                        body {
+                        /* body {
                             background-color: #303030;
-                        }
+                        } */
                         /* changes */
                         /* changes */
