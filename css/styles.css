@@ -88,8 +88,8 @@
                             line-height: var(--bs-body-line-height);
                             color: var(--bs-body-color);
                             text-align: var(--bs-body-text-align);
-                            background-image: linear-gradient(to bottom, white, #adb5bd, #6c757d);
-                            /* background-color:#6c757d ; */
+                            /* background-image: linear-gradient(to bottom, white, #adb5bd, #6c757d); */
+                            background-color: white;
                             -webkit-text-size-adjust: 100%;
                             -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
                         }
@@ -3048,6 +3048,7 @@
                         .btn-primary {
                             margin-top: 0.7rem;
                             color: black;
+                            background: white;
                             font-weight: 700;
                             border-color: black;
                             border-radius: 10px;
@@ -11820,8 +11821,8 @@
                         }
                         
                         .text-center h2 {
-                            color: #d81159;
-                            border-bottom: 2px solid #8f2d56;
+                            color: #184E77;
+                            border-bottom: 2px solid #1A759F;
                             padding: 2rem;
                             text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
                             transform: (-50%, -50%);
@@ -11920,9 +11921,9 @@
                         }
                         
                         .missionvision h2 {
-                            color: #d81159;
+                            color: #184E77;
                             padding-bottom: 3%;
-                            border-bottom: 2px solid #8f2d56;
+                            border-bottom: 2px solid #1A759F;
                             text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
                             /* padding-top: 2rem; */
                             padding-left: 2rem;
@@ -12012,9 +12013,9 @@
                         }
                         
                         .missionvision h2 {
-                            color: #d81159;
+                            color: #184E77;
                             padding-bottom: 3%;
-                            border-bottom: 2px solid #8f2d56;
+                            border-bottom: 2px solid #1A759F;
                             text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
                             /* padding-top: 2rem; */
                             padding-left: 2rem;
@@ -12497,7 +12498,7 @@
                             margin: 0 5px;
                             outline: none!important;
                             border-radius: 50%;
-                            border: 2px solid crimson!important;
+                            border: 2px solid #1A759F!important;
                             transition: all 0.3s ease;
                         }
                         
@@ -12508,7 +12509,7 @@
                         
                         .owl-dot.active,
                         .owl-dot:hover {
-                            background: crimson!important;
+                            background: #1A759F!important;
                         }
                         
                         .vision {
@@ -12620,7 +12621,7 @@
                             margin: 0 5px;
                             outline: none!important;
                             border-radius: 50%;
-                            border: 2px solid crimson!important;
+                            border: 2px solid #1A759F!important;
                             transition: all 0.3s ease;
                         }
                         
@@ -12631,7 +12632,7 @@
                         
                         .owl-dot.active,
                         .owl-dot:hover {
-                            background: crimson!important;
+                            background: #1A759F!important;
                         }
                         
                         #qr {
@@ -12922,14 +12923,15 @@
                         }
                         
                         .faq-card {
-                            background: white;
-                            width: 100%;
-                            border-radius: 10px;
+                            background: black;
+                            width: 90%;
+                            margin-top: 20px;
+                            border-radius: 20px;
                             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
                         }
                         
                         .faq-card__title {
-                            color: #2a2623;
+                            color: white;
                             padding-block: 1em 0.6em;
                             text-align: center;
                             font-size: 2rem;
@@ -12941,18 +12943,19 @@
                         }
                         
                         .faq-card__item {
-                            color: #453f3a;
+                            color: white;
                             padding-block: 1em;
                             margin-inline: 1.5em;
-                            border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+                            border-bottom: 1px solid grey;
                         }
                         
                         .faq-card__button {
-                            color: #2a2623;
+                            color: white;
                             display: flex;
                             width: 100%;
                             cursor: pointer;
                             border: none;
+                            margin-right: 200px;
                             background: none;
                             align-items: center;
                             justify-content: space-between;
@@ -12967,7 +12970,7 @@
                         }
                         
                         .faq-card__button_active:hover:not(:focus) {
-                            color: #c76d52;
+                            color: white;
                         }
                         
                         .faq-card__button_active:not(:focus)+.faq-card__desc {
@@ -12992,7 +12995,8 @@
                         }
                         
                         .faq-card__icon {
-                            color: #c76d52;
+                            color: white;
+                            margin-right: 20px;
                         }
                         
                         .faq-card__desc {
