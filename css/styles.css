@@ -13007,14 +13007,14 @@
                         }
                         
                         footer {
-                            position: fixed;
+                            position: relative;
                             bottom: 0;
                         }
                         
                         @media (max-height:800px) {
-                            footer {
+                            /* footer {
                                 position: static;
-                            }
+                            } */
                             header {
                                 padding-top: 40px;
                             }
@@ -13192,11 +13192,11 @@
                                 margin-left: 0;
                             }
                         }
-                        /* changes */
                         
-                        .card-list {
+                        .heading1 {
                             display: flex;
                             justify-content: center;
+
                             flex-direction: row;
                             position: absolute;
                             left: 50%;
@@ -13262,5 +13262,8 @@
                         /* body {
                             background-color: #303030;
                         } */
+
                         /* changes */
                         /* changes */
+                        /* changes */
+                        /* changes*/
