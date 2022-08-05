@@ -13192,6 +13192,13 @@
                                 margin-left: 0;
                             }
                         }
+                        
+                        .heading1 {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
                         /* changes */
                         /* changes */
                         /* changes */
+                        /* changes*/
