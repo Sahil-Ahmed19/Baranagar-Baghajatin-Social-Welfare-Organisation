@@ -242,8 +242,8 @@
                 <div class="event-month">MAR</div>
               </div>
             </td>
-            <td>
-              Donec hendrerit massa metus, a ultrices elit iaculis eu. Pellentesque ullamcorper augue lacus.
+            <td >
+              Donec hendrerit massa metus, a ultrices elit iaculis eu. Pellentesque ullamcorper augue lacus.&nbsp&nbsp<span class="blink">New</span>
             </td>
           </tr>
           </table>
@@ -258,7 +258,7 @@
               </div>
             </td>
             <td>
-              Phasellus et est quis diam iaculis fringilla id nec sapien.
+              Phasellus et est quis diam iaculis fringilla id nec sapien.&nbsp&nbsp<span class="blink">New</span>
             </td>
           </tr>
           </table>
@@ -273,7 +273,7 @@
               </div>
             </td>
             <td>
-              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.
+              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.&nbsp&nbsp<span class="blink">New</span>
             </td>
           </tr>
           </table>

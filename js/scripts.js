@@ -75,7 +75,7 @@ $('.carousel').owlCarousel({
 });
 
     $("[data-autoscroll]").autoscroll({
-        interval: 1000
+        interval: 10000
     });
 
   $("[data-autoscroll]").autoscroll({
@@ -128,3 +128,10 @@ $(function() {
     });
 
 });
+var blink = 
+            document.getElementById('blink');
+  
+        setInterval(function () {
+            blink.style.opacity = 
+            (blink.style.opacity == 0 ? 1 : 0);
+        }, 1000); 
