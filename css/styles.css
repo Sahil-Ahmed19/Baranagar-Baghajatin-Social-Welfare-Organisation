@@ -13006,15 +13006,10 @@
                             margin-left: 17px;
                         }
                         
-                        footer {
-                            position: fixed;
-                            bottom: 0;
-                        }
-                        
                         @media (max-height:800px) {
-                            footer {
+                            /* footer {
                                 position: static;
-                            }
+                            } */
                             header {
                                 padding-top: 40px;
                             }
