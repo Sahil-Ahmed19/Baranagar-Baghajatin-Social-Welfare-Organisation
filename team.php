@@ -2,10 +2,9 @@
 <html lang="en">
 
 <head>
-<script type="text/javascript">
-        function openTab(th)
-        {
-            window.open(th.name,'_blank');
+    <script type="text/javascript">
+        function openTab(th) {
+            window.open(th.name, '_blank');
         }
     </script>
     <meta charset="utf-8" />
@@ -21,6 +20,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,200' rel='stylesheet' type='text/css'>
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js'></script>
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- Core theme CSS (includes Bootstrap)-->
@@ -56,11 +56,7 @@
 
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
-                <div id="board" class="col-lg-4">
-
-                </div>
-                <div id="board" class="col-lg-4">
-
+                <div class="col-lg-4">
                     <div class="team-member">
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h4>Mr. Sanjib Mukhopadhyay</h4>
@@ -118,11 +114,14 @@
                         <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                         <h4>Dr. Banani Ray Chowdhury</h4>
                         <p class="text-muted">Secretary,Chairman(RDD)</p>
-                        <p>Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social worker based on the field of Biotechnology and works actively in research on bio-waste management, Industrial Microbiology, bioremediation and medicinal plant.
-                            She is the founder and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
-                            She received a B.Sc degree from Calcutta University and B.Tech, M.Tech, PhD from Jadavpur University as well as Master in Social Welfare from Indira Gandhi National Open University, India.
-                            Dr. Banani has a strong interest in human and environmental Welfare. She serves actively for the Empowerment of underprivileged section of society.
-                            As she is interested towards the sustainability research and development, she has several national and international level scientific publications and two Indian Patents has been granted for her.</p>
+                        <div class="sidebar-box black">
+                            <p>Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social worker based on the field of Biotechnology and works actively in research on bio-waste management, Industrial Microbiology, bioremediation and medicinal plant.
+                                She is the founder and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
+                                She received a B.Sc degree from Calcutta University and B.Tech, M.Tech, PhD from Jadavpur University as well as Master in Social Welfare from Indira Gandhi National Open University, India.
+                                Dr. Banani has a strong interest in human and environmental Welfare. She serves actively for the Empowerment of underprivileged section of society.
+                                As she is interested towards the sustainability research and development, she has several national and international level scientific publications and two Indian Patents has been granted for her.</p>
+                            <p class="read-more"><a href="#" class="button">Read More</a></p>
+                        </div>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -290,16 +289,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
                     <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-
                 </div>
-
-
-    </div>
-
-        </div>
-        <div class="row">
-            <div class="col-lg-8 mx-auto text-center">
-                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
             </div>
         </div>
 
