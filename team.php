@@ -51,7 +51,10 @@
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row">
-                <!-- <div id="board" class="col-lg-4">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Board Members</h2>
+                </div>
+                <div id="board" class="col-lg-4">
                     <div class="team-member">
                         <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
                         <h4>Sankha Das</h4>
@@ -112,55 +115,28 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-8 mx-auto text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div> -->
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+            </div>
+        </div>
 
-                <div class="card-list">
-                    <div class="card">
-                        <figure class="profile"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/584938/people_1.png" />
-                            <figcaption>
-                                <p class="name">Mel Moe</p>
-                                <p class="position">Head of software</p>
-                            </figcaption>
-                        </figure>
-                        <div class="body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio voluptates quibusdam excepturi amet, itaque aliquid, a sed atque obcaecati delectus eum saepe</div>
-                    </div>
-                    <div class="card">
-                        <figure class="profile"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/584938/people_2.png" />
-                            <figcaption>
-                                <p class="name">Jane Doe</p>
-                                <p class="position">Founder &amp; CEO</p>
-                            </figcaption>
-                        </figure>
-                        <div class="body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio voluptates quibusdam excepturi amet, itaque aliquid, a sed atque obcaecati delectus eum saepe</div>
-                    </div>
-                    <div class="card">
-                        <figure class="profile"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/584938/people_3.png" />
-                            <figcaption>
-                                <p class="name">Michelle Doe</p>
-                                <p class="position">Managing Partner</p>
-                            </figcaption>
-                        </figure>
-                        <div class="body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio voluptates quibusdam excepturi amet, itaque aliquid, a sed atque obcaecati delectus eum saepe</div>
-                    </div>
-                </div>
-                <div id="member">
-                    <div class="text-center">
-                        <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
-                        <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-                    </div>
-                    <div class="para1">
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod optio qui reprehenderit? Commodi quam accusamus recusandae exercitationem eveniet ipsa similique! Doloribus fugiat vero temporibus nesciunt accusamus enim qui ad a repudiandae
-                            vitae necessitatibus officiis ratione, dicta dolor asperiores magni, eius, odit illum. Nisi maxime consequuntur debitis numquam, minima cum sunt!</p>
-                    </div class="para2">
-                    <div>
-                        <a id="btn-text" class="btn btn-primary text-uppercase" href=be_a_member.php>Be A Member</a>
-                    </div>
-                </div>
+        </div>
+        <div id="member">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
+                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
+            <div class="para1">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod optio qui reprehenderit? Commodi quam accusamus recusandae exercitationem eveniet ipsa similique! Doloribus fugiat vero temporibus nesciunt accusamus enim qui ad a repudiandae
+                    vitae necessitatibus officiis ratione, dicta dolor asperiores magni, eius, odit illum. Nisi maxime consequuntur debitis numquam, minima cum sunt!</p>
+            </div class="para2">
+            <div>
+                <a id="btn-text" class="btn btn-primary text-uppercase" href=be_a_member.php>Be A Member</a>
+            </div>
+        </div>
+        </div>
     </section>
 
 
