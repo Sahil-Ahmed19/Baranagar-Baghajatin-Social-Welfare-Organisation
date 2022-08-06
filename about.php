@@ -160,7 +160,7 @@
                         <div class="timeline-body">
                             <p class="text-muted">To acquire, establish, start, aid runmaintain or manage schools, colleges, libraries, hospitals for the benefit of the villages.
                             </p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="../assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
@@ -172,7 +172,7 @@
                         </div>
                         <div class="timeline-body">
                             <p class="text-muted">To promote and encourage advancement of library, cultural political, religious, scientific and technical education.</p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="../assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
@@ -183,7 +183,7 @@
                             <h4 class="subheading">2018-2019</h4>
                             <div class="timeline-body">
                                 <p class="text-muted">To collect and preserve manuscripts, paintings, sculptures, weeks of antiqui design.</p>
-                                <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="../assets/pdfs/Report 2016-17.pdf">Read more</a>
+                                <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
                             </div>
                         </div>
                 </li>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="timeline-body">
                             <p class="text-muted">To help the needy of all communities and both in rural and urban development.</p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="../assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
@@ -209,7 +209,7 @@
                         </div>
                         <div class="timeline-body">
                             <p class="text-muted">To collect donations, subscriptions and loan for rural / socio-economic development activities. </p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="../assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
