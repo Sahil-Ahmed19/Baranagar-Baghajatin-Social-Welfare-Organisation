@@ -1,10 +1,10 @@
 <footer class="footer-distributed">
 
 <div class="footer-left">
-<!-- <img src="images/logo.jpeg"> -->
+<img src="images/logo.jpeg">
     <h3>BB<span>SWO</span></h3>
 
-    <p class="footer-links">
+    <!-- <p class="footer-links">
         <a href="index.php">Home</a>
         |
         <a href="events.php">Projects</a>
@@ -12,7 +12,7 @@
         <a href="about.php">About</a>
         |
         <a href="index.php#contact">Contact</a>
-    </p>
+    </p> -->
 
     <p class="footer-company-name">© Baranagar Baghajatin Social Welfare Organisation</p>
 </div>
@@ -36,6 +36,7 @@
 <div class="footer-right">
     <p class="footer-company-about">
         <span>Legal</span>
+        <a href="#">Policy</a> <br>
         <a href="#">Registration Certificate <br></a>
         <a href="#">PAN Card</a> <br>
         <a href="#">Income Tax Exemption 12AA</a> <br>
