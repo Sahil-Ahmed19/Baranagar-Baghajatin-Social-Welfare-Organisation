@@ -36,11 +36,10 @@
 <div class="footer-right">
     <p class="footer-company-about">
         <span>Legal</span>
-        <a href="#">Policy</a> <br>
-        <a href="#">Registration Certificate <br></a>
-        <a href="#">PAN Card</a> <br>
-        <a href="#">Income Tax Exemption 12AA</a> <br>
-        <a href="#">Income Tax Exemption 80G</a>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO registration.pdf">Registration Certificate <br></a>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO pan.pdf">PAN Card</a> <br>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/12A.pdf">Income Tax Exemption 12AA</a> <br>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/80G.pdf">Income Tax Exemption 80G</a>
         </p>
     <div class="footer-icons">
         <a href="#"><i class="fab fa-facebook"></i></a>
