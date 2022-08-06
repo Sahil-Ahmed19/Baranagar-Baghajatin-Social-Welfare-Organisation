@@ -103,7 +103,7 @@ if(isset($_POST['submit'])){
                             </div>
                         </div>
                         
-                        <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton"  name="submit" value="Proceed to pay" type="submit">Preceed to Pay</button>
+                        <div class="text-center"><button class="btn btn-primary text-uppercase" id="submitButton"  name="submit" value="Proceed to pay" type="submit">Proceed to Pay</button>
                         </div>
                     </div>
                 </div>
