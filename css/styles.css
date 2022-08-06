@@ -11120,7 +11120,7 @@
                         }
                         
                         .page-section {
-                            padding: 6rem 0;
+                            padding: 3rem 0;
                         }
                         
                         .page-section h2.section-heading,
@@ -13415,4 +13415,14 @@
                             background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(255, 0, 0, 0)), color-stop(1, rgba(255, 0, 0, 100)));
                         }
                         /* changes*/
+                        .blink {
+                            animation: blinker 1.5s linear infinite;
+                            color: red;
+                            font-family: sans-serif;
+                        }
+                        @keyframes blinker {
+                            50% {
+                                opacity: 0;
+                            }
+                        }
 
