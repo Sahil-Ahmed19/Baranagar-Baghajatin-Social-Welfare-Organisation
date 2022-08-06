@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+<script type="text/javascript">
+        function openTab(th)
+        {
+            window.open(th.name,'_blank');
+        }
+    </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
@@ -252,7 +258,6 @@
             <!-- https://startbootstrap.com/solution/contact-forms-->
             <!-- to get an API token!-->
             <form id="contactForm">
-                <h1 class="sent-notification"></h1>
                 <div id="arghya">
                     <div id="gform" class="row align-items-stretch mb-5">
                         <h3>Enquiry</h3>

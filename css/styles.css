@@ -11419,7 +11419,7 @@
                             width: 2px;
                             margin-left: -1.5px;
                             content: "";
-                            background-color: #e9ecef;
+                            background-color: #ffca3a;
                         }
                         
                         .timeline>li {
@@ -12452,7 +12452,7 @@
                         }
                         
                         #apal .carousel .card:hover {
-                            background: rgba(65, 65, 65, 0.482);
+                            background: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -12576,7 +12576,7 @@
                         
                         #apal .carousel .card:hover {
                             /* background: rgba(65, 65, 65, 0.482); */
-                            background-color: wheat;
+                            background-color: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -13006,6 +13006,14 @@
                             margin-left: 17px;
                         }
                         
+<<<<<<< HEAD
+=======
+                        footer {
+                            position: relative;
+                            bottom: 0;
+                        }
+                        
+>>>>>>> 602cfa594dd57b424ed09a42f665e8c454591bb8
                         @media (max-height:800px) {
                             /* footer {
                                 position: static;
@@ -13187,11 +13195,11 @@
                                 margin-left: 0;
                             }
                         }
-                        /* changes */
                         
-                        .card-list {
+                        .heading1 {
                             display: flex;
                             justify-content: center;
+
                             flex-direction: row;
                             position: absolute;
                             left: 50%;
@@ -13254,8 +13262,11 @@
                             padding: 0;
                         }
                         
-                        body {
+                        /* body {
                             background-color: #303030;
-                        }
+                        } */
+
                         /* changes */
                         /* changes */
+                        /* changes */
+                        /* changes*/

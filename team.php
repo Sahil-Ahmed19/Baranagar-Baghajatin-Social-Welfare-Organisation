@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+<script type="text/javascript">
+        function openTab(th)
+        {
+            window.open(th.name,'_blank');
+        }
+    </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
@@ -47,10 +53,15 @@
             <div class="row">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Board Members</h2>
+<<<<<<< HEAD
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <div id="board" class="col-lg-4">
 
+=======
+                </div>
+                <div id="board" class="col-lg-4">
+>>>>>>> 602cfa594dd57b424ed09a42f665e8c454591bb8
                     <div class="team-member">
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h4>Mr. Sanjib Mukhopadhyay</h4>
@@ -276,11 +287,35 @@
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
                     <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
                 </div>
+=======
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
             </div>
+        </div>
+
+        </div>
+        <div id="member">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
+                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+>>>>>>> 602cfa594dd57b424ed09a42f665e8c454591bb8
+            </div>
+            <div class="para1">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod optio qui reprehenderit? Commodi quam accusamus recusandae exercitationem eveniet ipsa similique! Doloribus fugiat vero temporibus nesciunt accusamus enim qui ad a repudiandae
+                    vitae necessitatibus officiis ratione, dicta dolor asperiores magni, eius, odit illum. Nisi maxime consequuntur debitis numquam, minima cum sunt!</p>
+            </div class="para2">
+            <div>
+                <a id="btn-text" class="btn btn-primary text-uppercase" href=be_a_member.php>Be A Member</a>
+            </div>
+        </div>
+        </div>
     </section>
 
 
