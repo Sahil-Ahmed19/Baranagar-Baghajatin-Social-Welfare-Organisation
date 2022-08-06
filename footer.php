@@ -36,6 +36,7 @@
 <div class="footer-right">
     <p class="footer-company-about">
         <span>Legal</span>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO registration.pdf">Policy<br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO registration.pdf">Registration Certificate <br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO pan.pdf">PAN Card</a> <br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/12A.pdf">Income Tax Exemption 12AA</a> <br>
