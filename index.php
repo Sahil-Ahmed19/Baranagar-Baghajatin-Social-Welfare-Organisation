@@ -258,7 +258,6 @@
             <!-- https://startbootstrap.com/solution/contact-forms-->
             <!-- to get an API token!-->
             <form id="contactForm">
-                <h1 class="sent-notification"></h1>
                 <div id="arghya">
                     <div id="gform" class="row align-items-stretch mb-5">
                         <h3>Enquiry</h3>
