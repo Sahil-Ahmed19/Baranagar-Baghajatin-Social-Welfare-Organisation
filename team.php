@@ -287,12 +287,11 @@
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
+
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
                     <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-=======
+    </div>
         </div>
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
@@ -305,7 +304,7 @@
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
->>>>>>> 602cfa594dd57b424ed09a42f665e8c454591bb8
+
             </div>
             <div class="para1">
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod optio qui reprehenderit? Commodi quam accusamus recusandae exercitationem eveniet ipsa similique! Doloribus fugiat vero temporibus nesciunt accusamus enim qui ad a repudiandae
