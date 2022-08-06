@@ -73,3 +73,16 @@ $('.carousel').owlCarousel({
         }
     }
 });
+
+    $("[data-autoscroll]").autoscroll({
+        interval: 1000
+    });
+
+  $("[data-autoscroll]").autoscroll({
+    hideScrollbar: false
+  });
+
+  $("[data-autoscroll]").autoscroll({
+    handlerIn: null,
+    handlerOut: null
+  });
