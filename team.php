@@ -53,15 +53,14 @@
             <div class="row">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Board Members</h2>
-<<<<<<< HEAD
+
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <div id="board" class="col-lg-4">
 
-=======
                 </div>
                 <div id="board" class="col-lg-4">
->>>>>>> 602cfa594dd57b424ed09a42f665e8c454591bb8
+
                     <div class="team-member">
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h4>Mr. Sanjib Mukhopadhyay</h4>
