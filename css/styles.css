@@ -11419,7 +11419,7 @@
                             width: 2px;
                             margin-left: -1.5px;
                             content: "";
-                            background-color: #e9ecef;
+                            background-color: #ffca3a;
                         }
                         
                         .timeline>li {
@@ -12452,7 +12452,7 @@
                         }
                         
                         #apal .carousel .card:hover {
-                            background: rgba(65, 65, 65, 0.482);
+                            background: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -12576,7 +12576,7 @@
                         
                         #apal .carousel .card:hover {
                             /* background: rgba(65, 65, 65, 0.482); */
-                            background-color: wheat;
+                            background-color: rgb(34 33 33 / 4%);
                         }
                         
                         #apal .carousel .card .box {
@@ -13196,8 +13196,73 @@
                         .heading1 {
                             display: flex;
                             justify-content: center;
-                            align-items: center;
+
+                            flex-direction: row;
+                            position: absolute;
+                            left: 50%;
+                            /* top: 50%; */
+                            transform: translateY(-50%) translateX(-50%);
+                            max-width: 940px;
+                            text-align: center;
+                            width: 100%;
                         }
+                        
+                        .card {
+                            border: 5px solid transparent;
+                            color: #333;
+                            float: left;
+                            /* overflow: hidden; */
+                            position: relative;
+                            text-align: left;
+                            text-decoration: none;
+                            /* vertical-align: top; */
+                            width: 33.33%;
+                        }
+                        
+                        .profile {
+                            background-color: white;
+                        }
+                        
+                        .profile img {
+                            display: inline-block;
+                            height: 100px;
+                        }
+                        
+                        .profile figcaption {
+                            display: inline-block;
+                            padding: 10px;
+                            vertical-align: middle;
+                        }
+                        
+                        .profile .name {
+                            color: #303030;
+                            font-size: 21px;
+                        }
+                        
+                        .profile .position {
+                            color: #7A7A7A;
+                            font-size: 13px;
+                        }
+                        
+                        .body {
+                            background-color: #013C4D;
+                            color: white;
+                            font-size: 15px;
+                            font-style: italic;
+                            letter-spacing: 1px;
+                            line-height: 25px;
+                            padding: 25px;
+                        }
+                        
+                        p {
+                            margin: 0;
+                            padding: 0;
+                        }
+                        
+                        /* body {
+                            background-color: #303030;
+                        } */
+
                         /* changes */
                         /* changes */
                         /* changes */
