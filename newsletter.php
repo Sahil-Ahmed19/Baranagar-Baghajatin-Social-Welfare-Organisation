@@ -39,7 +39,7 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
-            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
+            <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
     </nav>
@@ -58,7 +58,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Threads</div> -->
@@ -73,7 +73,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Explore</div> -->
@@ -88,7 +88,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Finish</div> -->
@@ -103,7 +103,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Lines</div> -->
@@ -118,7 +118,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Southwest</div> -->
@@ -133,7 +133,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <i class="fas fa-newspaper" id="newsletter"></i>
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Window</div> -->
