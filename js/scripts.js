@@ -130,8 +130,14 @@ $(function() {
 });
 var blink = 
             document.getElementById('blink');
-  
         setInterval(function () {
             blink.style.opacity = 
             (blink.style.opacity == 0 ? 1 : 0);
         }, 1000); 
+
+
+
+        function myFunction() {
+            var popup = document.getElementById("myPopup");
+            popup.classList.toggle("show");
+        }
