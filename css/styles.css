@@ -8575,6 +8575,10 @@
                         }
                         
                         @media (min-width: 576px) {
+                            header.masthead .masthead-subheading img{
+                                width: 32%;
+                                margin-bottom: 25px;
+                            }
                             .float-sm-start {
                                 float: left !important;
                             }
@@ -11283,7 +11287,7 @@
                         
                         header.masthead .masthead-subheading img {
                             /* height: 100px; */
-                            width: 10%;
+                            width: 12%;
                             margin-bottom: 25px;
                         }
                         
@@ -11343,7 +11347,7 @@
                         #portfolio .portfolio-item .portfolio-caption {
                             padding: 1.5rem;
                             text-align: center;
-                            background-color: #fff;
+                            background-color: paleturquoise;
                         }
                         
                         #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
@@ -12227,6 +12231,7 @@
                                 margin: 0px 26px;
                             }
                             #aaaa h3 {
+                                text-align: center;
                                 color: #fff;
                                 padding-bottom: 6%;
                             }
@@ -13323,7 +13328,7 @@
                           }
 
                           .upcoming_events{
-                            margin: 10%;
+                            margin: 2% 10%;
                           }
 
                           .hide-scrollbar::-webkit-scrollbar {
@@ -13332,6 +13337,8 @@
                           
                           .data-list {
                             height: 500px;
+                            background: aliceblue;
+                            border-radius: 20px;
                             list-style: none;
                             width: 100%;
                             overflow-y: hidden;
@@ -13436,3 +13443,11 @@
                             text-align: justify;
                         }
 
+                        @media(max-width:900px){
+                            header.masthead .masthead-subheading img
+                            {
+                                width: 32%;
+                                margin-bottom: 25px;
+                            }
+                        }
+                       
