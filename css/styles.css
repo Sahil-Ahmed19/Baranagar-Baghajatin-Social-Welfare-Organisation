@@ -13417,7 +13417,8 @@
                         /* changes*/
                         .blink {
                             animation: blinker 1.5s linear infinite;
-                            color: red;
+                            color: yellow;
+                            background: red;
                             font-family: sans-serif;
                         }
                         @keyframes blinker {
