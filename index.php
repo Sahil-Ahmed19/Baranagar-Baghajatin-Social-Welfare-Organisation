@@ -25,6 +25,8 @@
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="js/jquery.autoscroll.js"></script>
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
 </head>
@@ -56,7 +58,7 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
-            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
+            <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
         </ul>
     </nav>
     <!-- <nav class="social">
@@ -67,6 +69,142 @@
         </ul>
     </nav> -->
     <!-- Services -->
+
+    <div class="upcoming_events">
+    <div class="blog-post blog-single-post">
+      <div class="text-center">
+        <h2>UPCOMING EVENTS</h2>
+      </div>
+      <div class="single-post-content">
+        <ul class="data-list" data-autoscroll>
+            <li>
+            <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">16</div>
+                <div class="event-month">MAR</div>
+              </div>
+            </td>
+            <td >
+              Donec hendrerit massa metus, a ultrices elit iaculis eu. Pellentesque ullamcorper augue lacus.&nbsp&nbsp<span class="blink">New</span>
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">5</div>
+                <div class="event-month">APR</div>
+              </div>
+            </td>
+            <td>
+              Phasellus et est quis diam iaculis fringilla id nec sapien.&nbsp&nbsp<span class="blink">New</span>
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">31</div>
+                <div class="event-month">MAY</div>
+              </div>
+            </td>
+            <td>
+              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.&nbsp&nbsp<span class="blink">New</span>
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">17</div>
+                <div class="event-month">SEP</div>
+              </div>
+            </td>
+            <td>
+              Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">16</div>
+                <div class="event-month">MAR</div>
+              </div>
+            </td>
+            <td>
+              Hi I am Sahil
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">5</div>
+                <div class="event-month">APR</div>
+              </div>
+            </td>
+            <td>
+              Phasellus et est quis diam iaculis fringilla id nec sapien.
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">31</div>
+                <div class="event-month">MAY</div>
+              </div>
+            </td>
+            <td>
+              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.
+            </td>
+          </tr>
+          </table>
+    </li>
+    <li>
+    <table class="events-list">
+          <tr>
+            <td style="width:10%">
+              <div class="event-date">
+                <div class="event-day">17</div>
+                <div class="event-month">SEP</div>
+              </div>
+            </td>
+            <td>
+              Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
+            </td>
+          </tr>
+    </table>
+    </li>
+    </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+    
     <section class="page-section" id="services">
         <div class="container">
             <div class="text-center">

@@ -74,6 +74,18 @@ $('.carousel').owlCarousel({
     }
 });
 
+    $("[data-autoscroll]").autoscroll({
+        interval: 10000
+    });
+
+  $("[data-autoscroll]").autoscroll({
+    hideScrollbar: false
+  });
+
+  $("[data-autoscroll]").autoscroll({
+    handlerIn: null,
+    handlerOut: null
+  });
 
 // team 
 $(function() {
@@ -116,3 +128,10 @@ $(function() {
     });
 
 });
+var blink = 
+            document.getElementById('blink');
+  
+        setInterval(function () {
+            blink.style.opacity = 
+            (blink.style.opacity == 0 ? 1 : 0);
+        }, 1000); 

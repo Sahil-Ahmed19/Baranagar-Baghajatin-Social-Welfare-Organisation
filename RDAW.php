@@ -43,7 +43,7 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
-            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
+            <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
     </nav>
@@ -54,6 +54,9 @@
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">Publications</h2>
+                <h4>Patent</h4><br>
+                <h4>Journal</h4><br>
+                <h4>Book</h4><br>
             </div>
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">International Collaborations</h2>

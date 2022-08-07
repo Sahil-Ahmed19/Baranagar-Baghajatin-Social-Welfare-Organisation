@@ -39,7 +39,7 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
-            <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li>
+            <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
     </nav>
@@ -58,11 +58,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Threads</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter May 2022-July 2022</div>
+                            <div class="portfolio-caption-subheading text-muted">May 2022-July 2022</div>
                         </div>
                     </div>
                 </div>
@@ -73,11 +73,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Explore</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter February 2022-April 2022</div>
+                            <div class="portfolio-caption-subheading text-muted">February 2022-April 2022</div>
                         </div>
                     </div>
                 </div>
@@ -88,11 +88,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/tree.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Finish</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter November 2021-January 2022</div>
+                            <div class="portfolio-caption-subheading text-muted">November 2021-January 2022</div>
                         </div>
                     </div>
                 </div>
@@ -103,11 +103,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Lines</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter August 2021-September 2021</div>
+                            <div class="portfolio-caption-subheading text-muted">August 2021-September 2021</div>
                         </div>
                     </div>
                 </div>
@@ -118,11 +118,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_134014.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Southwest</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter May 2021-July 2021</div>
+                            <div class="portfolio-caption-subheading text-muted">May 2021-July 2021</div>
                         </div>
                     </div>
                 </div>
@@ -133,11 +133,11 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">View PDF</div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
+                            <img src="assets/img/about/newsletter1.png"></img>
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Window</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Newsletter February 2021-April 2021</div>
+                            <div class="portfolio-caption-subheading text-muted">February 2021-April 2021</div>
                         </div>
                     </div>
                 </div>
