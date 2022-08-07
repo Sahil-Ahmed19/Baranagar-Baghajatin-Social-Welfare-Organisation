@@ -70,13 +70,13 @@
             <div class="mission">
                 <span class="icon fas fa-bullseye"></span>
                 <h2 class="section-heading text-uppercase">Mission</h2>
-                <div>To provide meaningful opportunities to the disadvantaged and underprivileged, with a greater emphasis on the empowerment of women and various other vulnerable sections of the society, as well as incorporating Green-Technology and Bio-Waste
+                <div class="mis-vis">To provide meaningful opportunities to the disadvantaged and underprivileged, with a greater emphasis on the empowerment of women and various other vulnerable sections of the society, as well as incorporating Green-Technology and Bio-Waste
                     Management, including numerous Green-technologies, so as to achieve high level of sustained socio-economical development.</div>
             </div>
             <div class="vision">
                 <span class="icon far fa-eye"></span>
                 <h2 class="section-heading text-uppercase">Vision</h2>
-                <div>“Baranagar Baghajatin Social Welfare Organisation”, fights the social evils of caste, creed, gender discrimination, illiteracy, ill health, poverty and exploitation. Where men and women move hand-in-hand and in perfect harmony with nature,
+                <div class="mis-vis">“Baranagar Baghajatin Social Welfare Organisation”, fights the social evils of caste, creed, gender discrimination, illiteracy, ill health, poverty and exploitation. Where men and women move hand-in-hand and in perfect harmony with nature,
                     to attain higher level of humaneness and camaraderie. </div>
             </div>
         </div>
@@ -88,57 +88,57 @@
                 <div class="carousel owl-carousel ">
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To aid, run, maintain and manage schools, colleges, libraries and hospitals for the benefit of the village.</div>
+                            <div class="text">To aid, run, maintain and manage schools, colleges, libraries and hospitals for the benefit of the village.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To promote and encourage the advancement of libraries, cultural, political, religious along with scientific and technical education.</div>
+                            <div class="text">To promote and encourage the advancement of libraries, cultural, political, religious along with scientific and technical education.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To collect and preserve manuscripts, paintings, sculptures of antique design.</div>
+                            <div class="text">To collect and preserve manuscripts, paintings, sculptures of antique design.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To help the needy in both rural and urban development.</div>
+                            <div class="text">To help the needy in both rural and urban development.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To collect donations, subscriptions and loan for activities in rural and socio-economic development.</div>
+                            <div class="text">To collect donations, subscriptions and loan for activities in rural and socio-economic development.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To help the aged, sick and helpless villagers of all communities.</div>
+                            <div class="text">To help the aged, sick and helpless villagers of all communities.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To construct, maintain, develop and alter any building, houses or other works necessary or convenience.</div>
+                            <div class="text">To construct, maintain, develop and alter any building, houses or other works necessary or convenience.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To help the underprivileged women of society to upgrade their standard of living through optimum use of their inherent skill of resources.</div>
+                            <div class="text">To help the underprivileged women of society to upgrade their standard of living through optimum use of their inherent skill of resources.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To take up welfare programmes for the distressed people and organise social work.</div>
+                            <div class="text">To take up welfare programmes for the distressed people and organise social work.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To strengthen grassroot capabilities by building confidence, problem solving skills and resilience among local people.</div>
+                            <div class="text">To strengthen grassroot capabilities by building confidence, problem solving skills and resilience among local people.</div>
                         </div>
                     </div>
                     <div class="card ">
                         <div class="box ">
-                            <div class="text ">To eradicate the distinction on the basis of class, community, creed or race by promoting unity, peace, love and brotherhood amongst people.</div>
+                            <div class="text">To eradicate the distinction on the basis of class, community, creed or race by promoting unity, peace, love and brotherhood amongst people.</div>
                         </div>
                     </div>
                 </div>
