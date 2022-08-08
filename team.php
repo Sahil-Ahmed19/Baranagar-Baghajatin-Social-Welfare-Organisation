@@ -3,9 +3,9 @@
 
 <head>
     <script type="text/javascript">
-        function openTab(th) {
-            window.open(th.name, '_blank');
-        }
+    function openTab(th) {
+        window.open(th.name, '_blank');
+    }
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -37,7 +37,8 @@
     </div> -->
     <nav class="social">
         <ul>
-            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
+            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif"
+                        alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
@@ -59,10 +60,24 @@
                     <div class="team-member">
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h4>Mr. Sanjib Mukhopadhyay</h4>
+
                         <p class="text-muted">President</p>
-                        <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis adipisci a architecto dolores aperiam similique eos molestias est eum earum in, deleniti cupiditate voluptatem modi fugit repudiandae corrupti, ipsum veniam placeat iusto non provident iste ut. Facilis minima accusantium cumque! Modi necessitatibus incidunt at totam ipsum officia obcaecati cum nihil?</span>
+                        <div class="container1">
+                            <div class="content1">
+                                <h4>Heading...</h4>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo numquam veniam placeat
+                                    quam sequi fuga,
+                                    tempore in libero repellendus dicta similique odio, ipsam voluptas omnis cumque
+                                    neque corrupti aliquid
+                                    sit mollitia, animi suscipit eius quisquam exercitationem? Mollitia nesciunt
+                                    officia, provident, iure
+                                    pariatur tempora deserunt iusto maxime nihil quam, magnam laudantium!</p>
+                            </div>
+                            <div class="toggleBtn"></div>
                         </div>
+                        <!-- <div class="popup" onclick="myFunction()">READ MORE
+                            <span class="popuptext" id="myPopup"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis adipisci a architecto dolores aperiam similique eos molestias est eum earum in, deleniti cupiditate voluptatem modi fugit repudiandae corrupti, ipsum veniam placeat iusto non provident iste ut. Facilis minima accusantium cumque! Modi necessitatibus incidunt at totam ipsum officia obcaecati cum nihil?</span>
+                        </div> -->
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a> -->
@@ -74,11 +89,20 @@
                         <h4>Dr. Banani Ray Chowdhury</h4>
                         <p class="text-muted">Secretary</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social worker based on the field of Biotechnology and works actively in research on bio-waste management, Industrial Microbiology, bioremediation and medicinal plant.
-                                She is the founder and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
-                                She received a B.Sc degree from Calcutta University and B.Tech, M.Tech, PhD from Jadavpur University as well as Master in Social Welfare from Indira Gandhi National Open University, India.
-                                Dr. Banani has a strong interest in human and environmental Welfare. She serves actively for the Empowerment of underprivileged section of society.
-                                As she is interested towards the sustainability research and development, she has several national and international level scientific publications and two Indian Patents has been granted for her.</span>
+                            <span class="popuptext" id="myPopup">Dr. Banani Ray Chowdhury is a successful Indian
+                                scientist, engineer, professor and social worker based on the field of Biotechnology and
+                                works actively in research on bio-waste management, Industrial Microbiology,
+                                bioremediation and medicinal plant.
+                                She is the founder and secretary of Baranagar Baghajatin Social Welfare Organisation
+                                (BBSWO). Kolkata, India.
+                                She received a B.Sc degree from Calcutta University and B.Tech, M.Tech, PhD from
+                                Jadavpur University as well as Master in Social Welfare from Indira Gandhi National Open
+                                University, India.
+                                Dr. Banani has a strong interest in human and environmental Welfare. She serves actively
+                                for the Empowerment of underprivileged section of society.
+                                As she is interested towards the sustainability research and development, she has
+                                several national and international level scientific publications and two Indian Patents
+                                has been granted for her.</span>
                         </div>
                         <!-- <p>Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social worker based on the field of Biotechnology and works actively in research on bio-waste management, Industrial Microbiology, bioremediation and medicinal plant.
                             She is the founder and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
@@ -96,7 +120,11 @@
                         <h4>Mr. Sankha Das</h4>
                         <p class="text-muted">Treasurer</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem totam et quos facilis nulla ipsam voluptatem iusto perspiciatis, eligendi blanditiis ipsa, quo amet nihil explicabo maiores odio eaque a accusantium veniam minima! Deleniti asperiores magni adipisci id at pariatur itaque quidem corrupti autem labore. Voluptatibus adipisci laboriosam iure. Dolores, fugit.
+                            <span class="popuptext" id="myPopup">Lorem ipsum dolor sit amet consectetur adipisicing
+                                elit. Quidem totam et quos facilis nulla ipsam voluptatem iusto perspiciatis, eligendi
+                                blanditiis ipsa, quo amet nihil explicabo maiores odio eaque a accusantium veniam
+                                minima! Deleniti asperiores magni adipisci id at pariatur itaque quidem corrupti autem
+                                labore. Voluptatibus adipisci laboriosam iure. Dolores, fugit.
                             </span>
                         </div>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -116,7 +144,10 @@
                         <h4>Mr. Sanjib Mukhopadhyay</h4>
                         <p class="text-muted">President</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae vero minima eos, commodi harum fugiat, veniam iure magni ab optio quo explicabo id reprehenderit voluptate sequi? Explicabo vero saepe dolorem fuga error veritatis facere!</span>
+                            <span class="popuptext" id="myPopup"> Lorem ipsum dolor sit amet consectetur adipisicing
+                                elit. Beatae vero minima eos, commodi harum fugiat, veniam iure magni ab optio quo
+                                explicabo id reprehenderit voluptate sequi? Explicabo vero saepe dolorem fuga error
+                                veritatis facere!</span>
                         </div>
                         <!-- 
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -130,7 +161,11 @@
                         <h4>Dr. Banani Ray Chowdhury</h4>
                         <p class="text-muted">Secretary,Chairman(RDAW)</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum odit quia nisi asperiores, veniam tempora libero ipsam totam culpa sunt consectetur quae sit, hic earum voluptatum necessitatibus debitis obcaecati? Distinctio magnam voluptatem ipsum asperiores cumque? Laudantium ad, expedita odio id nemo aperiam blanditiis repellat minima eveniet? Ipsum, recusandae. Corporis, voluptatem.</span>
+                            <span class="popuptext" id="myPopup">Lorem ipsum dolor sit amet consectetur adipisicing
+                                elit. Harum odit quia nisi asperiores, veniam tempora libero ipsam totam culpa sunt
+                                consectetur quae sit, hic earum voluptatum necessitatibus debitis obcaecati? Distinctio
+                                magnam voluptatem ipsum asperiores cumque? Laudantium ad, expedita odio id nemo aperiam
+                                blanditiis repellat minima eveniet? Ipsum, recusandae. Corporis, voluptatem.</span>
                         </div>
                         <!-- <div class="sidebar-box black">
                             <p>Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social worker based on the field of Biotechnology and works actively in research on bio-waste management, Industrial Microbiology, bioremediation and medicinal plant.
@@ -151,7 +186,11 @@
                         <h4>Mr. Sankha Das</h4>
                         <p class="text-muted">Treasurer</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius
+                                saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium
+                                dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam
+                                laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
                         </div>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -164,7 +203,10 @@
                         <h4>Mrs. Mua Santra</h4>
                         <p class="text-muted">Assistant Secretary, Legal Advisor</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup"> I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah Court. I also attached with many social works.</span>
+                            <span class="popuptext" id="myPopup"> I had passed madhyamik from Tarasundari Balika
+                                Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B
+                                degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah
+                                Court. I also attached with many social works.</span>
                         </div>
                         <!-- <p>I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah Court. I also attached with many social works.</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -178,7 +220,11 @@
                         <h4>Dr. Chaitali Dutta</h4>
                         <p>Vice-President, Deputy Director (RDAW)</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius
+                                saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium
+                                dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam
+                                laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
                         </div>
                         <!-- <p class="text-muted">Vice-President, Deputy Director (RDD)</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -192,7 +238,11 @@
                         <h4>Mr. Satyendra Nath Das</h4>
                         <p class="text-muted">Empowerment Director</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Eveniet tempora ea similique, minima adipisci saepe! Illum unde quisquam eius
+                                saepe. Minus doloremque et ex fugiat numquam rerum amet aliquam ab, quo praesentium
+                                dolore, doloribus voluptatum eum molestias quis perspiciatis eaque nesciunt totam
+                                laborum! Culpa fuga magni cupiditate accusamus voluptatem aut!</span>
                         </div>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -205,7 +255,9 @@
                         <h4>Mr. Sayan Bhattacharya</h4>
                         <p class="text-muted">Sustainability Officer</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">I work for an IT MNC IBM as a SAP application Developer. I am associated with a manufacturing business of variety Eco-friendly products of "Disposable PAPER PLATES & BOWLS".</span>
+                            <span class="popuptext" id="myPopup">I work for an IT MNC IBM as a SAP application
+                                Developer. I am associated with a manufacturing business of variety Eco-friendly
+                                products of "Disposable PAPER PLATES & BOWLS".</span>
                         </div>
                         <!-- <p>I work for an IT MNC IBM as a SAP application Developer. I am associated with a manufacturing business of variety Eco-friendly products of "Disposable PAPER PLATES & BOWLS".</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -215,13 +267,45 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="./images/Arghya - Image (1) - Arghya Chakravorty.JPG" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/Arghya - Image (1) - Arghya Chakravorty.JPG"
+                            alt="..." />
                         <h4>Dr. Arghya Chakavorty</h4>
                         <p class="text-muted">Director (RDAW)</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">(Dr.) Arghya Chakravorty is an early career, young, passionate researcher & enthusiastic active member of the American Chemical Society; Solid Waste Association of North America; British Society for Antimicrobial Chemotherapy, as well as a registered doctoral fellow at the Centre for Nanotechnology Research, Vellore Institute of Technology – Vellore, India; holding five Indian patents, while his research interest is interdisciplinary material science & biotechnology. He also likes to deal with different aspects of human resources and professional relationships. He has contributed to editing five books for international publishers like Springer Nature - Singapore, and CRC Press - Taylor & Francis, USA; and to a dozen of book chapters for different renowned international publishers like Elsevier, Springer, CRC Press, and IGI Global - USA; a couple of research as well as review papers in globally indexed international journals. He has been added as a reviewer of several international standard books and reputed peer-reviewed SCI journals and awarded several national and international recognitions. Along with the Ph.D. project, he has independently collaborated with and successfully taken part in several collaborative research activities with different national and international academia like Queensland University of Technology, Australia; National University of Singapore, Singapore; North University of China, China; Huazhong University of Science and Technology, Wuhan, China; Alexandria University, Egypt and he proved his extraordinary interpersonal skills and multidimensional research interest.
+                            <span class="popuptext" id="myPopup">(Dr.) Arghya Chakravorty is an early career, young,
+                                passionate researcher & enthusiastic active member of the American Chemical Society;
+                                Solid Waste Association of North America; British Society for Antimicrobial
+                                Chemotherapy, as well as a registered doctoral fellow at the Centre for Nanotechnology
+                                Research, Vellore Institute of Technology – Vellore, India; holding five Indian patents,
+                                while his research interest is interdisciplinary material science & biotechnology. He
+                                also likes to deal with different aspects of human resources and professional
+                                relationships. He has contributed to editing five books for international publishers
+                                like Springer Nature - Singapore, and CRC Press - Taylor & Francis, USA; and to a dozen
+                                of book chapters for different renowned international publishers like Elsevier,
+                                Springer, CRC Press, and IGI Global - USA; a couple of research as well as review papers
+                                in globally indexed international journals. He has been added as a reviewer of several
+                                international standard books and reputed peer-reviewed SCI journals and awarded several
+                                national and international recognitions. Along with the Ph.D. project, he has
+                                independently collaborated with and successfully taken part in several collaborative
+                                research activities with different national and international academia like Queensland
+                                University of Technology, Australia; National University of Singapore, Singapore; North
+                                University of China, China; Huazhong University of Science and Technology, Wuhan, China;
+                                Alexandria University, Egypt and he proved his extraordinary interpersonal skills and
+                                multidimensional research interest.
 
-                                Prior to the VIT Vellore, he earned B.Sc. Honors (Microbiology) from Vidyasagar University, West Bengal, India, and a first-class M.Sc. (Microbiology) from Hemvati Nandan Bahuguna Garhwal (Central) University, Srinagar – Garhwal, Uttrakhand, India as well as PG Diploma in Aviation & Hospitality Services, and served himself as PGT - Biology at Brilliant Stars School (Affiliated by CBSE – New Delhi), Udaipur, India. He has successfully completed certificate courses in Customer Relationship Management from the Indian Institute of Management Bangalore, India; and Bioethics from Harvard Medical School, Harvard Medical School, USA. He has also guided two non-profit projects in the field of public health & community medicine in collaboration with North University of China, Taiyuan, China & Huazhong University of Science and Technology, Wuhan, China as a Principal Investigator and Adjunct Research Associate of SANCHARAN, (A socio-cultural organization) 4289/2003, Agartala 799001, India; those projects were successfully presented at RECYCLE 2020, hosted by IIT- Guwahati, India.
+                                Prior to the VIT Vellore, he earned B.Sc. Honors (Microbiology) from Vidyasagar
+                                University, West Bengal, India, and a first-class M.Sc. (Microbiology) from Hemvati
+                                Nandan Bahuguna Garhwal (Central) University, Srinagar – Garhwal, Uttrakhand, India as
+                                well as PG Diploma in Aviation & Hospitality Services, and served himself as PGT -
+                                Biology at Brilliant Stars School (Affiliated by CBSE – New Delhi), Udaipur, India. He
+                                has successfully completed certificate courses in Customer Relationship Management from
+                                the Indian Institute of Management Bangalore, India; and Bioethics from Harvard Medical
+                                School, Harvard Medical School, USA. He has also guided two non-profit projects in the
+                                field of public health & community medicine in collaboration with North University of
+                                China, Taiyuan, China & Huazhong University of Science and Technology, Wuhan, China as a
+                                Principal Investigator and Adjunct Research Associate of SANCHARAN, (A socio-cultural
+                                organization) 4289/2003, Agartala 799001, India; those projects were successfully
+                                presented at RECYCLE 2020, hosted by IIT- Guwahati, India.
 
                                 Google Scholar ID: https://scholar.google.com/citations?user=Q9w0hisAAAAJ&hl=en</span>
                         </div>
@@ -241,7 +325,10 @@
                         <h4>Mr. Binayak Pal</h4>
                         <p class="text-muted">President (RDAW)</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Working as Principal Technical Officer in Central Instrument Division at C.S.I.R - Indian Institute of Chemical Biology, Jadavpur, Kolkata-700032. Aged 52, having a house at Fuleswar, Howrah-711316 and local address is Annapurna Apartment, Flat No. 6, 8 North Road, Jadavpur, Kolkata-700032.</span>
+                            <span class="popuptext" id="myPopup">Working as Principal Technical Officer in Central
+                                Instrument Division at C.S.I.R - Indian Institute of Chemical Biology, Jadavpur,
+                                Kolkata-700032. Aged 52, having a house at Fuleswar, Howrah-711316 and local address is
+                                Annapurna Apartment, Flat No. 6, 8 North Road, Jadavpur, Kolkata-700032.</span>
                         </div>
                         <!-- <p>Working as Principal Technical Officer in Central Instrument Division at C.S.I.R - Indian Institute of Chemical Biology, Jadavpur, Kolkata-700032. Aged 52, having a house at Fuleswar, Howrah-711316 and local address is Annapurna Apartment, Flat No. 6, 8 North Road, Jadavpur, Kolkata-700032.</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -255,7 +342,8 @@
                         <h4> Dr. Tapan Kumar Pal</h4>
                         <p class="text-muted">Scientific Officer (RDAW)</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Experience on Agricultural science, food science and gardening.</span>
+                            <span class="popuptext" id="myPopup">Experience on Agricultural science, food science and
+                                gardening.</span>
                         </div>
                         <!-- <p>Experience on Agricultural science, food science and gardening.</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -275,7 +363,11 @@
                         <h4>Dr. Krishanu Chakraborty</h4>
                         <p class="text-muted">Scientific Advisor</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reprehenderit sunt doloremque quisquam aliquid maxime saepe repellat, magni expedita cumque delectus quae, dicta ipsam. Officia, magnam alias iusto quis dicta doloribus similique eveniet autem obcaecati qui debitis optio dolorem labore amet maxime perspiciatis praesentium id odio minima assumenda, ipsam distinctio.</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Necessitatibus reprehenderit sunt doloremque quisquam aliquid maxime saepe
+                                repellat, magni expedita cumque delectus quae, dicta ipsam. Officia, magnam alias iusto
+                                quis dicta doloribus similique eveniet autem obcaecati qui debitis optio dolorem labore
+                                amet maxime perspiciatis praesentium id odio minima assumenda, ipsam distinctio.</span>
                         </div>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -288,7 +380,12 @@
                         <h4>Ms. Pallabi Roy Chaudhuri</h4>
                         <p class="text-muted">Public Relation Advisor</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit recusandae reprehenderit dolores adipisci beatae et praesentium veritatis, unde deleniti molestias illum mollitia dicta sequi doloremque est officiis incidunt. Ratione asperiores quas quaerat sunt aliquid itaque, placeat tempore harum esse adipisci modi quis necessitatibus aspernatur sapiente, dolorum vel architecto ipsa! Mollitia.</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Odit recusandae reprehenderit dolores adipisci beatae et praesentium veritatis,
+                                unde deleniti molestias illum mollitia dicta sequi doloremque est officiis incidunt.
+                                Ratione asperiores quas quaerat sunt aliquid itaque, placeat tempore harum esse adipisci
+                                modi quis necessitatibus aspernatur sapiente, dolorum vel architecto ipsa!
+                                Mollitia.</span>
                         </div>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
@@ -301,7 +398,12 @@
                         <h4>Mrs. Mau Santra</h4>
                         <p class="text-muted">Legal Advisor</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit recusandae reprehenderit dolores adipisci beatae et praesentium veritatis, unde deleniti molestias illum mollitia dicta sequi doloremque est officiis incidunt. Ratione asperiores quas quaerat sunt aliquid itaque, placeat tempore harum esse adipisci modi quis necessitatibus aspernatur sapiente, dolorum vel architecto ipsa! Mollitia.</span>
+                            <span class="popuptext" id="myPopup">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                elit. Odit recusandae reprehenderit dolores adipisci beatae et praesentium veritatis,
+                                unde deleniti molestias illum mollitia dicta sequi doloremque est officiis incidunt.
+                                Ratione asperiores quas quaerat sunt aliquid itaque, placeat tempore harum esse adipisci
+                                modi quis necessitatibus aspernatur sapiente, dolorum vel architecto ipsa!
+                                Mollitia.</span>
                         </div>
                         <!-- <p>I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah Court. I also attached with many social works.</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -327,7 +429,10 @@
                         <h4>Mr. Pradip Kumar Koley</h4>
                         <p class="text-muted">Community Development officer</p>
                         <div class="popup" onclick="myFunction()">READ MORE
-                            <span class="popuptext" id="myPopup">I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah Court. I also attached with many social works.</span>
+                            <span class="popuptext" id="myPopup">I had passed madhyamik from Tarasundari Balika
+                                Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B
+                                degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah
+                                Court. I also attached with many social works.</span>
                         </div>
                         <!-- <p>I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D college in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus. Presently I am practising in Howrah Court. I also attached with many social works.</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
@@ -504,6 +609,14 @@
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    <script>
+    let toggleBtn = document.querySelector('.toggleBtn');
+    let container1 = document.querySelector('.container1');
+
+    toggleBtn.onclick = function() {
+        container1.classList.toggle('active');
+    }
+    </script>
 
 </body>
 
