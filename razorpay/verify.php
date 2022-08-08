@@ -1,8 +1,10 @@
 <?php
 
 require('config1.php');
-
 session_start();
+$conn=mysqli_connect($host,$username,$password,$dbname);
+
+
 
 require('razorpay-php/Razorpay.php');
 use Razorpay\Api\Api;
@@ -38,6 +40,19 @@ if (empty($_POST['razorpay_payment_id']) === false)
 
 if ($success === true)
 {
+    $razorpay_order_id=$_SESSION['razorpay_order_id'];
+    $razorpay_payment_id=$_POST['razorpay_payment_id'];
+    $price=$_SESSION['price'];
+    $name=$_SESSION['name'];
+    $phone=$_SESSION['phone'];
+    $email=$_SESSION['email'];
+    $isMember=$_SESSION['isMember'];
+    if($isMember === true){
+    $sql= "INSERT INTO `members` (`razorpay_order_id`, `razorpay_payment_id`, `status`, `email`, `name`, `phone`, `price`) VALUES ( '$razorpay_order_id', '$razorpay_payment_id', 'success', '$email', '$name', '$phone', '$price')";
+    }else{
+    $sql= "INSERT INTO `donation` (`razorpay_order_id`, `razorpay_payment_id`, `status`, `email`, `name`, `phone`, `price`) VALUES ( '$razorpay_order_id', '$razorpay_payment_id', 'success', '$email', '$name', '$phone', '$price')";
+    }
+    mysqli_query($conn,$sql);
     $html = "<p>Your payment was successful</p>
              <p>Payment ID: {$_POST['razorpay_payment_id']}</p>";
 }
