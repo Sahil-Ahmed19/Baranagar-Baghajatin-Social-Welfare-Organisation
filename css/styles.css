@@ -14691,71 +14691,89 @@
 
                         /* changes */
 
-                        .popup {
-                            position: relative;
-                            display: inline-block;
-                            cursor: pointer;
-                            -webkit-user-select: none;
-                            -moz-user-select: none;
-                            -ms-user-select: none;
-                            user-select: none;
-                            background-color: #58c06d;
-                            padding: 5px;
-                            border-radius: 10px;
+
+
+                        /* changes  */
+                        .container1 {
+                            width: 0px;
+                            height: 0px;
+                            background: rgb(210, 117, 117);
+                            border-radius: 25PX;
+                            transition: 0.5s;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
                         }
 
-                        /* The actual popup */
-                        .popup .popuptext {
-                            visibility: hidden;
-                            width: 200px;
-                            background-color: #555;
+                        .container1.active {
+                            width: 400px;
+                            height: 400px;
+                            /* transition-delay: 0.5s; */
+
+                        }
+
+                        .container1::before {
+                            content: '';
+                            position: absolute;
+                            bottom: -28px;
+                            left: 50px;
+                            width: 40px;
+                            height: 40px;
+                            background: rgb(210, 117, 117);
+                            border-radius: 5px;
+                            opacity: 0;
+                            transition: 0.5s;
+                            transform: rotate(45deg);
+                        }
+
+                        .container1.active::before {
+                            transition-delay: 0.5s;
+                            opacity: 1;
+                            /* transition: 0.5s; */
+                        }
+
+                        .container1 .content1 {
+                            min-width: 400px;
+                            justify-content: center;
+                            align-items: center;
+                            padding: 40px;
                             color: #fff;
-                            text-align: center;
-                            border-radius: 6px;
-                            padding: 8px 0;
+                            opacity: 0;
+                            transition: 0.5s;
+                            transform: scale(0);
+
+                        }
+
+                        .container1.active .content1 {
+
+                            opacity: 1;
+                            transition-delay: 0.5s;
+                            transform: scale(1);
+
+                        }
+
+                        .team-member .toggleBtn {
                             position: absolute;
-                            z-index: 1;
-                            bottom: 125%;
-                            left: 50%;
-                            margin-left: -80px;
+                            left: 250px;
+                            min-width: 60px;
+                            height: 60px;
+                            background: rgb(133, 133, 224);
+                            border-radius: 50%;
+                            cursor: pointer;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
                         }
 
-                        /* Popup arrow */
-                        .popup .popuptext::after {
-                            content: "";
-                            position: absolute;
-                            top: 100%;
-                            left: 40%;
-                            margin-left: -5px;
-                            border-width: 5px;
-                            border-style: solid;
-                            border-color: #555 transparent transparent transparent;
+                        .container1.active .toggleBtn {
+                            left: 50px;
+                            bottom: 10000px;
+                            transform: rotate(135deg);
+                            background: cadetblue;
                         }
 
-                        /* Toggle this class - hide and show the popup */
-                        .popup .show {
-                            visibility: visible;
-                            -webkit-animation: fadeIn 1s;
-                            animation: fadeIn 1s;
-                        }
-
-                        /* Add animation (fade in the popup) */
-                        @-webkit-keyframes fadeIn {
-                            from {
-                                opacity: 0;
-                            }
-
-                            to {
-                                opacity: 1;
-                            }
-                        }
-
-                        @keyframes fadeIn {
-                            from {
-                                opacity: 0;
-                            }
-
-                            to {
-                                opacity: 1;
-                            }
+                        .toggleBtn::before {
+                            content: '+';
+                            font-size: 2.5rem;
+                            color: #fff;
                         }
