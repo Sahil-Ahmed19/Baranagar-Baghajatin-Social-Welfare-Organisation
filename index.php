@@ -449,29 +449,62 @@
     <div class="faq">
     <div class="faq-card">
     <h2 class="faq-card__title">FAQ</h2>
-    <ul class="faq-card__list">
+    <ul class="faq-card__list" id="list">
       <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">How many team members can I invite?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p>
+        <button class="faq-card__button faq-card__button_active">What is BBSWO and what is the genesis?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury, who was convinced that even the adverse conditions of life in slums and rural India can be changed by empowerment, proper nutrition as well as value- education in the community. India is a country based on agriculture. However, the indigenous plants are not properly utilized. Dr. Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by educating the people in target communities. <br>
+In this view, the Research and Development Action Wing has been created with efficient young scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
+In 2008 BBSWO began working with the government and we have played a major role in developing programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and systems that help women, youth, families and communities gain confidence, which leads to change their life in a decent way.<br>
+</p>
       </li>
       <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">What is the maximum file upload size?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">No more than 2GB. All files in your account must fit your allotted storage space.</p>
+        <button class="faq-card__button faq-card__button_active">Where does BBSWO work?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">More than 50 graduate professionals are working in the remote villages of India, concentrating themselves directly to the target communities in different states of India, particularly in the hilly areas as well as the Himalayan regions holding degrees in management, agriculture, engineering and social culture. Most of the families we work for belong to marginal communities.</p>
       </li>
       <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">How do I reset my password?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Click “Forgot password” from the login page or “Change password” from your profile page. A reset link will be emailed to you.</p>
+        <button class="faq-card__button faq-card__button_active">How does BBSWO work?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">BBSWO works for the upliftment of poor people of urban slums and rural communities to support their families to live in a decent way.
+            <br>To achieve this, professionals of various fields like engineering, agriculture and social science work together to share and execute their technical expertisation, BBSWO works for increasing food purity, gender justice, grassroot governing and integrated natural resources organic farming.</p>
       </li>
       <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Can I cancel my subscription?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Click “Yes! Send us a message and we’ll process your request no questions asked Click “Yes! Send us a message and we’ll process your request no questions asked. Click “Yes! Send us a message and we’ll process your request no questions asked..</p>
+        <button class="faq-card__button faq-card__button_active">Which are BBSWO’s geographical focus areas?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Focus areas of BBSWO include the Northern and North-eastern Himalayan regions, plateau regions of Madhya Pradesh, Jharkhand, West Bengal as well as Gangetic plane and delta regions- its agriculture, biodiversity, lifestyle of communities, flora and fauna, indigenous plants and its utilization to the society- especially slums, marginal and tribal communities.</p>
       </li>
       <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Do you provide additional support?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Chat and email support is available 24/7. Phone lines are open during normal business hours.</p>
+        <button class="faq-card__button faq-card__button_active">How can I contribute in this initiative of BBSWO?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">You can support BBSWO as a part of this work including yourself with our awareness camps, field works, empowerment camps, entrepreneurship ideas, value-education in making a change in the society.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Is contribution Tax deductible?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">If you are an Indian, you are eligible for 80G, 50% Tax exemption U/S 80G.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">I am a foreign national. Can I make a contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Yes, you have to choose the name of the country in the payment gateway and fill up the necessary details to make the contribution.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">I am an NRI with Indian passport and do not have a PAN card. Can I make a contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Yes, you can make a payment through the payment gateway or if you want to mail us your cheque, you can use the following account.<br>
+                    Account name: <b>Baranagar Baghajatin Social Welfare Organisation</b> <br>
+                    Account no: <b>1020050010794</b> <br>
+                    Address of the bank: <b>Punjab National Bank,
+                                 Tobin Road (North 24 Parganas) West Bengal -700036.</b><br>
+                    IFSC code: <b>PUNB0102020</b>
+                                </p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Does BBSWO provide a receipt for the contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Yes! You will have to mail us one identification document (PAN card/ Aadhar Card/ Driving License etc) for Indian Nationals. </p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Where does my contribution go?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">Your contribution will go to BBSWO field teams where volunteers and professionals work for the community development.</p>
+      </li>
+      <li class="faq-card__item">
+        <button class="faq-card__button faq-card__button_active">Will I get reports about the progress?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+        <p class="faq-card__desc">You will get monthly/ bimonthly cases of change from the field of community work as well as annual report published in the website.</p>
       </li>
     </ul>
-  </div>
 </div>
     <!-- Footer-->
     <?php require_once 'footer.php'; ?>
