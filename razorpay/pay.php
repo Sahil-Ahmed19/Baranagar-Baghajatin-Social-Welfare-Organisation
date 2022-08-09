@@ -102,6 +102,7 @@ $json = json_encode($data);
   >
   </script>
   <!-- Any extra fields to be submitted with the form but not sent to Razorpay -->
+  <input type="submit" value="Pay Now" class="razorpay-payment-button">
   <input type="hidden" name="shopping_order_id" value="3456">
 </form>
 

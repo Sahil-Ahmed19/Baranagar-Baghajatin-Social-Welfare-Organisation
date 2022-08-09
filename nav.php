@@ -8,15 +8,15 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                 <li class="nav-item"><a class="nav-link" href=index.php>Home</a></li>
-                <li class="nav-item"><a class="nav-link" href=events.php>Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href=about.php>About</a></li>
+                <li class="nav-item"><a class="nav-link" href=events.php>Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href=team.php>Team</a></li>
                 <li class="nav-item"><a class="nav-link" href=RDAW.php>RDAW</a></li>
                 <li class="nav-item"><a class="nav-link" href=newsletter.php>newsletter</a></li>
                 <li class="nav-item"><a class="nav-link" href="index.php#contact">Contact</a></li>
                 <!-- <li class="nav-item"><a href=donate.php><div class="text-center"><button class="btn1 btn-primary text-uppercase " >Donate</button>
                         </div></a> </li> -->
-                <a id="donatebutton" href="donate.php" class="donate">DONATE</a>
+                <a id="donatebutton" href="https://rzp.io/l/02hkEOU6G" class="donate">DONATE</a>
             </ul>
         </div>
     </div>
