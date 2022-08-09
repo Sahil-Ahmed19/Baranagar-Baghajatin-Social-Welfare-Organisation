@@ -587,7 +587,7 @@
                     consequuntur debitis numquam, minima cum sunt!</p>
             </div class="para2">
             <div>
-                <a id="btn-text" class="btn btn-primary text-uppercase" href=be_a_member.php>Be A Member</a>
+                <a id="btn-text" class="btn btn-primary text-uppercase" href="https://rzp.io/l/jHhYTgRI">Be A Member</a>
             </div>
         </div>
         </div>
