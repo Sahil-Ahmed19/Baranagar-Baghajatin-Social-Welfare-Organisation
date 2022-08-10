@@ -69,7 +69,8 @@ if(isset($_POST['submit'])){
         <div id="be" class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
-                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                <h3 class="section-subheading text-muted">By volunteering with us, you will become a vital part of the biggest wish-granting organization in the world and you will make a real difference to the lives of ill children and their families. An opportunity that will not only develop your inter personal skills, but also allow you to meet like-minded people. It will also be the most fulfilling and gratifying phase in your life that will echo with children’s laughter for years to come .</h3>
+                
             </div>
 
                     <form id="contactForm" action="razorpay/pay.php" method="post">

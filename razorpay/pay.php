@@ -15,13 +15,20 @@ $api = new Api($keyId, $keySecret);
 // We create an razorpay order using orders api
 // Docs: https://docs.razorpay.com/docs/orders
 //
+$isMember=false;
 $price = $_POST['price'];
 if(is_null($price)){
+  $isMember=true;
   $price=500;
 }
+$_SESSION['isMember']=$isMember;
+$_SESSION['price']=$price;
 $name = $_POST['name'];
+$_SESSION['name']=$name;
 $phone = $_POST['phone'];
+$_SESSION['phone']=$phone;
 $email = $_POST['email'];
+$_SESSION['email']=$email;
 $orderData = [
     'receipt'         => 3456,
     'amount'          => $price * 100, // 2000 rupees in paise
@@ -95,6 +102,7 @@ $json = json_encode($data);
   >
   </script>
   <!-- Any extra fields to be submitted with the form but not sent to Razorpay -->
+  <input type="submit" value="Pay Now" class="razorpay-payment-button">
   <input type="hidden" name="shopping_order_id" value="3456">
 </form>
 

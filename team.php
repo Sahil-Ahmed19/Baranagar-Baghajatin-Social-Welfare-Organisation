@@ -50,7 +50,25 @@
             <!-- <div class="text-center">
                 <h2 class="section-heading text-uppercase">Our Supporting Pillars</h2>
             </div> -->
+            
             <div class="row">
+            <div id="member">
+                <br>
+                <br>
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
+                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+
+            </div>
+            <div class="para1">
+                <p>By volunteering with us, you will become a vital part of the biggest wish-granting organization in the world and you will make a real difference to the lives of ill children and their families. An opportunity that will not only develop your inter personal skills, but also allow you to meet like-minded people. It will also be the most fulfilling and gratifying phase in your life that will echo with children’s laughter for years to come. </p>
+            </div>
+            <br>
+            <div>
+                <a id="btn-text" class="btn btn-primary text-uppercase" href="https://rzp.io/l/jHhYTgRI">Be A Member</a>
+            </div>
+            <br>
+        </div>
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Board Members</h2>
 
@@ -573,23 +591,7 @@
         </div>
 
         </div>
-        <div id="member">
-            <div class="text-center">
-                <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
-                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-
-            </div>
-            <div class="para1">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod optio qui reprehenderit? Commodi quam
-                    accusamus recusandae exercitationem eveniet ipsa similique! Doloribus fugiat vero temporibus
-                    nesciunt accusamus enim qui ad a repudiandae
-                    vitae necessitatibus officiis ratione, dicta dolor asperiores magni, eius, odit illum. Nisi maxime
-                    consequuntur debitis numquam, minima cum sunt!</p>
-            </div class="para2">
-            <div>
-                <a id="btn-text" class="btn btn-primary text-uppercase" href=be_a_member.php>Be A Member</a>
-            </div>
-        </div>
+       
         </div>
     </section>
 
