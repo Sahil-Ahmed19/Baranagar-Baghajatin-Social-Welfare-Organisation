@@ -237,7 +237,7 @@
                         </div>
 
                         <div class="product" data-name="p-15">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/arghya2.jpg" alt="..." />
                             <h3>Mr. Arghya Pal</h3>
 
                         </div>
