@@ -313,8 +313,9 @@
                 <div class="products-preview">
 
                     <div class="preview" data-target="p-1">
-                        <i class="fa-times" id="cross"></i>
-
+                        <!-- <i class="fas fa-times" id="cross"></i> -->
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <!-- <i class="fa-solid fa-circle-xmark"></i> -->
                         <img src="./images/sanjib mukherjee.jpg" alt="">
                         <h3>r. Sanjib Mukhopadhyay</h3>
                         <p>Chemist</p>
@@ -341,7 +342,7 @@
                     </div>
 
                     <div class="preview" data-target="p-3">
-                        <i class="fa-times"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
                         <h3>Mr. Sankha Das</h3>
                         <div class="price">Treasurer</div>
@@ -355,7 +356,7 @@
                     </div>
 
                     <div class="preview" data-target="p-4">
-                        <i class="fa-times"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
                         <h3>Mrs. Mua Santra</h3>
                         <div class="price">Assistant Secretary, Legal Advisor</div>
@@ -369,7 +370,7 @@
                     </div>
 
                     <div class="preview" data-target="p-5">
-                        <i class="fa-times"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
                         <h3>Dr. Chaitali Dutta</h3>
                         <div class="price">Vice-President, Deputy Director (RDAW)</div>
@@ -384,7 +385,7 @@
                     </div>
 
                     <div class="preview" data-target="p-6">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
                         <h3>Mr. Satyendra Nath Das</h3>
                         <div class="price">Empowerment Director</div>
@@ -395,7 +396,7 @@
                             Horticulture and Culinary sciences.</p>
                     </div>
                     <div class="preview" data-target="p-7">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/Sayan Bhattacharya.jpg" alt="..." />
                         <h3>Mr. Sayan Bhattacharya</h3>
                         <div class="price">Sustainability Officer</div>
@@ -404,7 +405,7 @@
                             business of variety Eco-friendly products of "Disposable PAPER PLATES & BOWLS".</p>
                     </div>
                     <div class="preview" data-target="p-8">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
 
                         <img class="mx-auto rounded-circle" src="./images/Arghya - Image (1) - Arghya Chakravorty.JPG"
                             alt="..." />
@@ -445,7 +446,7 @@
                             https://scholar.google.com/citations?user=Q9w0hisAAAAJ&hl=en</p>
                     </div>
                     <div class="preview" data-target="p-9">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/Binayak Pal.jpg" alt="..." />
                         <h3>Mr. Binayak Pal</h3>
                         <div class="price">President (RDAW)</div>
@@ -458,7 +459,7 @@
                         </p>
                     </div>
                     <div class="preview" data-target="p-10">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/Dr. Tapan Kumar Pal.jpg" alt="..." />
                         <h3>Dr. Tapan Kumar Pal</h3>
                         <div class="price">Scientific Officer (RDAW)</div>
@@ -466,13 +467,13 @@
                         <p>Experience on Agricultural science, food science and gardening.</p>
                     </div>
                     <div class="preview" data-target="p-29">
-                        <i class="fa-times" aria-hidden="true"></i>
+                        <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h3>Dr. Krishanu Chakraborty</h3>
                         <div class="price">Former Professor of Biochemistry.</p>
                         </div>
                         <div class="preview" data-target="p-30">
-                            <i class="fa-times" aria-hidden="true"></i>
+                            <i class="fa-solid fa-circle-xmark"></i>
                             uct" data-name="p-30">
                             <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                             <h3>Ms. Pallabi Roy Chaudhuri</h3>
@@ -485,124 +486,128 @@
                                 in the budget planning of the organization. He has also vast knowledge in Agriculture,
                                 Horticulture and Culinary sciences.</p>
                         </div>
+                    </div>
+
+                    <div class="preview" data-target="p-11">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
+                        <h3>Mr. Debasis Panda</h3>
+                        <div class="price">Sr. Public Relation Advisor</div>
+                        <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
+                            in
+                            women and youth empowerment. Mr. Das is a financial expert by profession, which is
+                            reflected
+                            in the budget planning of the organization. He has also vast knowledge in Agriculture,
+                            Horticulture and Culinary sciences.</p>
+                    </div>
+                    <div class="preview" data-target="p-12">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                        <h3>Mr. Pradip Kumar Koley</h3>
+                        <div class="price">Community Development officer</div>
+
+                        <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
+                            in
+                            women and youth empowerment. Mr. Das is a financial expert by profession, which is
+                            reflected
+                            in the budget planning of the organization. He has also vast knowledge in Agriculture,
+                            Horticulture and Culinary sciences.</p>
+                    </div>
+                    <div class="preview" data-target="p-13">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sahil Ahmed</h3>
+                    </div>
+                    <div class="preview" data-target="p-14">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sayantan Bera</h3>
+                    </div>
+                    <div class="preview" data-target="p-15">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Arghya Pal</h3>
+                    </div>
+                    <div class="preview" data-target="p-16">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Ms. Simran Samanta</h3>
+                    </div>
+                    <div class="preview" data-target="p-17">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sagnik Ray Chowdhury</h3>
+                    </div>
+                    <div class="preview" data-target="p-18">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sayandeep Mukherjee</h3>
+                    </div>
+                    <div class="preview" data-target="p-19">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Chandrachur Adhikari</h3>
+                    </div>
+                    <div class="preview" data-target="p-20">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Ms. Bhumika Adhikari</h3>
+                    </div>
+                    <div class="preview" data-target="p-21">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Rishav Kundu</h3>
+                    </div>
+                    <div class="preview" data-target="p-22">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Shreyan Barman</h3>
+                    </div>
+                    <div class="preview" data-target="p-23">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sudip Das</h3>
+                    </div>
+                    <div class="preview" data-target="p-24">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Avijit Das</h3>
+                    </div>
+                    <div class="preview" data-target="p-25">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mr. Sagnik Roy</h3>
+                    </div>
+                    <div class="preview" data-target="p-26">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mrs. Anindita Malick</h3>
+                        <p>Ms. Anindita Malick has spent a considerable time as a good social worker in this
+                            organization in the field of community development in slum areas. Ms. Malick is as good
+                            teacher has a very promising approach from child to youth of slums and villaages to
+                            learn proper communication in English, thereby improving their job prospects for many
+                            years. She has expertization of communication skills in different languages also, making
+                            her to a height of dignity and problem-solver to different sections of society</p>
+                    </div>
+                    <div class="preview" data-target="p-27">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mrs. Anamika Mukhopadhyay</h3>
+                    </div>
+                    <div class="preview" data-target="p-28">
 
 
-                        <div class="preview" data-target="p-11">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
-                            <h3>Mr. Debasis Panda</h3>
-                            <div class="price">Sr. Public Relation Advisor</div>
-                            <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
-                                in
-                                women and youth empowerment. Mr. Das is a financial expert by profession, which is
-                                reflected
-                                in the budget planning of the organization. He has also vast knowledge in Agriculture,
-                                Horticulture and Culinary sciences.</p>
-                        </div>
-                        <div class="preview" data-target="p-12">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h3>Mr. Pradip Kumar Koley</h3>
-                            <div class="price">Community Development officer</div>
 
-                            <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
-                                in
-                                women and youth empowerment. Mr. Das is a financial expert by profession, which is
-                                reflected
-                                in the budget planning of the organization. He has also vast knowledge in Agriculture,
-                                Horticulture and Culinary sciences.</p>
-                        </div>
-                        <div class="preview" data-target="p-13">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sahil Ahmed</h3>
-                        </div>
-                        <div class="preview" data-target="p-14">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sayantan Bera</h3>
-                        </div>
-                        <div class="preview" data-target="p-15">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Arghya Pal</h3>
-                        </div>
-                        <div class="preview" data-target="p-16">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Ms. Simran Samanta</h3>
-                        </div>
-                        <div class="preview" data-target="p-17">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sagnik Ray Chowdhury</h3>
-                        </div>
-                        <div class="preview" data-target="p-18">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sayandeep Mukherjee</h3>
-                        </div>
-                        <div class="preview" data-target="p-19">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Chandrachur Adhikari</h3>
-                        </div>
-                        <div class="preview" data-target="p-20">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Ms. Bhumika Adhikari</h3>
-                        </div>
-                        <div class="preview" data-target="p-21">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Rishav Kundu</h3>
-                        </div>
-                        <div class="preview" data-target="p-22">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Shreyan Barman</h3>
-                        </div>
-                        <div class="preview" data-target="p-23">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sudip Das</h3>
-                        </div>
-                        <div class="preview" data-target="p-24">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Avijit Das</h3>
-                        </div>
-                        <div class="preview" data-target="p-25">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mr. Sagnik Roy</h3>
-                        </div>
-                        <div class="preview" data-target="p-26">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mrs. Anindita Malick</h3>
-                            <p>Ms. Anindita Malick has spent a considerable time as a good social worker in this
-                                organization in the field of community development in slum areas. Ms. Malick is as good
-                                teacher has a very promising approach from child to youth of slums and villaages to
-                                learn proper communication in English, thereby improving their job prospects for many
-                                years. She has expertization of communication skills in different languages also, making
-                                her to a height of dignity and problem-solver to different sections of society</p>
-                        </div>
-                        <div class="preview" data-target="p-27">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mrs. Anamika Mukhopadhyay</h3>
-                        </div>
-                        <div class="preview" data-target="p-28">
-                            <i class="fa-times" aria-hidden="true"></i>
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                            <h3>Mrs. Mithu Adhikari</h3>
-                        </div>
+
+                        <i class="fa-solid fa-circle-xmark"></i>
+                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <h3>Mrs. Mithu Adhikari</h3>
                     </div>
                 </div>
             </div>
+        </div>
 
-            <!-- <div class="row">
+        <!-- <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
                     <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
                         laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
@@ -626,7 +631,32 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js">
     </script>
     <script src="js/scripts.js"></script>
-    <script src="js/copy.js"></script>
+    <!-- <script src="js/copy.js"></script> -->
+    <script>
+    let preveiwContainer = document.querySelector('.products-preview');
+    let previewBox = preveiwContainer.querySelectorAll('.preview');
+
+    document.querySelectorAll('.products-container .product').forEach(product => {
+        product.onclick = () => {
+            preveiwContainer.style.display = 'flex';
+            let name = product.getAttribute('data-name');
+            previewBox.forEach(preview => {
+                let target = preview.getAttribute('data-target');
+                if (name == target) {
+                    preview.classList.add('active');
+                }
+            });
+        };
+    });
+
+    previewBox.forEach(close => {
+        close.querySelector('.fa-circle-xmark').onclick = () => {
+            close.classList.remove('active');
+            preveiwContainer.style.display = 'none';
+        };
+    });
+    </script>
+    <!-- <script src="js/copy.js"></script> -->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <!-- * *                               SB Forms JS                               * *-->
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
