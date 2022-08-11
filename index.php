@@ -565,19 +565,7 @@
                 <li class="faq-card__item">
                     <button class="faq-card__button faq-card__button_active">Will I get reports about the progress?<i
                             class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-                    <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury,
-                        who was convinced that even the adverse conditions of life in slums and rural India can be
-                        changed by empowerment, proper nutrition as well as value- education in the community. India is
-                        a country based on agriculture. However, the indigenous plants are not properly utilized. Dr.
-                        Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by
-                        educating the people in target communities. <br>
-                        In this view, the Research and Development Action Wing has been created with efficient young
-                        scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan
-                        Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
-                        In 2008 BBSWO began working with the government and we have played a major role in developing
-                        programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and
-                        systems that help women, youth, families and communities gain confidence, which leads to change
-                        their life in a decent way.<br></p>
+                    <p class="faq-card__desc">You will get monthly/ bimonthly cases of change from the field of community work as well as annual report published in the website.<br></p>
                 </li>
             </ul>
         </div>

@@ -138,19 +138,19 @@
                         </div>
 
                         <div class="product" data-name="p-5">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/chaitali.jpeg" alt="..." />
                             <h3>Dr. Chaitali Dutta</h3>
                             <div class="price">Vice-President, Deputy Director (RDAW)</div>
                         </div>
 
                         <div class="product" data-name="p-6">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/Satyendranath.jpeg" alt="..." />
                             <h3>Mr. Satyendra Nath Das</h3>
                             <div class="price">Empowerment Director</div>
                         </div>
 
                         <div class="product" data-name="p-7">
-                            <img class="mx-auto rounded-circle" src="./images/Sayan Bhattacharya.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/sayanb.jpeg" alt="..." />
                             <h3>Mr. Sayan Bhattacharya</h3>
                             <div class="price">Sustainability Officer</div>
                         </div>
@@ -186,19 +186,19 @@
                     <div class="products-container">
 
                         <div class="product" data-name="p-29">
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/krish4.jpeg" alt="..." />
                             <h3>Dr. Krishanu Chakraborty</h3>
                             <div class="price">Scientific Advisor</div>
                         </div>
 
                         <div class="product" data-name="p-30">
-                            <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/Pallibi.jpeg" alt="..." />
                             <h3>Ms. Pallabi Roy Chaudhuri</h3>
                             <div class="price">Public Relation Advisor</div>
                         </div>
 
                         <div class="product" data-name="p-4">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
                             <h3>Mrs. Mau Santra</h3>
                             <div class="price">Legal Advisor</div>
                         </div>
@@ -230,7 +230,7 @@
                         </div>
 
                         <div class="product" data-name="p-14">
-                            <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/SayantanPic.jpeg" alt="..." />
                             <h3>Mr. Sayantan Bera</h3>
 
                         </div>
@@ -370,7 +370,7 @@
 
                     <div class="preview" data-target="p-5">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/chaitali.jpeg" alt="..." />
                         <h3>Dr. Chaitali Dutta</h3>
                         <div class="price">Vice-President, Deputy Director (RDAW)</div>
 
@@ -385,7 +385,7 @@
 
                     <div class="preview" data-target="p-6">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/Satyendranath.jpeg" alt="..." />
                         <h3>Mr. Satyendra Nath Das</h3>
                         <div class="price">Empowerment Director</div>
 
@@ -396,7 +396,7 @@
                     </div>
                     <div class="preview" data-target="p-7">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/Sayan Bhattacharya.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/sayanb.jpeg" alt="..." />
                         <h3>Mr. Sayan Bhattacharya</h3>
                         <div class="price">Sustainability Officer</div>
 
@@ -467,14 +467,14 @@
                     </div>
                     <div class="preview" data-target="p-29">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/krish4.jpeg" alt="..." />
                         <h3>Dr. Krishanu Chakraborty</h3>
                         <div class="price">Former Professor of Biochemistry.</p>
                         </div>
                         <div class="preview" data-target="p-30">
                             <i class="fa-solid fa-circle-xmark"></i>
                             uct" data-name="p-30">
-                            <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/Pallibi.jpeg" alt="..." />
                             <h3>Ms. Pallabi Roy Chaudhuri</h3>
                             <div class="price">Public Relation Advisor</div>
 
@@ -514,22 +514,22 @@
                     </div>
                     <div class="preview" data-target="p-13">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/SahilAhmed.jpeg" alt="..." />
                         <h3>Mr. Sahil Ahmed</h3>
                     </div>
                     <div class="preview" data-target="p-14">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/SayantanPic.jpeg" alt="..." />
                         <h3>Mr. Sayantan Bera</h3>
                     </div>
                     <div class="preview" data-target="p-15">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/arghya2.jpg" alt="..." />
                         <h3>Mr. Arghya Pal</h3>
                     </div>
                     <div class="preview" data-target="p-16">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/Simran.jpeg" alt="..." />
                         <h3>Ms. Simran Samanta</h3>
                     </div>
                     <div class="preview" data-target="p-17">
