@@ -313,21 +313,20 @@
                 <div class="products-preview">
 
                     <div class="preview" data-target="p-1">
-                        <!-- <i class="fas fa-times" id="cross"></i> -->
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <!-- <i class="fa-solid fa-circle-xmark"></i> -->
                         <img src="./images/sanjib mukherjee.jpg" alt="">
                         <h3>r. Sanjib Mukhopadhyay</h3>
-                        <p>Chemist</p>
+                        <div class="price">President</div>
+                        <p class="abt-mem">Nothing</p>
 
                     </div>
 
                     <div class="preview" data-target="p-2">
-                        <i class="fa-times" id="cross"></i>
+                    <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                         <h3>Dr. Banani Ray Chowdhury</h3>
                         <div class="price">Secretary</div>
-                        <p>Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social
+                        <p class="abt-mem">Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer, professor and social
                             worker based on the field of Biotechnology and works actively in research on bio-waste
                             management, Industrial Microbiology, bioremediation and medicinal plant. She is the founder
                             and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
@@ -346,7 +345,7 @@
                         <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
                         <h3>Mr. Sankha Das</h3>
                         <div class="price">Treasurer</div>
-                        <p>Sankha Das is a social worker with industrial background and public relationship management.
+                        <p class="abt-mem">Sankha Das is a social worker with industrial background and public relationship management.
                             He has efficient contributions in different Welfare activities of the society related to
                             community development, Social Empowerment and conflict solving abilities. He is good
                             decision maker and budget plannar of this organisation.
@@ -361,7 +360,7 @@
                         <h3>Mrs. Mua Santra</h3>
                         <div class="price">Assistant Secretary, Legal Advisor</div>
 
-                        <p>I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D
+                        <p class="abt-mem">I had passed madhyamik from Tarasundari Balika Vidyalaya Howhrah and H.S passed from N.D
                             college
                             in Howrah. I have graduated B.A.L.L.B degree course from C.U Hazra Law College Campus.
                             Presently I
@@ -375,7 +374,7 @@
                         <h3>Dr. Chaitali Dutta</h3>
                         <div class="price">Vice-President, Deputy Director (RDAW)</div>
 
-                        <p>Dr. Chaitali Dutta is an eminent scientist in the field of nutrition and culinary science
+                        <p class="abt-mem">Dr. Chaitali Dutta is an eminent scientist in the field of nutrition and culinary science
                             with publications in national and international journals and books. Dr. Chaitali is the
                             Deputy Director of Kaji Najrul University, West Bengal. She has spent a couple of years in
                             humanitarian works for old people and orphans especially in the area of health and
@@ -390,7 +389,7 @@
                         <h3>Mr. Satyendra Nath Das</h3>
                         <div class="price">Empowerment Director</div>
 
-                        <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization in
+                        <p class="abt-mem">Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization in
                             women and youth empowerment. Mr. Das is a financial expert by profession, which is reflected
                             in the budget planning of the organization. He has also vast knowledge in Agriculture,
                             Horticulture and Culinary sciences.</p>
@@ -401,7 +400,7 @@
                         <h3>Mr. Sayan Bhattacharya</h3>
                         <div class="price">Sustainability Officer</div>
 
-                        <p>I work for an IT MNC IBM as a SAP application Developer. I am associated with a manufacturing
+                        <p class="abt-mem">I work for an IT MNC IBM as a SAP application Developer. I am associated with a manufacturing
                             business of variety Eco-friendly products of "Disposable PAPER PLATES & BOWLS".</p>
                     </div>
                     <div class="preview" data-target="p-8">
@@ -412,7 +411,7 @@
                         <h3>Dr. Arghya Chakavorty</h3>
                         <div class="price">Director (RDAW)</div>
 
-                        <p>(Dr.) Arghya Chakravorty is an early career, young, passionate researcher & enthusiastic
+                        <p class="abt-mem">(Dr.) Arghya Chakravorty is an early career, young, passionate researcher & enthusiastic
                             active member of the American Chemical Society; Solid Waste Association of North America;
                             British Society for Antimicrobial Chemotherapy, as well as a registered doctoral fellow at
                             the Centre for Nanotechnology Research, Vellore Institute of Technology – Vellore, India;
@@ -451,7 +450,7 @@
                         <h3>Mr. Binayak Pal</h3>
                         <div class="price">President (RDAW)</div>
 
-                        <p>Working as Principal Technical Officer in Central Instrument Division at C.S.I.R - Indian
+                        <p class="abt-mem">Working as Principal Technical Officer in Central Instrument Division at C.S.I.R - Indian
                             Institute of
                             Chemical Biology, Jadavpur, Kolkata-700032. Aged 52, having a house at Fuleswar,
                             Howrah-711316 and
@@ -464,7 +463,7 @@
                         <h3>Dr. Tapan Kumar Pal</h3>
                         <div class="price">Scientific Officer (RDAW)</div>
 
-                        <p>Experience on Agricultural science, food science and gardening.</p>
+                        <p class="abt-mem">Experience on Agricultural science, food science and gardening.</p>
                     </div>
                     <div class="preview" data-target="p-29">
                         <i class="fa-solid fa-circle-xmark"></i>
@@ -479,7 +478,7 @@
                             <h3>Ms. Pallabi Roy Chaudhuri</h3>
                             <div class="price">Public Relation Advisor</div>
 
-                            <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
+                            <p class="abt-mem">Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
                                 in
                                 women and youth empowerment. Mr. Das is a financial expert by profession, which is
                                 reflected
@@ -493,7 +492,7 @@
                         <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
                         <h3>Mr. Debasis Panda</h3>
                         <div class="price">Sr. Public Relation Advisor</div>
-                        <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
+                        <p class="abt-mem">Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
                             in
                             women and youth empowerment. Mr. Das is a financial expert by profession, which is
                             reflected
@@ -506,7 +505,7 @@
                         <h3>Mr. Pradip Kumar Koley</h3>
                         <div class="price">Community Development officer</div>
 
-                        <p>Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
+                        <p class="abt-mem">Mr. Satyenda Nath Das is one of the founder member of the society. He has expertization
                             in
                             women and youth empowerment. Mr. Das is a financial expert by profession, which is
                             reflected
