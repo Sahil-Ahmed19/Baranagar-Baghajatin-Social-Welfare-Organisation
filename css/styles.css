@@ -14206,7 +14206,7 @@
                         }
 
                         #list li p {
-                            font-size: 0.5rem;
+                            font-size: 1rem;
                         }
 
                         .faq-card__button_active {
@@ -14903,3 +14903,7 @@
                         .abt-mem{
                             text-align: justify;
                         }
+                        .preview {
+                            overflow-y: scroll; /* Show vertical scrollbar */
+                          }
+                          
