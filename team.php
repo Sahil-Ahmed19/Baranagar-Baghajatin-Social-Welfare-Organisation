@@ -27,7 +27,6 @@
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        <link href="css/copy.css" rel="stylesheet" />
 
 </head>
 
@@ -226,7 +225,7 @@
                     <div class="products-container">
 
                         <div class="product" data-name="p-13">
-                            <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/SahilAhmed.jpeg" alt="..." />
                             <h3>Mr. Sahil Ahmed</h3>
                         </div>
 
@@ -243,7 +242,7 @@
                         </div>
 
                         <div class="product" data-name="p-16">
-                            <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/Simran.jpeg" alt="..." />
                             <h3>Ms. Simran Samanta</h3>
 
                         </div>
@@ -314,7 +313,7 @@
                 <div class="products-preview">
 
                     <div class="preview" data-target="p-1">
-                        <i class="fa-times"></i>
+                        <i class="fa-times" id="cross"></i>
 
                         <img src="./images/sanjib mukherjee.jpg" alt="">
                         <h3>r. Sanjib Mukhopadhyay</h3>
@@ -323,7 +322,7 @@
                     </div>
 
                     <div class="preview" data-target="p-2">
-                        <i class="fa-times"></i>
+                        <i class="fa-times" id="cross"></i>
                         <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                         <h3>Dr. Banani Ray Chowdhury</h3>
                         <div class="price">Secretary</div>
