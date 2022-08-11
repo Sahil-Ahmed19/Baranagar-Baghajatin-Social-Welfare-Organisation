@@ -96,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 4-->
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 5-->
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
@@ -141,7 +141,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+               
             </div>
     </section>
     <!-- Footer-->
