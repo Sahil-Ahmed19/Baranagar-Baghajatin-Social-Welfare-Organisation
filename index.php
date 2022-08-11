@@ -2,11 +2,10 @@
 <html lang="en">
 
 <head>
-<script type="text/javascript">
-        function openTab(th)
-        {
-            window.open(th.name,'_blank');
-        }
+    <script type="text/javascript">
+    function openTab(th) {
+        window.open(th.name, '_blank');
+    }
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -56,7 +55,8 @@
     </div> -->
     <nav class="social">
         <ul>
-            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
+            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif"
+                        alt=""></a></li>
             <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
         </ul>
@@ -71,140 +71,144 @@
     <!-- Services -->
 
     <div class="upcoming_events">
-    <div class="blog-post blog-single-post">
-      <div class="text-center">
-        <h2>UPCOMING EVENTS</h2>
-      </div>
-      <div class="single-post-content">
-        <ul class="data-list" data-autoscroll>
-            <li>
-            <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">18</div>
-                <div class="event-month">Aug</div>
-              </div>
-            </td>
-            <td >
-            Independence Day Celebration and HEALTH CHECK-UP CAMP in Baranagar Slum area (28 Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp<span class="blink">New</span>
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">5</div>
-                <div class="event-month">APR</div>
-              </div>
-            </td>
-            <td>
-              Phasellus et est quis diam iaculis fringilla id nec sapien.&nbsp&nbsp<span class="blink">New</span>
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">31</div>
-                <div class="event-month">MAY</div>
-              </div>
-            </td>
-            <td>
-              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.&nbsp&nbsp<span class="blink">New</span>
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">17</div>
-                <div class="event-month">SEP</div>
-              </div>
-            </td>
-            <td>
-              Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">16</div>
-                <div class="event-month">MAR</div>
-              </div>
-            </td>
-            <td>
-              Hi I am Sahil
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">5</div>
-                <div class="event-month">APR</div>
-              </div>
-            </td>
-            <td>
-              Phasellus et est quis diam iaculis fringilla id nec sapien.
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">31</div>
-                <div class="event-month">MAY</div>
-              </div>
-            </td>
-            <td>
-              Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.
-            </td>
-          </tr>
-          </table>
-    </li>
-    <li>
-    <table class="events-list">
-          <tr>
-            <td style="width:10%">
-              <div class="event-date">
-                <div class="event-day">17</div>
-                <div class="event-month">SEP</div>
-              </div>
-            </td>
-            <td>
-              Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
-            </td>
-          </tr>
-    </table>
-    </li>
-    </ul>
-      </div>
+        <div class="blog-post blog-single-post">
+            <div class="text-center">
+                <h2>UPCOMING EVENTS</h2>
+            </div>
+            <div class="single-post-content">
+                <ul class="data-list" data-autoscroll>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">18</div>
+                                        <div class="event-month">Aug</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Independence Day Celebration and HEALTH CHECK-UP CAMP in Baranagar Slum area (28
+                                    Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp<span
+                                        class="blink">New</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">5</div>
+                                        <div class="event-month">APR</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Phasellus et est quis diam iaculis fringilla id nec sapien.&nbsp&nbsp<span
+                                        class="blink">New</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">31</div>
+                                        <div class="event-month">MAY</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Ut consectetur commodo justo, sed sollicitudin massa venenatis ut
+                                    2013.&nbsp&nbsp<span class="blink">New</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">17</div>
+                                        <div class="event-month">SEP</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">16</div>
+                                        <div class="event-month">MAR</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Hi I am Sahil
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">5</div>
+                                        <div class="event-month">APR</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Phasellus et est quis diam iaculis fringilla id nec sapien.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">31</div>
+                                        <div class="event-month">MAY</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Ut consectetur commodo justo, sed sollicitudin massa venenatis ut 2013.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">17</div>
+                                        <div class="event-month">SEP</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    Pellentesque justo turpis, fringilla sit amet pulvinar ut, tincidunt nec leo.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-</div>
     </div>
-    
+    </div>
+    </div>
+
     <section class="page-section" id="services">
         <div class="container">
             <div class="text-center">
@@ -218,7 +222,8 @@
                         <i class="fas fa-book-reader"></i>
                     </span>
                     <h4 class="my-3">Educate</h4>
-                    <p class="text-muted">Educating the underprivileged and ill-advised about various social issues which rise in day to day life.</p>
+                    <p class="text-muted">Educating the underprivileged and ill-advised about various social issues
+                        which rise in day to day life.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -226,7 +231,8 @@
                         <i class="fas fa-medal"></i>
                     </span>
                     <h4 class="my-3">Empower</h4>
-                    <p class="text-muted">Empowering women and the deprived socio-economical section of the population, along with promoting human equality.</p>
+                    <p class="text-muted">Empowering women and the deprived socio-economical section of the population,
+                        along with promoting human equality.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -234,7 +240,8 @@
                         <i class="fas fa-rocket"></i>
                     </span>
                     <h4 class="my-3">Enlighten</h4>
-                    <p class="text-muted">Enlightening our society by eliminating all kinds of social drawbacks and providing appropriate solutions for it.</p>
+                    <p class="text-muted">Enlightening our society by eliminating all kinds of social drawbacks and
+                        providing appropriate solutions for it.</p>
                 </div>
             </div>
         </div>
@@ -245,8 +252,12 @@
                 <h2 class="section-heading text-uppercase">About</h2>
                 <div id="text12">
                     <div id="text1">
-                        <h3 class="section-subheading text-muted">Baranagar Baghajatin Social Welfare Organisation was founded by some educated and dedicated youth and social workers with a view to develop the socio economic status of the poor and downtrodden people emphasising on distressed
-                            women and children. Now the organisation is taking an important role for up gradation of port status of the many other small village groups (Men & Women). It is registered under West Bengal Societies Registration Act, 1961.</h3>
+                        <h3 class="section-subheading text-muted">Baranagar Baghajatin Social Welfare Organisation was
+                            founded by some educated and dedicated youth and social workers with a view to develop the
+                            socio economic status of the poor and downtrodden people emphasising on distressed
+                            women and children. Now the organisation is taking an important role for up gradation of
+                            port status of the many other small village groups (Men & Women). It is registered under
+                            West Bengal Societies Registration Act, 1961.</h3>
                         <a id="btn-text" class="btn btn-primary text-uppercase" href=about.php>Read more</a>
                     </div>
                     <div id="text2"><img src="./images/aboutposter.jpeg" alt=""></div>
@@ -275,7 +286,8 @@
                         </a>
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Threads</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Book Distribution to Needy Children</div>
+                            <div class="portfolio-caption-subheading text-muted">Book Distribution to Needy Children
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -402,23 +414,28 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" name="name" type="text" placeholder="Your Name *" required>
+                                <input class="form-control" id="name" name="name" type="text" placeholder="Your Name *"
+                                    required>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" name="email" type="email" placeholder="Your Email *" required>
+                                <input class="form-control" id="email" name="email" type="email"
+                                    placeholder="Your Email *" required>
                             </div>
                             <div class="form-group ">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" name="phone" type="tel" placeholder="Your Phone *" required>
+                                <input class="form-control" id="phone" name="phone" type="tel"
+                                    placeholder="Your Phone *" required>
                             </div>
                             <div class="form-group ">
                                 <!-- Message input-->
-                                <textarea class="form-control" id="message" name="message" placeholder="Your Message *" required></textarea>
+                                <textarea class="form-control" id="message" name="message" placeholder="Your Message *"
+                                    required></textarea>
                             </div>
-                            </div>
+                        </div>
                         <!-- Submit Button-->
-                        <div class="text-center"><button class="btn btn-primary text-uppercase " id="submitButton" type="submit" onclick="sendEmail()">Send Message</button>
+                        <div class="text-center"><button class="btn btn-primary text-uppercase " id="submitButton"
+                                type="submit" onclick="sendEmail()">Send Message</button>
                         </div>
                     </div>
 
@@ -439,7 +456,10 @@
                             <b>Email:&nbsp;</b>bananiraychowdhury683@gmail.com
                         </div>
                         <div class="card1">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.420692512684!2d88.37460486496077!3d22.638098235149084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89dbdd138f7a7%3A0x6c32903be2c0dfc8!2s36!5e0!3m2!1sen!2sin!4v1657910688291!5m2!1sen!2sin" width="480" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.420692512684!2d88.37460486496077!3d22.638098235149084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89dbdd138f7a7%3A0x6c32903be2c0dfc8!2s36!5e0!3m2!1sen!2sin!4v1657910688291!5m2!1sen!2sin"
+                                width="480" height="200" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -447,86 +467,142 @@
         </div>
     </section>
     <div class="faq">
-    <div class="faq-card">
-    <h2 class="faq-card__title">FAQs</h2>
-    <ul class="faq-card__list" id="list">
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">What is BBSWO and what is the genesis?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury, who was convinced that even the adverse conditions of life in slums and rural India can be changed by empowerment, proper nutrition as well as value- education in the community. India is a country based on agriculture. However, the indigenous plants are not properly utilized. Dr. Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by educating the people in target communities. <br>
-In this view, the Research and Development Action Wing has been created with efficient young scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
-In 2008 BBSWO began working with the government and we have played a major role in developing programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and systems that help women, youth, families and communities gain confidence, which leads to change their life in a decent way.<br>
-</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Where does BBSWO work?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">More than 50 graduate professionals are working in the remote villages of India, concentrating themselves directly to the target communities in different states of India, particularly in the hilly areas as well as the Himalayan regions holding degrees in management, agriculture, engineering and social culture. Most of the families we work for belong to marginal communities.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">How does BBSWO work?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">BBSWO works for the upliftment of poor people of urban slums and rural communities to support their families to live in a decent way.
-            <br>To achieve this, professionals of various fields like engineering, agriculture and social science work together to share and execute their technical expertisation, BBSWO works for increasing food purity, gender justice, grassroot governing and integrated natural resources organic farming.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Which are BBSWO’s geographical focus areas?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Focus areas of BBSWO include the Northern and North-eastern Himalayan regions, plateau regions of Madhya Pradesh, Jharkhand, West Bengal as well as Gangetic plane and delta regions- its agriculture, biodiversity, lifestyle of communities, flora and fauna, indigenous plants and its utilization to the society- especially slums, marginal and tribal communities.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">How can I contribute in this initiative of BBSWO?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">You can support BBSWO as a part of this work including yourself with our awareness camps, field works, empowerment camps, entrepreneurship ideas, value-education in making a change in the society.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Is contribution Tax deductible?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">If you are an Indian, you are eligible for 80G, 50% Tax exemption U/S 80G.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">I am a foreign national. Can I make a contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Yes, you have to choose the name of the country in the payment gateway and fill up the necessary details to make the contribution.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">I am an NRI with Indian passport and do not have a PAN card. Can I make a contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Yes, you can make a payment through the payment gateway or if you want to mail us your cheque, you can use the following account.<br>
-                    Account name: <b>Baranagar Baghajatin Social Welfare Organisation</b> <br>
-                    Account no: <b>1020050010794</b> <br>
-                    Address of the bank: <b>Punjab National Bank,
-                                 Tobin Road (North 24 Parganas) West Bengal -700036.</b><br>
-                    IFSC code: <b>PUNB0102020</b>
-                                </p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Does BBSWO provide a receipt for the contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Yes! You will have to mail us one identification document (PAN card/ Aadhar Card/ Driving License etc) for Indian Nationals. </p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Where does my contribution go?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">Your contribution will go to BBSWO field teams where volunteers and professionals work for the community development.</p>
-      </li>
-      <li class="faq-card__item">
-        <button class="faq-card__button faq-card__button_active">Will I get reports about the progress?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-        <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury, who was convinced that even the adverse conditions of life in slums and rural India can be changed by empowerment, proper nutrition as well as value- education in the community. India is a country based on agriculture. However, the indigenous plants are not properly utilized. Dr. Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by educating the people in target communities. <br>
-In this view, the Research and Development Action Wing has been created with efficient young scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
-In 2008 BBSWO began working with the government and we have played a major role in developing programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and systems that help women, youth, families and communities gain confidence, which leads to change their life in a decent way.<br></p>
-      </li>
-    </ul>
-</div>
-    <!-- Footer-->
-    <?php require_once 'footer.php'; ?>
-    <!-- Portfolio Modals-->
-    <!-- Portfolio item 1 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">Book Distribution to Needy Children</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <div class="faq-card">
+            <h2 class="faq-card__title">FAQs</h2>
+            <ul class="faq-card__list" id="list">
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">What is BBSWO and what is the genesis?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury,
+                        who was convinced that even the adverse conditions of life in slums and rural India can be
+                        changed by empowerment, proper nutrition as well as value- education in the community. India is
+                        a country based on agriculture. However, the indigenous plants are not properly utilized. Dr.
+                        Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by
+                        educating the people in target communities. <br>
+                        In this view, the Research and Development Action Wing has been created with efficient young
+                        scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan
+                        Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
+                        In 2008 BBSWO began working with the government and we have played a major role in developing
+                        programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and
+                        systems that help women, youth, families and communities gain confidence, which leads to change
+                        their life in a decent way.<br>
+                    </p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Where does BBSWO work?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">More than 50 graduate professionals are working in the remote villages of
+                        India, concentrating themselves directly to the target communities in different states of India,
+                        particularly in the hilly areas as well as the Himalayan regions holding degrees in management,
+                        agriculture, engineering and social culture. Most of the families we work for belong to marginal
+                        communities.</p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">How does BBSWO work?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">BBSWO works for the upliftment of poor people of urban slums and rural
+                        communities to support their families to live in a decent way.
+                        <br>To achieve this, professionals of various fields like engineering, agriculture and social
+                        science work together to share and execute their technical expertisation, BBSWO works for
+                        increasing food purity, gender justice, grassroot governing and integrated natural resources
+                        organic farming.
+                    </p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Which are BBSWO’s geographical focus
+                        areas?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">Focus areas of BBSWO include the Northern and North-eastern Himalayan
+                        regions, plateau regions of Madhya Pradesh, Jharkhand, West Bengal as well as Gangetic plane and
+                        delta regions- its agriculture, biodiversity, lifestyle of communities, flora and fauna,
+                        indigenous plants and its utilization to the society- especially slums, marginal and tribal
+                        communities.</p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">How can I contribute in this initiative of
+                        BBSWO?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">You can support BBSWO as a part of this work including yourself with our
+                        awareness camps, field works, empowerment camps, entrepreneurship ideas, value-education in
+                        making a change in the society.</p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Is contribution Tax deductible?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">If you are an Indian, you are eligible for 80G, 50% Tax exemption U/S 80G.
+                    </p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">I am a foreign national. Can I make a
+                        contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">Yes, you have to choose the name of the country in the payment gateway and
+                        fill up the necessary details to make the contribution.</p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">I am an NRI with Indian passport and do not
+                        have a PAN card. Can I make a contribution?<i class="faq-card__icon fa fa-caret-down"
+                            aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">Yes, you can make a payment through the payment gateway or if you want to
+                        mail us your cheque, you can use the following account.<br>
+                        Account name: <b>Baranagar Baghajatin Social Welfare Organisation</b> <br>
+                        Account no: <b>1020050010794</b> <br>
+                        Address of the bank: <b>Punjab National Bank,
+                            Tobin Road (North 24 Parganas) West Bengal -700036.</b><br>
+                        IFSC code: <b>PUNB0102020</b>
+                    </p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Does BBSWO provide a receipt for the
+                        contribution?<i class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">Yes! You will have to mail us one identification document (PAN card/
+                        Aadhar Card/ Driving License etc) for Indian Nationals. </p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Where does my contribution go?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">Your contribution will go to BBSWO field teams where volunteers and
+                        professionals work for the community development.</p>
+                </li>
+                <li class="faq-card__item">
+                    <button class="faq-card__button faq-card__button_active">Will I get reports about the progress?<i
+                            class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
+                    <p class="faq-card__desc">BBSWO was created in 2007 by one young scientist, Dr Banani Ray Chowdhury,
+                        who was convinced that even the adverse conditions of life in slums and rural India can be
+                        changed by empowerment, proper nutrition as well as value- education in the community. India is
+                        a country based on agriculture. However, the indigenous plants are not properly utilized. Dr.
+                        Banani believes that grassroot work in the spirit of BBSWO to the society can be fulfilled by
+                        educating the people in target communities. <br>
+                        In this view, the Research and Development Action Wing has been created with efficient young
+                        scientists (Dr.) Arghya Chakravarty along with eminent nutritionist Dr Chaitali Dutta, Dr. Tapan
+                        Kumar Pal and veteran scientist Dr Krishanu Chakraborty to fulfil this dream.<br>
+                        In 2008 BBSWO began working with the government and we have played a major role in developing
+                        programs with SHG women and Entrepreneurs. We work for sustainability, bringing skill and
+                        systems that help women, youth, families and communities gain confidence, which leads to change
+                        their life in a decent way.<br></p>
+                </li>
+            </ul>
+        </div>
+        <!-- Footer-->
+        <?php require_once 'footer.php'; ?>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio item 1 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Book Distribution to Needy Children</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Threads
@@ -536,33 +612,38 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                             Illustration
                                         </li>
                                     </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Portfolio item 2 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">Health Checkup Camp</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <!-- Portfolio item 2 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Health Checkup Camp</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Explore
@@ -572,33 +653,38 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                             Graphic Design
                                         </li>
                                     </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Portfolio item 8 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">Computer Training Programme</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_134133.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <!-- Portfolio item 8 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Computer Training Programme</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_134133.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                     <li>
                                         <strong>Client:</strong>
                                         Explore
@@ -608,33 +694,38 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                         Graphic Design
                                     </li>
                                 </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Portfolio item 4 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">Children Education Programme</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <!-- Portfolio item 4 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Children Education Programme</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Lines
@@ -644,33 +735,38 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                             Branding
                                         </li>
                                     </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Portfolio item 5 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">SHG Development Programme</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_134014.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <!-- Portfolio item 5 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">SHG Development Programme</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_134014.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Southwest
@@ -680,33 +776,38 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                             Website Design
                                         </li>
                                     </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Portfolio item 6 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="modal-body">
-                                <!-- Project details-->
-                                <h2 class="text-uppercase">MSME Development Programme</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <!-- <ul class="list-inline">
+        <!-- Portfolio item 6 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                            alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">MSME Development Programme</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto"
+                                        src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
+                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
+                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
+                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
+                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Window
@@ -716,28 +817,29 @@ In 2008 BBSWO began working with the government and we have played a major role 
                                             Photography
                                         </li>
                                     </ul> -->
-                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                    <i class="fas fa-xmark me-1"></i>
-                                    Close
-                                </button>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                        type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
-    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-    <!-- * *                               SB Forms JS                               * *-->
-    <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script type="text/javascript">
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript">
         function sendEmail() {
             var name = $("#name");
             var email = $("#email");
@@ -770,7 +872,7 @@ In 2008 BBSWO began working with the government and we have played a major role 
 
             return true;
         }
-    </script>
+        </script>
 </body>
 
 </html>
