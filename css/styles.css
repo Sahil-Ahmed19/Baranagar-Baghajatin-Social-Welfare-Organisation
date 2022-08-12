@@ -14887,7 +14887,7 @@
                         #team {
                             box-sizing: border-box;
                             transition: all .2s linear;
-                            text-transform: capitalize;
+                            
                         }
 
                         @media (min-width:480px) {
