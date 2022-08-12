@@ -14789,12 +14789,12 @@
 
                         .products-preview .preview {
                             display: none;
-                            padding: 2rem;
+                            padding: 1rem 2rem 2rem 2rem;
                             text-align: center;
                             background: #fff;
                             position: relative;
-                            margin: 2rem;
-                            width: 68rem;
+                            margin: 3rem;
+                            width: 70rem;
                         }
 
                         .products-preview .preview.active {
@@ -14884,28 +14884,49 @@
                             color: #fff;
                         }
 
+                        .products-preview .preview {
+                            top: 35px;
+                        }
+
                         #team {
                             box-sizing: border-box;
                             transition: all .2s linear;
                             text-transform: capitalize;
                         }
 
-                        @media (min-width:480px) {
+                        @media (max-width:800px) {
+                            .products-preview .preview {
+                                top: 35px;
+                            }
 
                             .products-preview .preview img {
-                                height: 10rem;
+                                height: 5rem;
+
                             }
 
                             .products-preview .preview h3 {
                                 font-size: 1.0rem;
+                                padding: 0rem;
+                            }
+
+                            .products-preview .preview .price {
+
+                                font-size: 1.0rem;
+                            }
+
+                            .products-preview .preview p {
+
+                                font-size: 0.8rem;
+
                             }
 
                         }
 
-                        .abt-mem{
+                        .abt-mem {
                             text-align: justify;
                         }
-                        .products-preview{
-                            overflow-y: scroll; /* Show vertical scrollbar */
-                          }
-                          
+
+                        .products-preview {
+                            overflow-y: scroll;
+                            /* Show vertical scrollbar */
+                        }
