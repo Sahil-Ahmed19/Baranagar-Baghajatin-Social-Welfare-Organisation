@@ -38,7 +38,7 @@
     <nav class="social">
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
-            <li><a href="donate.php">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="https://rzp.io/l/02hkEOU6G">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 4-->
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 5-->
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
@@ -141,7 +141,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+               
             </div>
     </section>
     <!-- Footer-->
