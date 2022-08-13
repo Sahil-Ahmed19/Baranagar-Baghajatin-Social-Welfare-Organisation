@@ -14930,3 +14930,23 @@
                             overflow-y: scroll;
                             /* Show vertical scrollbar */
                         }
+
+                        .pager{
+                            display: flex;
+                            align-items: center;
+                        }
+                        .prev{
+                            border-radius: 20px;
+                            width: 120px;
+                            color: black;
+                            background-color: #013C4D;
+                            margin-left: 10%;
+                        }
+                        .next{
+                            border-radius: 20px;
+                            width: 120px;
+                            color: black;
+                            background-color: #013C4D;
+                            margin-right: 10%;
+                            align-items: right;
+                        }
