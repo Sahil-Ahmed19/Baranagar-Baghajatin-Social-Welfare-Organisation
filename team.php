@@ -104,7 +104,7 @@
                         </div>
 
                         <div class="product" data-name="p-3">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/sankha.jpeg" alt="..." />
                             <h3>Mr. Sankha Das</h3>
                             <div class="price">Treasurer</div>
                         </div>
@@ -131,7 +131,7 @@
                         </div>
 
                         <div class="product" data-name="p-3">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/sankha.jpeg" alt="..." />
                             <h3>Mr. Sankha Das</h3>
                             <div class="price">Treasurer</div>
                         </div>
@@ -174,7 +174,7 @@
                         </div>
 
                         <div class="product" data-name="p-10">
-                            <img class="mx-auto rounded-circle" src="./images/Dr. Tapan Kumar Pal.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/Dr. Tapan Kumar Pal.jpeg" alt="..." />
                             <h3>Dr. Tapan Kumar Pal</h3>
                             <div class="price">Scientific Officer (RDAW)</div>
                         </div>
@@ -209,16 +209,11 @@
                         </div>
 
                         <div class="product" data-name="p-11">
-                            <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/debasis.jpeg" alt="..." />
                             <h3>Mr. Debasis Panda</h3>
                             <div class="price">Sr. Public Relation Advisor</div>
                         </div>
 
-                        <div class="product" data-name="p-12">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h3>Mr. Pradip Kumar Koley</h3>
-                            <div class="price">Community Development officer</div>
-                        </div>
                     </div>
                 </div>
                 <div class="text-center">
@@ -250,6 +245,12 @@
                             <img class="mx-auto rounded-circle" src="./images/Simran.jpeg" alt="..." />
                             <h3>Ms. Simran Samanta</h3>
 
+                        </div>
+
+                        <div class="product" data-name="p-12">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <h3>Mr. Pradip Kumar Koley</h3>
+                            <!-- <div class="price">Community Development officer</div> -->
                         </div>
 
                         <div class="product" data-name="p-17">
@@ -307,11 +308,6 @@
                             <h3>Mrs. Anamika Mukhopadhyay</h3>
 
                         </div>
-                        <div class="product" data-name="p-28">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h3>Mrs. Mithu Adhikari</h3>
-
-                        </div>
                     </div>
                 </div>
 
@@ -321,9 +317,9 @@
                         <i class="fa-solid fa-circle-xmark"></i>
 
                         <img src="./images/sanjib mukherjee.jpg" alt="">
-                        <h3>r. Sanjib Mukhopadhyay</h3>
+                        <h3>Mr. Sanjib Mukhopadhyay</h3>
                         <div class="price">President</div>
-                        <p class="abt-mem">Nothing</p>
+                        <p class="abt-mem">Mr. Sanjib Mukhopadhyay is a chemist by profession having a vast experience in medicinal field. He has expertization in community development especially in the field of nutrition, health and cultural aspects of the rural and urban slum area people.</p>
 
                     </div>
 
@@ -335,7 +331,7 @@
                         <p class="abt-mem">Dr. Banani Ray Chowdhury is a successful Indian scientist, engineer,
                             professor and social
                             worker based on the field of Biotechnology and works actively in research on bio-waste
-                            management, Industrial Microbiology, bioremediation and medicinal plant. She is the founder
+                            management, Industrial Microbiology, bioremediation, food processing and medicinal plant. She is the founder
                             and secretary of Baranagar Baghajatin Social Welfare Organisation (BBSWO). Kolkata, India.
                             She received a B.Sc degree from Calcutta University and B.Tech, M.Tech, PhD from Jadavpur
                             University as well as Master in Social Welfare from Indira Gandhi National Open University,
@@ -349,7 +345,7 @@
 
                     <div class="preview" data-target="p-3">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/sankha.jpeg" alt="..." />
                         <h3>Mr. Sankha Das</h3>
                         <div class="price">Treasurer</div>
                         <p class="abt-mem">Sankha Das is a social worker with industrial background and public
@@ -473,7 +469,7 @@
                     </div>
                     <div class="preview" data-target="p-10">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/Dr. Tapan Kumar Pal.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/Dr. Tapan Kumar Pal.jpeg" alt="..." />
                         <h3>Dr. Tapan Kumar Pal</h3>
                         <div class="price">Scientific Officer (RDAW)</div>
 
@@ -485,9 +481,9 @@
                         <h3>Dr. Krishanu Chakraborty</h3>
                         <div class="price">Former Professor of Biochemistry.</p>
                         </div>
+                    </div>
                         <div class="preview" data-target="p-30">
                             <i class="fa-solid fa-circle-xmark"></i>
-                            uct" data-name="p-30">
                             <img class="mx-auto rounded-circle" src="./images/Pallibi.jpeg" alt="..." />
                             <h3>Ms. Pallabi Roy Chaudhuri</h3>
                             <div class="price">Public Relation Advisor</div>
@@ -500,11 +496,11 @@
                                 in the budget planning of the organization. He has also vast knowledge in Agriculture,
                                 Horticulture and Culinary sciences.</p>
                         </div>
-                    </div>
+                    
 
                     <div class="preview" data-target="p-11">
                         <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/debasis.jpeg" alt="..." />
                         <h3>Mr. Debasis Panda</h3>
                         <div class="price">Sr. Public Relation Advisor</div>
                         <p class="abt-mem">Mr. Satyenda Nath Das is one of the founder member of the society. He has
@@ -609,15 +605,6 @@
                         <i class="fa-solid fa-circle-xmark"></i>
                         <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
                         <h3>Mrs. Anamika Mukhopadhyay</h3>
-                    </div>
-                    <div class="preview" data-target="p-28">
-
-
-
-
-                        <i class="fa-solid fa-circle-xmark"></i>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
-                        <h3>Mrs. Mithu Adhikari</h3>
                     </div>
                 </div>
             </div>
