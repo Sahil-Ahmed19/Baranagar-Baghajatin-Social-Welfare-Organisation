@@ -68,8 +68,8 @@
                 </div>
             </div>
             <div class="pager">
-                    <button class="prev"><a href="events.php">Previous</a></button>
-                    <button class="next"><a href="#">Next</a></button>
+                <button class="prev"><a href="events.php">Previous</a></button>
+                <button class="next"><a href="#">Next</a></button>
             </div>
     </section>
     <!-- Footer-->
