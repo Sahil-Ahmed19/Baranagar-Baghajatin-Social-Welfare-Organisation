@@ -14920,7 +14920,7 @@
 
                         @media (max-width:800px) {
                             .products-preview .preview {
-                                top: 0px;
+                                top: 10px;
                             }
 
                             .products-preview .preview img {
@@ -14947,17 +14947,17 @@
                             .products-preview #ArghyaChakavorty h3 {
                                 color: #444;
                                 padding: 0rem 0;
-                                font-size: 20px;
+                                font-size: 15px;
                             }
 
                             .products-preview #ArghyaChakavorty .price {
                                 padding: 0rem 0rem;
-                                font-size: 20px;
+                                font-size: 15px;
                                 color: #27ae60;
                             }
 
                             .products-preview #ArghyaChakavorty p {
-                                font-size: 10px;
+                                font-size: 8px;
                             }
 
                             .products-preview .preview {
