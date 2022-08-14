@@ -13795,7 +13795,7 @@
                         }
 
                         #apal .carousel .card {
-                            /* background: rgb(34, 33, 33); */
+                            background: #8fafbc;
                             border-radius: 30px;
                             padding: 15px 10px;
                             text-align: center;
@@ -13807,7 +13807,7 @@
 
                         #apal .carousel .card:hover {
                             /* background: rgba(65, 65, 65, 0.482); */
-                            background-color: rgb(34 33 33 / 4%);
+                            background-color:#3a94b9;
                         }
 
                         #apal .carousel .card .box {
@@ -13819,6 +13819,7 @@
 
                         #apal .carousel .card:hover .box {
                             transform: scale(1.05);
+                           
                         }
 
                         #apal .carousel .card .text {
@@ -14891,7 +14892,7 @@
                         #team {
                             box-sizing: border-box;
                             transition: all .2s linear;
-                            text-transform: capitalize;
+                            
                         }
 
                         @media (max-width:800px) {
@@ -14930,3 +14931,23 @@
                             overflow-y: scroll;
                             /* Show vertical scrollbar */
                         }
+
+                        .pager{
+                            display: flex;
+                            justify-content: space-between;
+                        }
+                        .prev{
+                            border-radius: 20px;
+                            width: 120px;
+                            color: black;
+                            background-color: #013C4D;
+                            margin-left: 10%;
+                        }
+                        .next{
+                            border-radius: 20px;
+                            width: 120px;
+                            color: black;
+                            background-color: #013C4D;
+                            margin-right: 10%;
+                        }
+                        
