@@ -12420,7 +12420,6 @@
                             padding-bottom: 6rem;
                             text-align: center;
                             color: #fff;
-                            /* background-image: url("../assets/img/frontbg.jpg"); */
                             background-repeat: no-repeat;
                             background-attachment: scroll;
                             background-position: center center;
@@ -12986,11 +12985,11 @@
                             }
 
                             25% {
-                                background-image: url("../images/6.jpg");
+                                background-image: url("../images/aboutposter.jpeg");
                             }
 
                             50% {
-                                background-image: url("../images/7.jpg");
+                                background-image: url("../images/loktargroup.jpeg");
                             }
 
                             75% {
