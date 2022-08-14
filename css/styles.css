@@ -14933,7 +14933,7 @@
 
                         .pager{
                             display: flex;
-                            align-items: center;
+                            justify-content: space-between;
                         }
                         .prev{
                             border-radius: 20px;
@@ -14948,5 +14948,4 @@
                             color: black;
                             background-color: #013C4D;
                             margin-right: 10%;
-                            align-items: right;
                         }
