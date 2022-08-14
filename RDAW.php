@@ -54,12 +54,16 @@
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">Publications</h2>
+                <div class="rdaw">
                 <h4>Patent</h4><br>
                 <h4>Journal</h4><br>
                 <h4>Book</h4><br>
+                </div>
+                <p>Will be updated soon...</p>
             </div>
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">International Collaborations</h2>
+                <p>Will be updated soon...</p>
             </div>
             
         </div>
