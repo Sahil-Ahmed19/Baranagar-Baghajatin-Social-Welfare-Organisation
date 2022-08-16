@@ -54,6 +54,22 @@
             <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 2-->
                     <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModa41">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">Learn more</div>
+                            </div>
+                            <img class="img-fluid" src="./images/medicalcamp.jpeg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <!-- <div class="portfolio-caption-heading">Explore</div> -->
+                            <div class="portfolio-caption-subheading text-muted">Medical Camp<br></div>
+                            <p>15 August 2022</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 2-->
+                    <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModa40">
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">Learn more</div>
@@ -79,21 +95,6 @@
                             <!-- <div class="portfolio-caption-heading">Threads</div> -->
                             <div class="portfolio-caption-subheading text-muted">Book Distribution to Needy Children
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <!-- Portfolio item 2-->
-                    <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">Learn more</div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
-                        </a>
-                        <div class="portfolio-caption">
-                            <!-- <div class="portfolio-caption-heading">Explore</div> -->
-                            <div class="portfolio-caption-subheading text-muted">Health Checkup Camp</div>
                         </div>
                     </div>
                 </div>
@@ -238,8 +239,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio item 2 modal popup-->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModa40" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
@@ -249,14 +249,11 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Health Checkup Camp</h2>
-                                <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
+                                <h2 class="text-uppercase">Respondent analysis program</h2>
+                                <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
-                                    src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    src="./images/loktargroup.jpeg" alt="..." />
+                                <p>Respondent analysis program in a Slum area,Shibpur, Howrah, Baranagar, Kolkata-700036.</p>
                                 <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -279,7 +276,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModa40" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModa41" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
@@ -289,11 +286,11 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Respondent analysis program</h2>
+                                <h2 class="text-uppercase">Medical Camp</h2>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
-                                    src="./images/loktargroup.jpeg" alt="..." />
-                                <p>Respondent analysis program in a Slum area,Shibpur, Howrah, Baranagar, Kolkata-700036.</p>
+                                    src="./images/camp.jpeg" alt="..." />
+                                <p>In the auspicious day of 76th Independence day of our Motherland India, today, 15th August 2022, an one-day Medical camp was organized by our organization, Baranagar Baghajatin Social Welfare Organisation, at Baranagar Baghjatin Colony (Kundu Bagan). It was successful event with 52 beneficiaries. BMI-Index, Blood pressure, Random Blood sugar and ECG checkup were done in this camp. Doctors from renowned Belleview Nursing home, Kolkata and Scientists from ICMR Kolkata came in this camp. Our collaborator was Rotary club Calcutta Sutanuti, Clini Med carelab and Bengal Institute of Technology,  Kolkata. Media coverage from a television Chanel was also performed in our today's One day Free Medical camp. The people in Baranagar kundubagan Baghajatin community (slum area) were very happy to get such medical facilities today from us.</p>
                                 <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
