@@ -264,7 +264,7 @@
 
                         </div>
                         <div class="product" data-name="p-19">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="./images/chandrachur.jpeg" alt="..." />
                             <h3>Mr. Chandrachur Adhikari</h3>
 
                         </div>
@@ -575,7 +575,7 @@
                     </div>
                     <div class="preview" data-target="p-19">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
-                        <img class="mx-auto rounded-circle" src="./images/sanjib mukherjee.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="./images/chandrachur.jpeg" alt="..." />
                         <h3>Mr. Chandrachur Adhikari</h3>
                     </div>
                     <div class="preview" data-target="p-20">
