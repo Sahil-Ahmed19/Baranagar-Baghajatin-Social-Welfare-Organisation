@@ -252,7 +252,9 @@
                                 <h2 class="text-uppercase">Respondent analysis program</h2>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
-                                    src="./images/loktargroup.jpeg" alt="..." />
+                                    src="./images/resp1.jpeg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto"
+                                    src="./images/resp2.jpeg" alt="..." />
                                 <p>Respondent analysis program in a Slum area,Shibpur, Howrah, Baranagar, Kolkata-700036.</p>
                                 <!-- <ul class="list-inline">
                                         <li>
@@ -288,8 +290,14 @@
                                 <!-- Project details-->
                                 <h2 class="text-uppercase">Medical Camp</h2>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
+                                
                                 <img class="img-fluid d-block mx-auto"
-                                    src="./images/camp.jpeg" alt="..." />
+                                    src="./images/camp1.jpeg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto"
+                                    src="./images/camp2.jpeg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto"
+                                    src="./images/camp3.jpeg" alt="..." />
+                                
                                 <p>In the auspicious day of 76th Independence day of our Motherland India, today, 15th August 2022, an one-day Medical camp was organized by our organization, Baranagar Baghajatin Social Welfare Organisation, at Baranagar Baghjatin Colony (Kundu Bagan). It was successful event with 52 beneficiaries. BMI-Index, Blood pressure, Random Blood sugar and ECG checkup were done in this camp. Doctors from renowned Belleview Nursing home, Kolkata and Scientists from ICMR Kolkata came in this camp. Our collaborator was Rotary club Calcutta Sutanuti, Clini Med carelab and Bengal Institute of Technology,  Kolkata. Media coverage from a television Chanel was also performed in our today's One day Free Medical camp. The people in Baranagar kundubagan Baghajatin community (slum area) were very happy to get such medical facilities today from us.</p>
                                 <!-- <ul class="list-inline">
                                         <li>
