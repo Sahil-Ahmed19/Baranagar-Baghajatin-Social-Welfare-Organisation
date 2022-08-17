@@ -12551,6 +12551,9 @@
                             font-style: italic;
                             margin-bottom: 2rem;
                             font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
                         }
 
                         .portfolio-modal .modal-content p {
@@ -14983,6 +14986,30 @@
                                 width: 90%;
                             }
 
+                            /* chnages for final */
+                            .portfolio-modal .modal-content h2 {
+                                font-size: 1rem;
+                                line-height: 1rem;
+                            }
+
+                            .portfolio-modal .modal-content p.item-intro {
+                                font-size: 15px;
+                                font-style: italic;
+                                margin-bottom: 1rem;
+                                font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                            }
+
+                            .page-section h2.section-heading, .page-section .section-heading.h2 {
+                                font-size: 2rem;
+                                margin-top: 0;
+                                margin-bottom: 1rem;
+                            }
+
+                            /* chnages for final */
+
                         }
 
                         .abt-mem {
@@ -15014,6 +15041,9 @@
                             background-color: #013C4D;
                             margin-right: 10%;
                         }
-                        .rdaw{
+
+                        .rdaw {
                             text-align: left;
                         }
+
+                        /* chnages in line no 12555 ".portfolio-modal .modal-content p.item-intro "*/
