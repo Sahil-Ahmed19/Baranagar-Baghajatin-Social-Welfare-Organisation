@@ -21,15 +21,15 @@
 
 namespace PHPMailer\PHPMailer;
 
-use League\OAuth2\Client\Grant\RefreshToken;
-use League\OAuth2\Client\Provider\AbstractProvider;
-use League\OAuth2\Client\Token\AccessToken;
+use League\OAuth1\Client\Grant\RefreshToken;
+use League\OAuth1\Client\Provider\AbstractProvider;
+use League\OAuth1\Client\Token\AccessToken;
 
 /**
- * OAuth - OAuth2 authentication wrapper class.
- * Uses the oauth2-client package from the League of Extraordinary Packages.
+ * OAuth - OAuth1 authentication wrapper class.
+ * Uses the oauth1-client package from the League of Extraordinary Packages.
  *
- * @see     http://oauth2-client.thephpleague.com
+ * @see     http://oauth1-client.thephpleague.com
  *
  * @author  Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk>
  */
