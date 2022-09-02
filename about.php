@@ -52,7 +52,7 @@
     <section class="page-section" id="about">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">About</h2>
+                <h1 class="section-heading text-uppercase">About</h1>
                 <div id="text12">
                     <div id="text1">
                         <h3 class="section-subheading text-muted">Baranagar Baghajatin Social Welfare Organisation was founded by some educated and dedicated youth and social workers with a view to develop the socio economic status of the poor and downtrodden people emphasising on distressed
@@ -69,20 +69,20 @@
 
             <div class="mission">
                 <span class="icon fas fa-bullseye"></span>
-                <h2 class="section-heading text-uppercase">Mission</h2>
+                <h1 class="section-heading text-uppercase">Mission</h1>
                 <div class="mis-vis">To provide meaningful opportunities to the disadvantaged and underprivileged, with a greater emphasis on the empowerment of women and various other vulnerable sections of the society, as well as incorporating Green-Technology and Bio-Waste
                     Management, including numerous Green-technologies, so as to achieve high level of sustained socio-economical development.</div>
             </div>
             <div class="vision">
                 <span class="icon far fa-eye"></span>
-                <h2 class="section-heading text-uppercase">Vision</h2>
+                <h1 class="section-heading text-uppercase">Vision</h1>
                 <div class="mis-vis">“Baranagar Baghajatin Social Welfare Organisation”, fights the social evils of caste, creed, gender discrimination, illiteracy, ill health, poverty and exploitation. Where men and women move hand-in-hand and in perfect harmony with nature,
                     to attain higher level of humaneness and camaraderie. </div>
             </div>
         </div>
         <div id="apal" class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Objectives</h2>
+                <h1 class="section-heading text-uppercase">Our Objectives</h1>
             </div>
             <div class="faculty ">
                 <div class="carousel owl-carousel ">
@@ -146,7 +146,7 @@
         </div>
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Reports</h2>
+                <h1 class="section-heading text-uppercase">Reports</h1>
                 <br>
                 <br>
             </div>

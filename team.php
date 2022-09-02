@@ -56,7 +56,7 @@
     <section class="page-section bg-light" id="team">
         <div id="arrrr" class="container">
             <!-- <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Supporting Pillars</h2>
+                <h1 class="section-heading text-uppercase">Our Supporting Pillars</h1>
             </div> -->
 
             <div class="row">
@@ -64,7 +64,7 @@
                     <br>
                     <br>
                     <div class="text-center">
-                        <h2 class="section-heading text-uppercase">BE A MEMBER</h2>
+                        <h1 class="section-heading text-uppercase">BE A MEMBER</h1>
                         <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
 
                     </div>
@@ -84,7 +84,7 @@
                     <br>
                 </div>
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Board Members</h2>
+                    <h1 class="section-heading text-uppercase">Board Members</h1>
 
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
@@ -100,7 +100,7 @@
                         <div class="product" data-name="p-2">
                             <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                             <h3>Dr. Banani Ray Chowdhury</h3>
-                            <div class="price">Secretary</div>
+                            <div class="price">Secretary </div>
                         </div>
 
                         <div class="product" data-name="p-3">
@@ -111,7 +111,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Executive Members</h2>
+                    <h1 class="section-heading text-uppercase">Executive Members</h1>
 
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
@@ -127,7 +127,7 @@
                         <div class="product" data-name="p-2">
                             <img class="mx-auto rounded-circle" src="./images/banani_Roy.jpeg" alt="..." />
                             <h3>Dr. Banani Ray Chowdhury</h3>
-                            <div class="price">Secretary</div>
+                            <div class="price">Secretary,Chairman(RDAW)</div>
                         </div>
 
                         <div class="product" data-name="p-3">
@@ -183,7 +183,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Advisory Members</h2>
+                    <h1 class="section-heading text-uppercase">Advisory Members</h1>
 
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
@@ -214,10 +214,28 @@
                             <div class="price">Sr. Public Relation Advisor</div>
                         </div>
 
+                        <div class="product" data-name="p-41">
+                            <img class="mx-auto rounded-circle" src="./images/Prasanta Biswas.jpeg" alt="..." />
+                            <h3>Dr. Prasanta Biswas</h3>
+                            <div class="price">Scientific advisor(RDAW)</div>
+                        </div>
+
+                        <div class="product" data-name="p-42">
+                            <img class="mx-auto rounded-circle" src="./images/Mahuya.jpeg" alt="..." />
+                            <h3>Dr. Mahuya Hom Choudhury</h3>
+                            <div class="price">Scientific advisor(RDAW)</div>
+                        </div>
+
+                        <div class="product" data-name="p-43">
+                            <img class="mx-auto rounded-circle" src="./images/Snehendu.jpeg" alt="..." />
+                            <h3>Mr. Snehendu Konar</h3>
+                            <div class="price">Public Relation and Statutory Advisor</div>
+                        </div>
+
                     </div>
                 </div>
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">General Members</h2>
+                    <h1 class="section-heading text-uppercase">General Members</h1>
 
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
@@ -306,6 +324,11 @@
                         <div class="product" data-name="p-27">
                             <img class="mx-auto rounded-circle" src="./images/anamika.jpeg" alt="..." />
                             <h3>Mrs. Anamika Mukhopadhyay</h3>
+
+                        </div>
+                        <div class="product" data-name="p-28">
+                            <img class="mx-auto rounded-circle" src="./images/Sudip Das.jpeg" alt="..." />
+                            <h3>Mr. Sudip Das</h3>
 
                         </div>
                     </div>
@@ -414,6 +437,41 @@
                             a manufacturing
                             business of variety Eco-friendly products of "Disposable PAPER PLATES & BOWLS".</p>
                     </div>
+
+                    <div class="preview" data-target="p-41">
+                        <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
+                        <img class="mx-auto rounded-circle" src="./images/Prasanta Biswas.jpeg" alt="..." />
+                        <h3>Dr. Prasanta Biswas</h3>
+                        <div class="price">Scientific Advisor(RDAW)</div>
+
+                        <p class="abt-mem">Dr. Prasanta Biswas is an eminent scientist of Food Technology background. He is presently working as Head of the department of Food Technology and Biochemical Engineering, Jadavpur University,  Kolkata.
+                             Dr. Biswas has coined several National and International awards. He has published more than 15 International and National peer reviewed journals, authors of 3 International books and 1 Indian patent. 
+                         He has huge contributions in  Industrial development sectors and community development work to promote green technology.
+                        </p>
+                    </div> 
+                    <div class="preview" data-target="p-42">
+                        <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
+                        <img class="mx-auto rounded-circle" src="./images/Mahuya.jpeg" alt="..." />
+                        <h3>Dr. Mahuya Hom Choudhury</h3>
+                        <div class="price">Scientific Advisor(RDAW)</div>
+
+                        <p class="abt-mem">She is the Coordinator of Geographical Indications (G.I –the Traditional Technology) projects of West Bengal and Nodal Officer of Patent Information Centre, WBSCST,DSTBT-GoWB. She coordinated filing of 29 G.Is of the State, registration of 18 G.Is, 760 G.I authorised user protection for branding of the product- special mention Banglar Rasogolla. She monitored  the techno legal issues related to IPR of the state. She is registered Patent and Trademark Agent (Attorney) and facilitated filing of more than 170 patents; she was also associated with plant variety protection of 24 rice varieties of the state, mentored 30 start ups of the state.  She is engaged with the IPR activities of the state for last 22 years in Patent Information Centre, West Bengal State Council of Science & Technology.  Patent Information Centre of West Bengal  is being designated as Category I centre in all over India among 26 State PIC under her leadership.
+                        </p>
+                    </div> 
+
+                    <div class="preview" data-target="p-43">
+                        <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
+                        <img class="mx-auto rounded-circle" src="./images/Snehendu.jpeg" alt="..." />
+                        <h3>Mr. Snehendu Konar</h3>
+                        <div class="price">Public Relation and Statutory Advisor</div>
+
+                        <p class="abt-mem">Mr. Snehendu is an industry leader with extensive experience in clinical research, operations, business development with over 23 years of experience in developing business and managing global operation centers and having rich experience in client relations, staffing, resource management and optimization. Currently serving as Head of Business Development and Strategy of CliniMed LifeSciences and also supports CliniMed’s HR dept. 
+He had successfully setup the LNJ group’s healthcare BPO regional office at Kolkata as a Greenfield, designing and implementing office layout, network, staffing, process training and establishing metrics for management reporting for transparency in operations.
+Snehendu demonstrated leadership while delivering value to the business in various roles and have successfully addressed various corporate parameters like strategic planning and deployment of operational processes, aligning deliverables to match business goals and achieve targets effectively within timeframe, budgets and with utmost quality delivered. 
+He has worked with global and national pharma companies like Pfizer, Eli Lily, Johnson and Johnson , Ophirex Inc., Zydus LifeSciences, Hetero Drugs, NATCO pharma, etc.
+                        </p>
+                    </div> 
+
                     <div id="ArghyaChakavorty" class="preview" data-target="p-8">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
 
@@ -596,6 +654,11 @@
                     <div class="preview" data-target="p-23">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
                         <img class="mx-auto rounded-circle" src="./images/sudip.jpeg" alt="..." />
+                        <h3>Mr. Sudip Das</h3>
+                    </div>
+                    <div class="preview" data-target="p-28">
+                        <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
+                        <img class="mx-auto rounded-circle" src="./images/Sudip Das.jpeg" alt="..." />
                         <h3>Mr. Sudip Das</h3>
                     </div>
                     <div class="preview" data-target="p-24">

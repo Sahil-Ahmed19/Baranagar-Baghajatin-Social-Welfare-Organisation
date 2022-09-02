@@ -39,6 +39,7 @@
         <a onClick="openTab(this)" href="#" name="assets/pdfs/policy.pdf">Policy<br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/ngodarpan.pdf">Niti Ayog Ngo Darpan<br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO registration.pdf">Registration Certificate <br></a>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/Baranagar_Baghajatin_CSR_Certificate.pdf">CSR Registration Certificate</a><br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO pan.pdf">PAN Card</a> <br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/12A.pdf">Income Tax Exemption 12AA</a> <br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/80G.pdf">Income Tax Exemption 80G</a>
