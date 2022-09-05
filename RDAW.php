@@ -53,7 +53,7 @@
         <div class="container">
 
             <div id="text" class=" text-center">
-                <h2 class="section-heading text-uppercase">Ongoing Research</h2>
+                <h1 class="section-heading text-uppercase">Ongoing Research</h1>
                 <div id="research" class="rdaw">
                     <img id="research-img" src="assets\img\portfolio\Picsart_22-09-03_14-35-11-729.jpg" alt=""
                         srcset="">
