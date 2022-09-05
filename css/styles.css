@@ -13030,10 +13030,8 @@ section#a form#contactForm :-ms-input-placeholder {
     /* text-shadow: 2px 2px black; */
 }
 .text-center h3 {
-    color: #184E77;
-    
+    color: #184E77; 
     padding: 2rem;
-    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
     transform: (-50%, -50%);
     align-items: center;
     /* text-shadow: 2px 2px black; */
