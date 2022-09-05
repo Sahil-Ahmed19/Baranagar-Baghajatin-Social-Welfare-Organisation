@@ -2,11 +2,10 @@
 <html lang="en">
 
 <head>
-<script type="text/javascript">
-        function openTab(th)
-        {
-            window.open(th.name,'_blank');
-        }
+    <script type="text/javascript">
+    function openTab(th) {
+        window.open(th.name, '_blank');
+    }
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -41,7 +40,8 @@
     <!-- Masthead-->
     <nav class="social">
         <ul>
-            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
+            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif"
+                        alt=""></a></li>
             <li><a href="https://rzp.io/l/bbswo-donation">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
@@ -50,23 +50,30 @@
 
     <!-- About-->
     <section class="page-section" id="reports">
-       
         <div class="container">
-            <div class="text-center">
-            <h1 class="section-heading text-uppercase">Research & Develepment Action Wing</h1>
-                <h3 class="section-heading text-uppercase">Publications</h3>
-                <div class="rdaw">
-                <h4>Patent</h4><br>
-                <h4>Journal</h4><br>
-                <h4>Book</h4><br>
+
+            <div id="text" class=" text-center">
+                <h2 class="section-heading text-uppercase">Ongoing Research</h2>
+                <div id="research" class="rdaw">
+                    <img id="research-img" src="assets\img\portfolio\Picsart_22-09-03_14-35-11-729.jpg" alt=""
+                        srcset="">
+                    <p>Exploration of Himalayan biodiversity during "Mayali Pass trek" will be done by 7 membered
+                        trekking-team with 7 members helpers/guide/porters. Trek distance is 75km with highest altitude
+                        of 3500 metres.
+
+                        Trekkers will collect informations, photos of himalayan plants etc during Uttarakhand region
+                        high altitude Himalayan trekking to "Mayali Pass" starting from Uttarakhand based small village
+                        'Ghuttu' and passing through Mayali pass followed by desending to Kedarnath. Trek will be
+                        started from Kolkata (Howrah station) on 8th September.
+
+                        The plants/ explored will be identified through biological softwares/apps followed by decision
+                        making regarding further studies for Preservation and application of the medicinal plants from
+                        this high altitude Himalayan region.
+
+                        LET US PRAY FOR THEIR SUCCESSFUL TREKKING AND EXPLORATION OF THE HIMALAYAN BIODIVERSITY.</p>
                 </div>
-                <p>Will be updated soon...</p>
+
             </div>
-            <div class="text-center">
-                <h3 class="section-heading text-uppercase">International Collaborations</h3>
-                <p>Will be updated soon...</p>
-            </div>
-            
         </div>
     </section>
 

@@ -14996,20 +14996,21 @@ p {
 
 }
 
- .portfolio-modal .modal-content h1 {
-        font-size: 1rem;
-        line-height: 1rem;
-    }
 
-    .portfolio-modal .modal-content p.item-intro {
-        font-size: 15px;
-        font-style: italic;
-        margin-bottom: 1rem;
-        font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+.portfolio-modal .modal-content h2 {
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.portfolio-modal .modal-content p.item-intro {
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 1rem;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .abt-mem {
     text-align: justify;
@@ -15040,6 +15041,66 @@ p {
     background-color: #013C4D;
     margin-right: 10%;
 }
-.rdaw{
+
+
+#text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rdaw {
     text-align: left;
+}
+
+#research {
+    background-color: #eb9292a1;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#research-img {
+    margin: 20px;
+    height: 260px;
+    /* width: 630px; */
+}
+
+@media (max-width:1200px) {
+    #research {
+        background-color: #eb9292a1;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border-radius: 10px;
+
+    }
+}
+
+@media (max-width:500px) {
+    #research {
+        font-size: 15px;
+    }
+
+    #research-img {
+        margin: 20px;
+        height: 170px;
+        /* width: 630px; */
+    }
+}
+
+@media (max-width:280px) {
+    #research-img {
+        margin: 20px;
+        height: 100px;
+        /* width: 630px; */
+    }
 }
