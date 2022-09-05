@@ -79,19 +79,34 @@
             </div>
             <div class="single-post-content">
                 <ul class="data-list" data-autoscroll>
+                <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">8</div>
+                                        <div class="event-month">Sep</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Exploration of Himalayan biodiversity during "Mayali Pass trek"
+                                    <span class="blink">New</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
                     <li>
                         <table class="events-list">
                             <tr>
                                 <td style="width:10%">
                                     <div class="event-date">
-                                        <div class="event-day">18</div>
+                                        <div class="event-day">15</div>
                                         <div class="event-month">Aug</div>
                                     </div>
                                 </td>
                                 <td>
                                     Independence Day Celebration and HEALTH CHECK-UP CAMP in Baranagar Slum area (28
-                                    Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp<span
-                                        class="blink">New</span>
+                                    Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp
                                 </td>
                             </tr>
                         </table>
