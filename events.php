@@ -47,7 +47,7 @@
     <section class="page-section " id="portfolio">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Projects</h2>
+                <h1 class="section-heading text-uppercase">Our Projects</h1>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row">
@@ -210,7 +210,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Book Distribution to Needy Children</h2>
+                                <h1 class="text-uppercase">Book Distribution to Needy Children</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
@@ -250,7 +250,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Respondent analysis program</h2>
+                                <h1 class="text-uppercase">Respondent analysis program</h1>
                               
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
@@ -290,7 +290,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Medical Camp</h2>
+                                <h1 class="text-uppercase">Medical Camp</h1>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="./images/camp1.jpeg" alt="..." />
@@ -332,7 +332,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Tree Plantation Programme</h2>
+                                <h1 class="text-uppercase">Tree Plantation Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/tree.jpg" alt="..." />
                                 <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
@@ -372,7 +372,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Children Education Programme</h2>
+                                <h1 class="text-uppercase">Children Education Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
@@ -413,7 +413,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">SHG Development Programme</h2>
+                                <h1 class="text-uppercase">SHG Development Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_134014.jpg" alt="..." />
@@ -454,7 +454,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">MSME Development Programme</h2>
+                                <h1 class="text-uppercase">MSME Development Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
@@ -495,7 +495,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Entrepreneurship Development Programme</h2>
+                                <h1 class="text-uppercase">Entrepreneurship Development Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_134113.jpg" alt="..." />
@@ -536,7 +536,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Computer Training Programme</h2>
+                                <h1 class="text-uppercase">Computer Training Programme</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_134133.jpg" alt="..." />

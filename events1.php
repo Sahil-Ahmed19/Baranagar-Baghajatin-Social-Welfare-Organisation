@@ -47,7 +47,7 @@
     <section class="page-section " id="portfolio">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Projects</h2>
+                <h1 class="section-heading text-uppercase">Our Projects</h1>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row">
@@ -100,7 +100,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Eye Checkup Camp</h2>
+                                <h1 class="text-uppercase">Eye Checkup Camp</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="assets/img/portfolio/IMG_20220711_134157.jpg" alt="..." />
@@ -141,7 +141,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Health Checkup Camp</h2>
+                                <h1 class="text-uppercase">Health Checkup Camp</h1>
                                 <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="./images/healthcheck.jpeg" alt="..." />

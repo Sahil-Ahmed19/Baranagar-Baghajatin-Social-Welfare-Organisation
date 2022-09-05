@@ -75,23 +75,38 @@
     <div class="upcoming_events">
         <div class="blog-post blog-single-post">
             <div class="text-center">
-                <h2>UPCOMING EVENTS</h2>
+                <h1>UPCOMING EVENTS</h1>
             </div>
             <div class="single-post-content">
                 <ul class="data-list" data-autoscroll>
+                <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                        <div class="event-day">8</div>
+                                        <div class="event-month">Sep</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Exploration of Himalayan biodiversity during "Mayali Pass trek"
+                                    <span class="blink">New</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
                     <li>
                         <table class="events-list">
                             <tr>
                                 <td style="width:10%">
                                     <div class="event-date">
-                                        <div class="event-day">18</div>
+                                        <div class="event-day">15</div>
                                         <div class="event-month">Aug</div>
                                     </div>
                                 </td>
                                 <td>
                                     Independence Day Celebration and HEALTH CHECK-UP CAMP in Baranagar Slum area (28
-                                    Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp<span
-                                        class="blink">New</span>
+                                    Bagha Jatin Road), ward-26, West Bengal, India.&nbsp&nbsp
                                 </td>
                             </tr>
                         </table>
@@ -304,7 +319,7 @@
     <section class="page-section" id="services">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Approach</h2>
+                <h1 class="section-heading text-uppercase">Our Approach</h1>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row text-center">
@@ -341,7 +356,7 @@
     <section class="page-section" id="about">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">About</h2>
+                <h1 class="section-heading text-uppercase">About</h1>
                 <div id="text12">
                     <div id="text1">
                         <h3 class="section-subheading text-muted">Baranagar Baghajatin Social Welfare Organisation was
@@ -363,7 +378,7 @@
     <section class="page-section" id="portfolio">
         <div id="aa" class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Projects</h2>
+                <h1 class="section-heading text-uppercase">Our Projects</h1>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row">
@@ -491,7 +506,7 @@
     <section class="page-section" id="contact" name="contact">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Contact Us</h2>
+                <h1 class="section-heading text-uppercase">Contact Us</h1>
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <!-- * * * * * * * * * * * * * * *-->
@@ -562,7 +577,7 @@
     </section>
     <div class="faq">
         <div class="faq-card">
-            <h2 class="faq-card__title">FAQs</h2>
+            <h1 class="faq-card__title">FAQs</h1>
             <ul class="faq-card__list" id="list">
                 <li class="faq-card__item">
                     <button class="faq-card__button faq-card__button_active">What is BBSWO and what is the genesis?<i
@@ -676,7 +691,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Book Distribution to Needy Children</h2>
+                                    <h1 class="text-uppercase">Book Distribution to Needy Children</h1>
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
@@ -717,7 +732,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Medical Camp</h2>
+                                <h1 class="text-uppercase">Medical Camp</h1>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="./images/camp1.jpeg" alt="..." />
@@ -759,7 +774,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Computer Training Programme</h2>
+                                    <h1 class="text-uppercase">Computer Training Programme</h1>
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_134133.jpg" alt="..." />
@@ -800,7 +815,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Children Education Programme</h2>
+                                    <h1 class="text-uppercase">Children Education Programme</h1>
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
@@ -840,7 +855,7 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Respondent analysis program</h2>
+                                <h1 class="text-uppercase">Respondent analysis program</h1>
                                 <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
                                 <img class="img-fluid d-block mx-auto"
                                     src="./images/resp1.jpeg" alt="..." />
@@ -880,7 +895,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">SHG Development Programme</h2>
+                                    <h1 class="text-uppercase">SHG Development Programme</h1>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_134014.jpg" alt="..." />
