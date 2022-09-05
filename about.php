@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>BBSWO-Baranagar Baghajatin Social Welfare Organisation</title>
+    <title>Baranagar Baghajation Social Welfare Organisation(BBSWO)-About</title>
     <!-- Favicon-->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -42,7 +42,7 @@
     <nav class="social">
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt=""></a></li>
-            <li><a href="https://rzp.io/l/02hkEOU6G">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="https://rzp.io/l/bbswo-donation">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
@@ -160,7 +160,7 @@
                         <div class="timeline-body">
                             <p class="text-muted">To acquire, establish, start, aid runmaintain or manage schools, colleges, libraries, hospitals for the benefit of the villages.
                             </p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2020-21.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
@@ -172,7 +172,7 @@
                         </div>
                         <div class="timeline-body">
                             <p class="text-muted">To promote and encourage advancement of library, cultural political, religious, scientific and technical education.</p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report-2019-20.pdf">Read more</a>
                         </div>
                     </div>
                 </li>
@@ -183,7 +183,7 @@
                             <h4 class="subheading">2018-2019</h4>
                             <div class="timeline-body">
                                 <p class="text-muted">To collect and preserve manuscripts, paintings, sculptures, weeks of antiqui design.</p>
-                                <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
+                                <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2018-19.pdf">Read more</a>
                             </div>
                         </div>
                 </li>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="timeline-body">
                             <p class="text-muted">To help the needy of all communities and both in rural and urban development.</p>
-                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2016-17.pdf">Read more</a>
+                            <a id="btn-text" class="btn btn-primary btn-xl text-uppercase" onClick="openTab(this)" href="#" name="assets/pdfs/Report 2017-18.pdf">Read more</a>
                         </div>
                     </div>
                 </li>

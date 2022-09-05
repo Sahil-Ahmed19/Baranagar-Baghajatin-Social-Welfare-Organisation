@@ -30,20 +30,21 @@
     </div>
     <div>
     <div class="footer-icons1"><a> <i class="fa fa-envelope"></i></a></div>
-        <p><span><a href="mailto:bananiraychowdhury683@gmail.com">bananiraychowdhury683@gmail.com</a></span></p>
+        <p><span><a href="mailto:info@bbswo.org.in">info@bbswo.org.in</a></span></p>
     </div>
 </div>
 <div class="footer-right">
     <p class="footer-company-about">
         <span>Legal</span>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/policy.pdf">Policy<br></a>
+        <a onClick="openTab(this)" href="#" name="assets/pdfs/ngodarpan.pdf">Niti Ayog Ngo Darpan<br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO registration.pdf">Registration Certificate <br></a>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/NGO pan.pdf">PAN Card</a> <br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/12A.pdf">Income Tax Exemption 12AA</a> <br>
         <a onClick="openTab(this)" href="#" name="assets/pdfs/80G.pdf">Income Tax Exemption 80G</a>
         </p>
     <div class="footer-icons">
-        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.facebook.com/bbswo"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-twitter"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
         <a href="#"><i class="fab fa-linkedin"></i></a>

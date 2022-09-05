@@ -9,9 +9,10 @@
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="We provide meaningful opportunities to the disadvantaged and underprivileged, with a greater emphasis on the empowerment of women and various other vulnerable sections of the society, as well as incorporating Green-Technology and Bio-Waste Management, including numerous Green-technologies, so as to achieve high level of sustained socio-economical development." />
+    <meta name="keywords" content="BBSWO, Baranagar, Baghajatin, Social, Welfare, Organisation, ngo">
     <meta name="author" content="" />
-    <title>BBSWO-Baranagar Baghajatin Social Welfare Organisation</title>
+    <title>Baranagar Baghajation Social Welfare Organisation</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
@@ -56,9 +57,8 @@
     <nav class="social">
         <ul>
 
-            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif"
-                        alt=""></a></li>
-            <li><a href="https://rzp.io/l/02hkEOU6G">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif" alt="..."></a></li>
+            <li><a href="https://rzp.io/l/bbswo-donation">Donate<img id="pal" src="./images/10.png" alt="..."></a></li>
 
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
         </ul>
@@ -101,13 +101,149 @@
                             <tr>
                                 <td style="width:10%">
                                     <div class="event-date">
-                                        <div class="event-day">..</div>
+                                    <div class="event-day">..</div>
                                         <div class="event-month">..</div>
                                     </div>
                                 </td>
                                 <td>
-                                    Women Empowerment.&nbsp&nbsp
-                                    <!-- <span class="blink">New</span> -->
+                                Women Empowerment.&nbsp&nbsp
+                                <!-- <span class="blink">New</span> -->
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Meditation camp for peace / conflict resolution.&nbsp&nbsp
+                                <!-- <span class="blink">New</span> -->
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Disease prevention / treatment.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Low cost nitrition for children/ pregnant women/ lactating mother
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Meternal/ child health.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Program on Juvenile Justice.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Basic / Adult education.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Water and sanitation.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Community development in economical aspects.
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li>
+                        <table class="events-list">
+                            <tr>
+                                <td style="width:10%">
+                                    <div class="event-date">
+                                    <div class="event-day">..</div>
+                                        <div class="event-month">..</div>
+                                    </div>
+                                </td>
+                                <td>
+                                Environmental pollution control and Agricultural development.
                                 </td>
                             </tr>
                         </table>
@@ -122,8 +258,7 @@
                                     </div>
                                 </td>
                                 <td>
-                                    Meditation camp for peace / conflict resolution.&nbsp&nbsp
-                                    <!-- <span class="blink">New</span> -->
+                                Tribal community development.
                                 </td>
                             </tr>
                         </table>
@@ -138,7 +273,7 @@
                                     </div>
                                 </td>
                                 <td>
-                                    Disease prevention / treatment.
+                                Tree plantation.
                                 </td>
                             </tr>
                         </table>
@@ -153,142 +288,7 @@
                                     </div>
                                 </td>
                                 <td>
-                                    Low cost nitrition for children/ pregnant women/ lactating mother
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Meternal/ child health.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Program on Juvenile Justice.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Basic / Adult education.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Water and sanitation.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Community development in economical aspects.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Environmental pollution control and Agricultural development.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Tribal community development.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Tree plantation.
-                                </td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li>
-                        <table class="events-list">
-                            <tr>
-                                <td style="width:10%">
-                                    <div class="event-date">
-                                        <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
-                                    </div>
-                                </td>
-                                <td>
-                                    Distribution Book /cloth / food /stationery essential items to poor people.
+                                Distribution Book /cloth / food /stationery essential items to poor people.
                                 </td>
                             </tr>
                         </table>
@@ -352,7 +352,7 @@
                             West Bengal Societies Registration Act, 1961.</h3>
                         <a id="btn-text" class="btn btn-primary text-uppercase" href=about.php>Read more</a>
                     </div>
-                    <div id="text2"><img src="./images/aboutposter.jpeg" alt=""></div>
+                    <div id="text2"><img src="./images/aboutposter.jpeg" alt="..."></div>
                 </div>
             </div>
 
@@ -367,7 +367,7 @@
                 <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
             </div>
             <div class="row">
-                <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 2-->
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModa41">
@@ -383,10 +383,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-4 col-sm-6 mb-4">
                     <!-- Portfolio item 2-->
                     <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModa40">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal40">
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content">Learn more</div>
                             </div>
@@ -395,6 +395,7 @@
                         <div class="portfolio-caption">
                             <!-- <div class="portfolio-caption-heading">Explore</div> -->
                             <div class="portfolio-caption-subheading text-muted">Respondent analysis program</div>
+                            <p>6th August 2022</p>
                         </div>
                     </div>
                 </div>
@@ -459,22 +460,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4 col-sm-6">
-                     Portfolio item 6-->
-                <!-- <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">Learn more</div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
-                        </a>
-                        <div class="portfolio-caption"> -->
-                <!-- <div class="portfolio-caption-heading">Window</div> -->
-                <!-- <div class="portfolio-caption-subheading text-muted">MSME Development Programme</div>
-                        </div>
-                    </div>
-                </div>-->
-            </div>
+            </div> 
             <div class="middle">
                 <a id="btn-text" class="btn btn-primary text-uppercase" href=events.php>view more</a>
             </div>
@@ -502,7 +488,7 @@
         </div>
     </div> -->
     <!-- Contact-->
-    <section class="page-section" id="contact">
+    <section class="page-section" id="contact" name="contact">
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">Contact Us</h2>
@@ -561,7 +547,7 @@
                             <b>Mobile:&nbsp;</b>9903194479
                             <br>
                             <br>
-                            <b>Email:&nbsp;</b>bananiraychowdhury683@gmail.com
+                            <b>Email:&nbsp;</b>info@bbswo.org.in
                         </div>
                         <div class="card1">
                             <iframe
@@ -672,8 +658,7 @@
                 <li class="faq-card__item">
                     <button class="faq-card__button faq-card__button_active">Will I get reports about the progress?<i
                             class="faq-card__icon fa fa-caret-down" aria-hidden="true"></i></button>
-                    <p class="faq-card__desc">You will get monthly/ bimonthly cases of change from the field of
-                        community work as well as annual report published in the website.<br></p>
+                    <p class="faq-card__desc">You will get monthly/ bimonthly cases of change from the field of community work as well as annual report published in the website.<br></p>
                 </li>
             </ul>
         </div>
@@ -692,7 +677,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Book Distribution to Needy Children</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_133757.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
@@ -721,64 +706,27 @@
                 </div>
             </div>
         </div>
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
-                            alt="Close modal" /></div>
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="modal-body">
-                                    <!-- Project details-->
-                                    <h2 class="text-uppercase">Respondent analysis program</h2>
-                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
-                                    <img class="img-fluid d-block mx-auto"
-                                        src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
-                                    <p>Respondent analysis program in a Slum area,Shibpur, Howrah, Baranagar,
-                                        Kolkata-700036.</p>
-                                    <!-- <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Explore
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
-                                        </li>
-                                    </ul> -->
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
-                                        type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!-- Portfolio item 2 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
-                            alt="Close modal" /></div>
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="modal-body">
-                                    <!-- Project details-->
-                                    <h2 class="text-uppercase">Health Checkup Camp</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+        <div class="portfolio-modal modal fade" id="portfolioModa41" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                        alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Medical Camp</h2>
+                                <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
+                                <img class="img-fluid d-block mx-auto"
+                                    src="./images/camp1.jpeg" alt="..." />
                                     <img class="img-fluid d-block mx-auto"
-                                        src="assets/img/portfolio/IMG_20220711_133818.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
-                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <!-- <ul class="list-inline">
+                                    src="./images/camp2.jpeg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto"
+                                    src="./images/camp3.jpeg" alt="..." />
+                                <p>In the auspicious day of 76th Independence day of our Motherland India, today, 15th August 2022, an one-day Medical camp was organized by our organization, Baranagar Baghajatin Social Welfare Organisation, at Baranagar Baghjatin Colony (Kundu Bagan). It was successful event with 52 beneficiaries. BMI-Index, Blood pressure, Random Blood sugar and ECG checkup were done in this camp. Doctors from renowned Belleview Nursing home, Kolkata and Scientists from ICMR Kolkata came in this camp. Our collaborator was Rotary club Calcutta Sutanuti, Clini Med carelab and Bengal Institute of Technology,  Kolkata. Media coverage from a television Chanel was also performed in our today's One day Free Medical camp. The people in Baranagar kundubagan Baghajatin community (slum area) were very happy to get such medical facilities today from us.</p>
+                                <!-- <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
                                             Explore
@@ -788,18 +736,18 @@
                                             Graphic Design
                                         </li>
                                     </ul> -->
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
-                                        type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
-                                </div>
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                    type="button">
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
         <!-- Portfolio item 8 modal popup-->
         <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
@@ -812,7 +760,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Computer Training Programme</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_134133.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
@@ -853,7 +801,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Children Education Programme</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto"
                                         src="assets/img/portfolio/IMG_20220711_133950.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
@@ -882,6 +830,45 @@
                 </div>
             </div>
         </div>
+        <div class="portfolio-modal modal fade" id="portfolioModal40" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
+                        alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Respondent analysis program</h2>
+                                <!-- <p class="item-intro text-muted">Shibpur, Howrah.</p> -->
+                                <img class="img-fluid d-block mx-auto"
+                                    src="./images/resp1.jpeg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto"
+                                    src="./images/resp2.jpeg" alt="..." />
+                                <p>Respondent analysis program in a Slum area,Shibpur, Howrah, Baranagar, Kolkata-700036.</p>
+                                <!-- <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Explore
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Graphic Design
+                                        </li>
+                                    </ul> -->
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
+                                    type="button">
+                                    <i class="fas fa-xmark me-1"></i>
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- Portfolio item 5 modal popup-->
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
@@ -923,50 +910,7 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 6 modal popup-->
-        <!-- <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg"
-                            alt="Close modal" /></div>
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="modal-body">
-                                    Project details-->
-        <!-- <h2 class="text-uppercase">MSME Development Programme</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto"
-                                        src="assets/img/portfolio/IMG_20220711_134048.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos
-                                        deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                        maiores repudiandae, nostrum, reiciendis facere nemo!</p> -->
-        <!-- <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Window
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Photography
-                                        </li>
-                                    </ul> -->
-        <!-- <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
-                                        type="button">
-                                        <i class="fas fa-xmark me-1"></i>
-                                        Close
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        =======
 
-        >>>>>>> 1436727a8462e8bcfe7ebeecf8e0aaa0c2e1bca8
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

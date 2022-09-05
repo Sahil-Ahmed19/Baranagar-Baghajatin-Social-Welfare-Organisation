@@ -1,8 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
         <a class="navbar-brand" href="#page-top"><img src="images\logo.jpeg" alt="..." /></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars ms-1"></i>
         </button>
@@ -17,7 +16,7 @@
                 <li class="nav-item"><a class="nav-link" href="index.php#contact">Contact</a></li>
                 <!-- <li class="nav-item"><a href=donate.php><div class="text-center"><button class="btn1 btn-primary text-uppercase " >Donate</button>
                         </div></a> </li> -->
-                <a id="donatebutton" href="https://rzp.io/l/02hkEOU6G" class="donate">DONATE</a>
+                <a id="donatebutton" href="https://rzp.io/l/bbswo-donation" class="donate">DONATE</a>
             </ul>
         </div>
     </div>

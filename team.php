@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>BBSWO-Baranagar Baghajatin Social Welfare Organisation</title>
+    <title>Baranagar Baghajation Social Welfare Organisation(BBSWO)-Team</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 
@@ -47,7 +47,7 @@
         <ul>
             <li><a href="https://www.facebook.com/bbswo">Facebook <img id="pal" src="./images/download (7).jfif"
                         alt=""></a></li>
-            <li><a href="https://rzp.io/l/02hkEOU6G">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
+            <li><a href="https://rzp.io/l/bbswo-donation">Donate<img id="pal" src="./images/10.png" alt=""></a></li>
             <!-- <li><a href="follow.php">Follow<img id="pal" src="./images/follow.png" alt=""></a></li> -->
 
         </ul>
@@ -78,7 +78,7 @@
                     </div>
                     <br>
                     <div>
-                        <a id="btn-text" class="btn btn-primary text-uppercase" href="https://rzp.io/l/jHhYTgRI">Be A
+                        <a id="btn-text" class="btn btn-primary text-uppercase" href="https://rzp.io/l/bbswo-member">Be A
                             Member</a>
                     </div>
                     <br>
@@ -138,7 +138,7 @@
 
                         <div class="product" data-name="p-4">
                             <img class="mx-auto rounded-circle" src="./images/MAU SANTRA.png" alt="..." />
-                            <h3>Mrs. Mua Santra</h3>
+                            <h3>Mrs. Mau Santra</h3>
                             <div class="price">Assistant Secretary, Legal Advisor</div>
                         </div>
 
@@ -280,7 +280,7 @@
                         </div>
                         <div class="product" data-name="p-22">
                             <img class="mx-auto rounded-circle" src="./images/shreyan.jpeg" alt="..." />
-                            <h3>Mr. Shreyan Barman</h3>
+                            <h3>Mr. Shreyan Bardhan</h3>
 
                         </div>
                         <div class="product" data-name="p-23">
@@ -290,7 +290,7 @@
                         </div>
                         <div class="product" data-name="p-24">
                             <img class="mx-auto rounded-circle" src="./images/avijit.jpeg" alt="..." />
-                            <h3>Mr. Avijit Das</h3>
+                            <h3>Mr. Avijit Chakraborty</h3>
 
                         </div>
                         <div class="product" data-name="p-25">
@@ -591,7 +591,7 @@
                     <div class="preview" data-target="p-22">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
                         <img class="mx-auto rounded-circle" src="./images/shreyan.jpeg" alt="..." />
-                        <h3>Mr. Shreyan Barman</h3>
+                        <h3>Mr. Shreyan Bardhan</h3>
                     </div>
                     <div class="preview" data-target="p-23">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
@@ -601,7 +601,7 @@
                     <div class="preview" data-target="p-24">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>
                         <img class="mx-auto rounded-circle" src="./images/avijit.jpeg" alt="..." />
-                        <h3>Mr. Avijit Das</h3>
+                        <h3>Mr. Avijit Chakraborty</h3>
                     </div>
                     <div class="preview" data-target="p-25">
                         <a href="team.php"><i class="fa-solid fa-circle-xmark"></i></a>

@@ -11,17 +11,17 @@ require 'PHPMailer/SMTP.php';
 $mail = new PHPMailer(true);
 
     //Server settings
-    $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    // $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.hostinger.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'Give email';                     //SMTP username
-    $mail->Password   = 'your password';                               //SMTP password
+    $mail->Username   = 'info@bbswo.org.in';                     //SMTP username
+    $mail->Password   = 'Bengal@100';                               //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
     $mail->setFrom($email, $name);
-    $mail->addAddress('give email', 'BBSWO');     //Add a recipient
+    $mail->addAddress('info@bbswo.org.in', 'BBSWO');     //Add a recipient
     $mail->addReplyTo($email);
 
 
@@ -36,16 +36,16 @@ $mail = new PHPMailer(true);
 if($mail->send()) {
    $autoRespond = new PHPMailer();
 
-   $autoRespond->isSMTP();
-   $autoRespond->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+//   $autoRespond->isSMTP();
+   $autoRespond->Host       = 'smtp.hostinger.com';                     //Set the SMTP server to send through
    $autoRespond->SMTPAuth   = true;                                   //Enable SMTP authentication
-   $autoRespond->Username   = 'give email';                     //SMTP username
-   $autoRespond->Password   = 'password';                               //SMTP password
+   $autoRespond->Username   = 'info@bbswo.org.in';                     //SMTP username
+   $autoRespond->Password   = 'Bengal@100';                               //SMTP password
    $autoRespond->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
    $autoRespond->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
 
-   $autoRespond->setFrom('give email', 'BBSWO');
+   $autoRespond->setFrom('info@bbswo.org.in', 'BBSWO');
    $autoRespond->addAddress($email);
    $autoRespond->Subject = "BBSWO: Thank You for enquiry"; 
    $autoRespond->Body = "We have received your enquiry. We will contact you soon regarding the same.";
