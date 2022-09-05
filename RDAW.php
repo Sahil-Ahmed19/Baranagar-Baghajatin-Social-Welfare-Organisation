@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Baranagar Baghajation Social Welfare Organisation(BBSWO)-Newsletter</title>
+    <title>Baranagar Baghajation Social Welfare Organisation(BBSWO)-RDAW</title>
     <!-- Favicon-->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -51,6 +51,7 @@
     <!-- About-->
     <section class="page-section" id="reports">
         <div class="container">
+
             <div id="text" class=" text-center">
                 <h2 class="section-heading text-uppercase">Ongoing Research</h2>
                 <div id="research" class="rdaw">
