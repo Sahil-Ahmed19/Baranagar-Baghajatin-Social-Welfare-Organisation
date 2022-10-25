@@ -85,7 +85,7 @@
                                 <td style="width:10%">
                                     <div class="event-date">
                                         <div class="event-day">8</div>
-                                        <div class="event-month">Sep</div>
+                                        <div class="event-month">Sep 22</div>
                                     </div>
                                 </td>
                                 <td>
@@ -101,7 +101,7 @@
                                 <td style="width:10%">
                                     <div class="event-date">
                                         <div class="event-day">15</div>
-                                        <div class="event-month">Aug</div>
+                                        <div class="event-month">Aug 22</div>
                                     </div>
                                 </td>
                                 <td>
@@ -121,8 +121,8 @@
                                     </div>
                                 </td>
                                 <td>
-                                Women Empowerment.&nbsp&nbsp
-                                <!-- <span class="blink">New</span> -->
+                                Fundraising through medical shops.&nbsp&nbsp
+                                <span class="blink">New</span>
                                 </td>
                             </tr>
                         </table>
@@ -137,8 +137,8 @@
                                     </div>
                                 </td>
                                 <td>
-                                Meditation camp for peace / conflict resolution.&nbsp&nbsp
-                                <!-- <span class="blink">New</span> -->
+                                Survey in Baranagar Kutighat slum area.&nbsp&nbsp
+                                <span class="blink">New</span>
                                 </td>
                             </tr>
                         </table>
@@ -153,7 +153,8 @@
                                     </div>
                                 </td>
                                 <td>
-                                Disease prevention / treatment.
+                                Setup of working office of BBSwO at Howrah(near Nabanna) for distribution of books, pens, food among slum area children.&nbsp&nbsp
+                                <span class="blink">New</span>
                                 </td>
                             </tr>
                         </table>
@@ -163,12 +164,13 @@
                             <tr>
                                 <td style="width:10%">
                                     <div class="event-date">
-                                    <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
+                                    <div class="event-day">25</div>
+                                        <div class="event-month">Dec 22</div>
                                     </div>
                                 </td>
                                 <td>
-                                Low cost nitrition for children/ pregnant women/ lactating mother
+                                Health checkup programme in Howrah Chatterjeehat slum area.&nbsp&nbsp
+                                <span class="blink">New</span>
                                 </td>
                             </tr>
                         </table>
@@ -178,12 +180,13 @@
                             <tr>
                                 <td style="width:10%">
                                     <div class="event-date">
-                                    <div class="event-day">..</div>
-                                        <div class="event-month">..</div>
+                                    <div class="event-day">1st</div>
+                                        <div class="event-month">Jan 23</div>
                                     </div>
                                 </td>
                                 <td>
-                                Meternal/ child health.
+                                Health checkup programme in Baranagar Kutighat slum area.&nbsp&nbsp
+                                <span class="blink">New</span>
                                 </td>
                             </tr>
                         </table>
