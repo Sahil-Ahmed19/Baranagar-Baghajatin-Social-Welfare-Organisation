@@ -53,7 +53,7 @@
         <div class="container">
 
             <div id="text" class=" text-center">
-                <h2 class="section-heading text-uppercase">Ongoing Research</h2>
+                <h1 class="section-heading text-uppercase">Ongoing Research</h1>
                 <div id="research" class="rdaw">
                     <img id="research-img" src="assets\img\portfolio\Picsart_22-09-03_14-35-11-729.jpg" alt=""
                         srcset="">
@@ -81,16 +81,14 @@
         <div class="container">
 
             <div id="text" class=" text-center">
-                <h2 class="section-heading text-uppercase">Publications</h2>
+                <h1 class="section-heading text-uppercase">Publications</h1>
                 <div id="research" class="rdaw">
                     <img id="research-img" src="assets\img\portfolio\Paper1.jpg" alt="..."
                     onClick="openTab(this)" href="#" name="assets/pdfs/Paper1.pdf" srcset="">
                     <p>As an awareness of pandemic situation of covid-19, RDAW Section of our organisation BBSWO has initiated to review the worldwide scenario of plastic usage in pandemic situation of Covid-19.
                        As a result, the publication as a Review article has been published in the reputed journal of Hindawi publication, named Journal of Environmental and Public Health, Volume 2022, Article ID 1066350. The link is shared below:
 
-                        It's our pleasure to inform that the first scientific article has been published from our Research & Development Action Wing, BBSWO. The article has been published by an international journal Journal of Environmental and Public Health. It's was joint effort of University of Toronto, IIT Madras, VIT Vellore, Ambo University and HUST Wuhan, moreover BBSWO has been worked with on international level in collaboration with Canada, Ethiopia and China. Please visit the link to see the achievement of our BBSWO given below:
-                            <br>
-                            <a href="https://www.hindawi.com/journals/jeph/2022/1066350/" target="_blank">https://www.hindawi.com/journals/jeph/2022/1066350/</a></p>
+                        It's our pleasure to inform that the first scientific article has been published from our Research & Development Action Wing, BBSWO. The article has been published by an international journal Journal of Environmental and Public Health. It's was joint effort of University of Toronto, IIT Madras, VIT Vellore, Ambo University and HUST Wuhan, moreover BBSWO has been worked with on international level in collaboration with Canada, Ethiopia and China.</p>
                 </div>
 
             </div>
